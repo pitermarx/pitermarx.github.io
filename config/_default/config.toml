@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
-baseURL = "https://pitemarx.github.io/"
+baseURL = "https://pitermarx.github.io/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
@@ -11,3 +11,6 @@ summaryLength = 50
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[permalinks]
+  posts = '/:year/:month/:title/'
