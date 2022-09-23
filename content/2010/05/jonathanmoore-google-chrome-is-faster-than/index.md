@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube \_oarMXGq3gI>}}</div>
+<div style="width: 70vw;">{{< youtube _oarMXGq3gI>}}</div>
 
 [jonathanmoore](http://jonathanmoore.com/post/576875270/google-chrome-is-faster-than-projectile-potatoes):
 

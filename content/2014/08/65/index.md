@@ -6,4 +6,4 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube PtWkt\_IlOIs>}}</div>
+<div style="width: 70vw;">{{< youtube PtWkt_IlOIs>}}</div>

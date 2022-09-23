@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube \_\_X54d84NdQ>}}</div>
+<div style="width: 70vw;">{{< youtube __X54d84NdQ>}}</div>
 
 1946!!

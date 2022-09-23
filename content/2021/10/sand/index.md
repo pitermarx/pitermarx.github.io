@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube \_prUionT-7E>}}</div>
+<div style="width: 70vw;">{{< youtube _prUionT-7E>}}</div>
 
 Who knew that arabs were buying sand....

@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube Jv4A6\_EPo9o>}}</div>
+<div style="width: 70vw;">{{< youtube Jv4A6_EPo9o>}}</div>
 
 We sailed away on a winter's day
 With fate as malleable as clay

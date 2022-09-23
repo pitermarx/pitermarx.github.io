@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube K7z1XC\_BgTM>}}</div>
+<div style="width: 70vw;">{{< youtube K7z1XC_BgTM>}}</div>
 
 I have this record. It’s AWESOME

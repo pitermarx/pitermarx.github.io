@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube EZcALsjl\_AY>}}</div>
+<div style="width: 70vw;">{{< youtube EZcALsjl_AY>}}</div>
 
 To listen loudly

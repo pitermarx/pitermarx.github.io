@@ -6,4 +6,4 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube Fe\_HURAI-VQ>}}</div>
+<div style="width: 70vw;">{{< youtube Fe_HURAI-VQ>}}</div>
