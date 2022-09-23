@@ -1,0 +1,11 @@
+---
+title: "Jazz scene USA — Jimmy Smith Trio"
+date: "2009-12-22"
+categories:
+  - "music"
+  - "shares"
+---
+
+<div style="width: 70vw;">{{< youtube m7ZuoB\_4\_8E>}}</div>
+
+> Oscar Brown Jr introduces them. Pick up an album from Oscar sometime. You won’t be disappointed.

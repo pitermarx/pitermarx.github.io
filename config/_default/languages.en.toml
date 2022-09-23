@@ -1,0 +1,38 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "ριтєя мαяχ"
+logo = "img/pitermarx.jpg"
+description = "Once I was born and now I'm alive!"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "ριтєя мαяχ"
+  image = "img/pitermarx.jpg"
+  headline = "Once I was born and now I'm alive!"
+  links = [
+  #   { email = "mailto:hello@your_domain.com" },
+     { goodreads = "https://goodreads.com/pitermarx/" },
+  #   { dev = "https://dev.to/pitermarx" },
+  #   { discord = "https://discord.gg/invitecode" },
+     { flickr = "https://www.flickr.com/photos/pitermarx/" },
+     { github = "https://github.com/pitermarx" },
+  #   { gitlab = "https://gitlab.com/pitermarx" },
+  #   { instagram = "https://instagram.com/pitermarx" },
+     { keybase = "https://keybase.io/pitermarx" },
+     { lastfm = "https://lastfm.com/user/PedroMarques" },
+     { linkedin = "https://linkedin.com/in/pitermarx" },
+     { mastodon = "https://toot.cafe/@pitermarx" },
+  #   { slack = "https://workspace.url/team/userid" },
+     { soundcloud = "https://soundcloud.com/pitermarx" },
+     { stack-overflow = "https://stackoverflow.com/users/2633434/pitermarx" },
+  #   { telegram = "https://t.me/pitermarx" },
+     { twitter = "https://twitter.com/pitermarx" }
+  #   { whatsapp = "https://wa.me/phone-number" },
+  #   { youtube = "https://youtube.com/pitermarx" },
+  ]
