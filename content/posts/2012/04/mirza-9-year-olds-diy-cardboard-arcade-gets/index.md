@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-https://vimeo.com/40000072
+{{< vimeo 40000072 >}}
 
 [mirza](http://www.ziked.com/post/20904008098/9-year-olds-diy-cardboard-arcade-gets-flashmobbed):
 
