@@ -1,0 +1,17 @@
+<script>
+  document.addEventListener("DOMContentLoaded", function attachRandomLink () {
+    let rnd = [...document.querySelectorAll("nav li > a")].filter(a => a.innerText == "Random")[0]
+    rnd.addEventListener("click", function sendToRandomArticle(e) {
+      e.preventDefault();
+      fetch(window.location.origin + '/index.json')
+        .then(r => r.json())
+        .then(function redirectAtRandom(data) {
+          let randIndex = Math.floor(Math.random() * data.length);
+          let randArticle = data[randIndex]['permalink'] + '?utm_source=RandomButton';
+          window.location.href = randArticle;
+        })
+        .catch(err => console.log(err));
+    })
+
+  });
+</script>

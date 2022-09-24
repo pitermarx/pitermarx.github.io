@@ -19,9 +19,9 @@ enableCodeCopy = true
   layout = "basic" # valid options: basic, hamburger, custom
 
 [footer]
-  showCopyright = true
+  showCopyright = false
   showThemeAttribution = true
-  showAppearanceSwitcher = false
+  showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
