@@ -17,6 +17,9 @@
 </script>
 <script src="https://getinsights.io/js/insights.js"></script>
 <script>
-insights.init('qv5R8zukglcxKmui');
-insights.trackPages();
+  let id = '{{ os.Getenv "HUGO_INSIGHTS" }}';
+  if (id) {
+    insights.init(id);
+    insights.trackPages();
+  }
 </script>
