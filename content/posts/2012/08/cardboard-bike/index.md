@@ -1,9 +1,9 @@
 ---
 title: "Cardboard bike"
 date: "2012-08-14"
-categories: 
+categories:
   - "shares"
   - "videos"
 ---
 
-https://vimeo.com/37584656
+{{< vimeo 37584656 >}}

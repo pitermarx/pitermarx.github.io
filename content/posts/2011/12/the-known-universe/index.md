@@ -1,9 +1,9 @@
 ---
 title: "The Known Universe"
 date: "2011-12-26"
-categories: 
+categories:
   - "shares"
   - "videos"
 ---
 
-https://vimeo.com/19568852
+{{< vimeo 19568852 >}}

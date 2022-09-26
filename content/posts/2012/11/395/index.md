@@ -1,9 +1,9 @@
 ---
 title: "Cayce Zavaglia | Portrait and Process"
 date: "2012-11-05"
-categories: 
+categories:
   - "shares"
   - "videos"
 ---
 
-https://vimeo.com/51107397
+{{< vimeo 51107397 >}}

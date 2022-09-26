@@ -1,9 +1,9 @@
 ---
 title: "Cranberries"
 date: "2013-09-12"
-categories: 
+categories:
   - "shares"
   - "videos"
 ---
 
-https://vimeo.com/72925384
+{{< vimeo 72925384 >}}

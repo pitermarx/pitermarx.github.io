@@ -1,11 +1,11 @@
 ---
 title: "Candela Speed Boats"
 date: "2020-09-11"
-categories: 
+categories:
   - "shares"
   - "videos"
 ---
 
-https://vimeo.com/385988785
+{{< vimeo 385988785 >}}
 
 [https://candelaspeedboat.com/](https://candelaspeedboat.com/)

@@ -1,12 +1,12 @@
 ---
 title: "Colosseo Letterpress Poster"
 date: "2010-04-04"
-categories: 
+categories:
   - "shares"
   - "videos"
 ---
 
-https://vimeo.com/9971247
+{{< vimeo 9971247 >}}
 
 [jonathanmoore](http://jonathanmoore.com/post/450247097/colosseo-letterpress-poster):
 

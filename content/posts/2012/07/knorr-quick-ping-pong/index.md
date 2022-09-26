@@ -1,9 +1,9 @@
 ---
 title: "Knorr Quick - Ping Pong"
 date: "2012-07-19"
-categories: 
+categories:
   - "shares"
   - "videos"
 ---
 
-https://vimeo.com/43915899
+{{< vimeo 43915899 >}}

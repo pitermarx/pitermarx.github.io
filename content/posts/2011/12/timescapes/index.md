@@ -1,11 +1,11 @@
 ---
 title: "TimeScapes"
 date: "2011-12-16"
-categories: 
+categories:
   - "shares"
   - "videos"
 ---
 
-https://vimeo.com/33110953
+{{< vimeo 33110953 >}}
 
 [TimeScapes](http://timescapes.org/)

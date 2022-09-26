@@ -1,12 +1,12 @@
 ---
 title: "No Handed Bike Moves"
 date: "2012-03-28"
-categories: 
+categories:
   - "shares"
   - "videos"
 ---
 
-https://vimeo.com/29106106
+{{< vimeo 29106106 >}}
 
 [jonathanmoore](http://jonathanmoore.com/post/19955923245/no-handed-bike-moves):
 

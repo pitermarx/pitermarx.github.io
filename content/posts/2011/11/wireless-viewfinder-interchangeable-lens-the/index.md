@@ -1,17 +1,17 @@
 ---
 title: "WVIL camera"
 date: "2011-11-06"
-categories: 
+categories:
   - "links"
   - "shares"
   - "videos"
 ---
 
-https://vimeo.com/22134219
+{{< vimeo 22134219 >}}
 
-Wireless  
-Viewfinder  
-Interchangeable  
+Wireless
+Viewfinder
+Interchangeable
 Lens
 
 The WVIL camera is a concept camera envisioned by Artefact’s award-winning design team. It answers the question: “what’s next for camera design?”

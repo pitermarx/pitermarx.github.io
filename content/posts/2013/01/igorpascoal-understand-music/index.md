@@ -1,12 +1,12 @@
 ---
 title: "Understand Music"
 date: "2013-01-12"
-categories: 
+categories:
   - "shares"
   - "videos"
 ---
 
-https://vimeo.com/54763818
+{{< vimeo 54763818 >}}
 
 [igorpascoal](http://igorpascoal.tumblr.com/post/39476437057):
 

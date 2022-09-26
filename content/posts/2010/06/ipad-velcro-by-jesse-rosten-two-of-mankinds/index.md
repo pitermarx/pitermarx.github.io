@@ -1,12 +1,12 @@
 ---
 title: "iPad + Velcro"
 date: "2010-06-11"
-categories: 
+categories:
   - "shares"
   - "videos"
 ---
 
-https://vimeo.com/11886557
+{{< vimeo 11886557 >}}
 
 [iPad + Velcro](http://vimeo.com/11886557) by [Jesse Rosten](http://vimeo.com/user478713)
 

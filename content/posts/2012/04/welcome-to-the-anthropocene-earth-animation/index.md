@@ -1,9 +1,9 @@
 ---
 title: "Welcome to the Anthropocene"
 date: "2012-04-30"
-categories: 
+categories:
   - "shares"
   - "videos"
 ---
 
-https://vimeo.com/40940686
+{{< vimeo 40940686 >}}

@@ -1,9 +1,9 @@
 ---
 title: "HDR Video Demonstration Using Two Canon 5D mark II’s"
 date: "2010-09-10"
-categories: 
+categories:
   - "shares"
   - "videos"
 ---
 
-https://vimeo.com/14821961
+{{< vimeo 14821961 >}}

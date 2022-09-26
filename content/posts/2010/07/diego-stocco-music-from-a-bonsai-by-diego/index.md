@@ -1,9 +1,9 @@
 ---
 title: "Diego Stocco - Music From A Bonsai"
 date: "2010-07-08"
-categories: 
+categories:
   - "shares"
   - "videos"
 ---
 
-https://vimeo.com/10198497
+{{< vimeo 10198497 >}}

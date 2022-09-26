@@ -1,9 +1,9 @@
 ---
 title: "ZeroN - Levitated Interaction Element"
 date: "2012-05-18"
-categories: 
+categories:
   - "shares"
   - "videos"
 ---
 
-https://vimeo.com/41796732
+{{< vimeo 41796732 >}}

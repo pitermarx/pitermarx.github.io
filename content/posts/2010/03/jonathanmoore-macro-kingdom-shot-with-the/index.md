@@ -1,12 +1,12 @@
 ---
 title: "Macro Kingdom"
 date: "2010-03-09"
-categories: 
+categories:
   - "shares"
   - "videos"
 ---
 
-https://vimeo.com/9152451
+{{< vimeo 9152451 >}}
 
 [jonathanmoore](http://jonathanmoore.com/post/370297487/macro-kingdom):
 

@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-https://vimeo.com/4411716
+{{< vimeo 4411716 >}}
 
 (by [Tiago Pereira](http://vimeo.com/4411716))
 

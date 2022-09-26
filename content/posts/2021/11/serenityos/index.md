@@ -1,13 +1,13 @@
 ---
 title: "SerenityOS"
 date: "2021-11-20"
-categories: 
+categories:
   - "shares"
   - "videos"
-tags: 
+tags:
   - "dev"
 ---
 
-https://vimeo.com/641406697
+{{< vimeo 641406697 >}}
 
 [https://serenityos.org/](https://serenityos.org/)
