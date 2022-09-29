@@ -1,0 +1,7 @@
+<h2 class="mt-8 text-2xl font-extrabold">Recent Originals</h2>
+{{ .Scratch.Set "links-cat" "original" }}
+{{ partial "article-links.html" . }}
+
+<h2 class="mt-8 text-2xl font-extrabold">Recent Shares</h2>
+{{ .Scratch.Set "links-cat" "shares" }}
+{{ partial "article-links.html" . }}

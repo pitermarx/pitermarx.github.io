@@ -35,7 +35,7 @@ enableCodeCopy = true
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = true
-  editURL = "https://github.com/pitermarx/pitermarx.github.io//tree/master/content/"
+  editURL = "https://github.com/pitermarx/pitermarx.github.io/tree/master/content/"
   editAppendPath = true
   showHeadingAnchors = true
   showPagination = true
@@ -49,7 +49,7 @@ enableCodeCopy = true
 
 [list]
   showBreadcrumbs = true
-  showSummary = true
+  showSummary = false
   showTableOfContents = true
   groupByYear = true
 
