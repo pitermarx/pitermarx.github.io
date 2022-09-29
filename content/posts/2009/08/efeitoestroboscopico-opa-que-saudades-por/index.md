@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube E7eOVpBCtPo>}}</div>
+{{< youtube E7eOVpBCtPo >}}
 
 [efeitoestroboscopico](http://efeitoestroboscopico.tumblr.com/post/154431060/op-que-saudades-por-favor-devolvam-me-o-meu):
 

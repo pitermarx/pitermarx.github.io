@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube z5nBd3aYoiI>}}</div>
+{{< youtube z5nBd3aYoiI >}}
 
 Hamilton e Yamandu comentam o primeiro encontro dos dois no palco e interpretam “Adios Nonino”, de Astor Piazzolla.
 

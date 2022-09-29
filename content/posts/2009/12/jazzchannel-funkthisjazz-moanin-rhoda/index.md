@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube oIB2ywz3S9o>}}</div>
+{{< youtube oIB2ywz3S9o >}}
 
 [jazzchannel](http://jazzchannel.tumblr.com/post/260918584/funkthisjazz-moanin-rhoda-scott-1972-via):[funkthisjazz](http://funkthisjazz.tumblr.com/post/260850649/moanin-rhoda-scott-1972-via-tehtube-rhoda):
 

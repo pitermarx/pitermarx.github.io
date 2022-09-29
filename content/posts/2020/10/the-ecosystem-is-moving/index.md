@@ -8,6 +8,6 @@ tags:
   - "dev"
 ---
 
-<div style="width: 70vw;">{{< youtube Nj3YFprqAr8>}}</div>
+{{< youtube Nj3YFprqAr8 >}}
 
 Some interesting comments about privacy, security and decentralization from the [Signal](https://www.signal.org/)'s creator

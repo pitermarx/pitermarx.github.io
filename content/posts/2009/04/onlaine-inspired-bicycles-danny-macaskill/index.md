@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube Z19zFlPah-o>}}</div>
+{{< youtube Z19zFlPah-o >}}
 
 seriously cool!

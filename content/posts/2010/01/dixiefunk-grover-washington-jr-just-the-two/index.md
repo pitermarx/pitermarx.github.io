@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube EapcVSB7U4U>}}</div>
+{{< youtube EapcVSB7U4U >}}
 
 [dixiefunk](http://dixiefunk.tumblr.com/post/332147832/grover-washington-jr-just-the-two-of-us-via):
 

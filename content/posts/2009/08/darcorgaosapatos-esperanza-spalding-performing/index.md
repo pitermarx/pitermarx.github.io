@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube CZ2o5CWCOgk>}}</div>
+{{< youtube CZ2o5CWCOgk >}}
 
 [darcorgaosapatos](http://darcorgaosapatos.tumblr.com/post/138711487/esperanza-spalding-performing-stevie-wonders):
 

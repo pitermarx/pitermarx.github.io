@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube y34I-NfHkVg>}}</div>
+{{< youtube y34I-NfHkVg >}}
 
 Have I told you yet that I love Oscar Peterson?

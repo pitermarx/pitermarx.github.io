@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube MbwTwpMYYl0>}}</div>
+{{< youtube MbwTwpMYYl0 >}}
 
 do álbum SEM AÇÚCAR, de 1980 - letra de Lena dAgua, música de José da Ponte
 

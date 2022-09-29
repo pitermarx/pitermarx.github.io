@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube hxsJvKYyVyg>}}</div>
+{{< youtube hxsJvKYyVyg >}}
 
 [The Cranberries: Tiny Desk Concert : NPR](http://www.npr.org/event/music/147191308/the-cranberries-tiny-desk-concert)

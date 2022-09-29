@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube D7m6z5w77Rs>}}</div>
+{{< youtube D7m6z5w77Rs >}}
 
 [hiphopchannel](http://hiphopchannel.tumblr.com/post/291174707/smile-louis-armstrong-apple-juice-kid-remix):
 

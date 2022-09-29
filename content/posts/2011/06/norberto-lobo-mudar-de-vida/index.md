@@ -6,4 +6,4 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube VCO6LN5W1eo>}}</div>
+{{< youtube VCO6LN5W1eo >}}

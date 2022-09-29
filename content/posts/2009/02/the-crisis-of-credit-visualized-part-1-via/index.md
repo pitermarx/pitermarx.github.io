@@ -8,8 +8,8 @@ categories:
 
  Part 1
 
-<div style="width: 70vw;">{{< youtube Q0zEXdDO5JU>}}</div>
+{{< youtube Q0zEXdDO5JU >}}
 
 Part 2
 
-<div style="width: 70vw;">{{< youtube iYhDkZjKBEw>}}</div>
+{{< youtube iYhDkZjKBEw >}}

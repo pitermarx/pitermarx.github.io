@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube BTryvPwaKqU>}}</div>
+{{< youtube BTryvPwaKqU >}}
 
 [jonathanmoore](http://jonathanmoore.com/post/4535770773/valsa-das-maquinas-machine-waltz):
 

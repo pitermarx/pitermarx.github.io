@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube ulBFlilx2-s>}}</div>
+{{< youtube ulBFlilx2-s >}}
 
 [somethings2keep](http://somethings2keep.tumblr.com/post/18484189414/senary-system-if-only-by-musicfrommaas)

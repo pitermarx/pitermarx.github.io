@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube uoS71sBKESI>}}</div>
+{{< youtube uoS71sBKESI >}}
 
 [Marc Newson Urban Spaceman 2/5](http://www.youtube.com/watch?v=ATbMLvDIvL8)
 [Marc Newson Urban Spaceman 3/5](http://www.youtube.com/watch?v=58lDkClMgNg)

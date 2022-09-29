@@ -114,6 +114,6 @@ If this Jesus of Nazareth is really who he said he was, the angel's chorus was r
 >
 > [Luke 2:14](https://www.biblegateway.com/passage/?search=Luke+2%3A14&version=KJ21)
 
-<div style="width: 70vw;">{{< youtube t6OsCKTdBQk>}}</div>
+{{< youtube t6OsCKTdBQk >}}
 
 Merry Christmas!

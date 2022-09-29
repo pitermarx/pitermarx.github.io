@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube gcIIkrBLUmg>}}</div>
+{{< youtube gcIIkrBLUmg >}}
 
 [jazzchannel](http://jazzchannel.tumblr.com/post/275173387/michael-brecker-delta-city-blues-1998-via)

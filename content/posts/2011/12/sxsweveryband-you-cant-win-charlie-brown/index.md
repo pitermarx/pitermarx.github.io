@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube yB-5Nrx992M>}}</div>
+{{< youtube yB-5Nrx992M >}}
 
 [sxsweveryband](http://operationeveryband.com/post/13696340206):
 

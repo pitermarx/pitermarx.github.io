@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube dyIFohEjkyM>}}</div>
+{{< youtube dyIFohEjkyM >}}
 
 via [nunosoaresrocha](http://youtube.com/user/nunosoaresrocha)

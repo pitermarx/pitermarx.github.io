@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube C-dVnG8drxs>}}</div>
+{{< youtube C-dVnG8drxs >}}
 
 [jonathanmoore](http://jonathanmoore.com/post/1121944347/making-future-magic-ipad-light-painting):
 

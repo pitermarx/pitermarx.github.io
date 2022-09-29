@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube RzPZvKSdN7g>}}</div>
+{{< youtube RzPZvKSdN7g >}}
 
 [jazzchannel](http://jazzchannel.tumblr.com/post/290429509/watermelon-man-herbie-hancock-via-deerfried)

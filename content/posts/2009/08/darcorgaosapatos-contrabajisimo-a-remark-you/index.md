@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube F02mBkBoMQw>}}</div>
+{{< youtube F02mBkBoMQw >}}
 
 [darcorgaosapatos](http://darcorgaosapatos.tumblr.com/post/173805167/contrabajisimo-a-remark-you-made-zawinul):
 

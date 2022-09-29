@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube kCCXRerqaJI>}}</div>
+{{< youtube kCCXRerqaJI >}}
 
 [http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/](http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)

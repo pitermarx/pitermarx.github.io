@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube wmj-g4OQYG0>}}</div>
+{{< youtube wmj-g4OQYG0 >}}
 
 [darcorgaosapatos](http://darcorgaosapatos.tumblr.com/post/492155642/this-is-absolutely-awesome):
 

@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube 843iDd4a6Ic>}}</div>
+{{< youtube 843iDd4a6Ic >}}
 
 AWESOME!
 

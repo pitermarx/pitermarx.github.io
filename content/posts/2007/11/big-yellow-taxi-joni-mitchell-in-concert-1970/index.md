@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube ZgMEPk6fvpg>}}</div>
+{{< youtube ZgMEPk6fvpg >}}
 
 Did Joni wrote this?

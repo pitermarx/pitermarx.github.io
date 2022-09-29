@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube cqwmDNPegnM>}}</div>
+{{< youtube cqwmDNPegnM >}}
 
 Just Awesome. Do you like Herbie Hancock? Check out [this cd](http://www.vervemusicgroup.com/artist/releases/default.aspx?pid=11770&aid=2846)

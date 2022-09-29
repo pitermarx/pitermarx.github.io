@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube aV9LM4lW5bA>}}</div>
+{{< youtube aV9LM4lW5bA >}}
 
 [luthiermark](http://luthiermark.tumblr.com/post/393935104/los-simpsons-por-el-cuarteto-aranjuez-2007-via):(via [aranjuex](http://youtube.com/user/aranjuex))
 

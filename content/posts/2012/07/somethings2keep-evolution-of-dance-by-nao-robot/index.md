@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube 2laujomh0JY>}}</div>
+{{< youtube 2laujomh0JY >}}
 
 [somethings2keep](http://somethings2keep.tumblr.com/post/27689657252/evolution-of-dance-by-nao-robot-by-theamazel)

@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube 9NROegsMqNc>}}</div>
+{{< youtube 9NROegsMqNc >}}
 
 [joaocastilho](http://joaocastilho.tumblr.com/post/116397374/andi-bell-explains-the-link-method-memory): Andi Bell explains the `link method` memory technique \[2/2\]
 

@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube bNvntOn7cOk>}}</div>
+{{< youtube bNvntOn7cOk >}}
 
 [luthiermark](http://luthiermark.tumblr.com/post/335973164/russell-malone-via-guitarfestival-russell):
 

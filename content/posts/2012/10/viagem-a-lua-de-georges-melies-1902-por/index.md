@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube lZpXc2plLGo>}}</div>
+{{< youtube lZpXc2plLGo >}}
 
  (por [facadaleitemoca](http://www.youtube.com/watch?v=lZpXc2plLGo&feature=player_embedded))

@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube u7deClndzQw>}}</div>
+{{< youtube u7deClndzQw >}}
 
 [northerndelight](http://northerndelight.tumblr.com/post/144179509/kuroshio-sea-2nd-largest-aquarium-tank-in-the)

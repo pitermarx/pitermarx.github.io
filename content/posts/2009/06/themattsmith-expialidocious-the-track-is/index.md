@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube 3Za-V_lhwGg>}}</div>
+{{< youtube 3Za-V_lhwGg >}}
 
 [themattsmith](http://themattsmith.tumblr.com/post/117390550/expialidocious-the-track-is-composed-of-a-sine):
 

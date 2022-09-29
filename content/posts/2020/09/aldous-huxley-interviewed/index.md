@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube alasBxZsb40>}}</div>
+{{< youtube alasBxZsb40 >}}
 
 Have you seen [The Social Dilemma](https://www.thesocialdilemma.com/)? I wonder what he would have said about it...

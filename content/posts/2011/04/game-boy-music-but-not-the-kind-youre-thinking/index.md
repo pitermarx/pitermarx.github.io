@@ -8,4 +8,4 @@ categories:
 
 (but not the kind you’re thinking of)
 
-<div style="width: 70vw;">{{< youtube gpdYKamOjUo>}}</div>
+{{< youtube gpdYKamOjUo >}}

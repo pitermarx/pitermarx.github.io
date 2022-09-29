@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube N6EYrqIn0yI>}}</div>
+{{< youtube N6EYrqIn0yI >}}
 
 Por sugestão da ida

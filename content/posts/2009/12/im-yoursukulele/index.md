@@ -6,4 +6,4 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube ErMWX--UJZ4>}}</div>
+{{< youtube ErMWX--UJZ4 >}}

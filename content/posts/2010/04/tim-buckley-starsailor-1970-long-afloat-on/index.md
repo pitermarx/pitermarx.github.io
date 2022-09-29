@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube vMTEtDBHGY4>}}</div>
+{{< youtube vMTEtDBHGY4 >}}
 
 Long afloat on shipless oceans I did all my best to smile
 ‘Til your singing eyes and fingers drew me loving to your isle

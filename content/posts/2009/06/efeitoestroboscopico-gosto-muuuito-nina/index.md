@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube OeHTsR5Y1bc>}}</div>
+{{< youtube OeHTsR5Y1bc >}}
 
 [efeitoestroboscopico](http://efeitoestroboscopico.tumblr.com/post/126081294/gosto-muuuito):
 

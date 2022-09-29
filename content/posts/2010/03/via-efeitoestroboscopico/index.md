@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube G8nJ-KAiBeo>}}</div>
+{{< youtube G8nJ-KAiBeo >}}
 
 (via [efeitoestroboscopico](http://efeitoestroboscopico.tumblr.com/))

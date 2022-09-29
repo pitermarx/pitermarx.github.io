@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube TZEaGHogRVc>}}</div>
+{{< youtube TZEaGHogRVc >}}
 
 [tumblrone](http://tumblrone.tumblr.com/post/12967192711/guarana-and-the-homage-to-le-petit-parkour-will):
 

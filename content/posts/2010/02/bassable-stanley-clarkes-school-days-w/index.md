@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube w0YNehAz7FY>}}</div>
+{{< youtube w0YNehAz7FY >}}
 
 [bassable](http://bassable.tumblr.com/post/355316203/stanley-clarkes-school-days-w-george-duke):
 

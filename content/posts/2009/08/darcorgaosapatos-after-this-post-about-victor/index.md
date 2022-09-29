@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube Y_fUXbHqyYU>}}</div>
+{{< youtube Y_fUXbHqyYU >}}
 
 [darcorgaosapatos](http://darcorgaosapatos.tumblr.com/post/135026792/after-this-post-about-victor-wooten-i-just-had-to):
 

@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube yrXtmKGkSa4>}}</div>
+{{< youtube yrXtmKGkSa4 >}}
 
 > > [butterflyeffects](http://butterflyeffects.tumblr.com/post/180321522/must-have-a-mellotron-im-serious):
 > >

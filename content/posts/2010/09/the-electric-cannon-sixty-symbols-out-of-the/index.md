@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube eA3SDiyMiWU>}}</div>
+{{< youtube eA3SDiyMiWU >}}
 
 out of the way, im doing science

@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube daVDrGsaDME>}}</div>
+{{< youtube daVDrGsaDME >}}
 
 11 Months, 3000 pictures and a lot of coffee.

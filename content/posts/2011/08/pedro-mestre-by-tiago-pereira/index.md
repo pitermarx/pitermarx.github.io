@@ -10,6 +10,6 @@ categories:
 
 (by [Tiago Pereira](http://vimeo.com/4411716))
 
-<div style="width: 70vw;">{{< youtube HMI_mRDUkH4>}}</div>
+{{< youtube HMI_mRDUkH4 >}}
 
 [https://en.wikipedia.org/wiki/Viola\_campani%C3%A7a](https://en.wikipedia.org/wiki/Viola_campani%C3%A7a)

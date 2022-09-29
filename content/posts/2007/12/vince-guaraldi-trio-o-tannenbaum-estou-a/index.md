@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube Bh3mlL-97pU>}}</div>
+{{< youtube Bh3mlL-97pU >}}
 
 Estou a sentir-me natalício

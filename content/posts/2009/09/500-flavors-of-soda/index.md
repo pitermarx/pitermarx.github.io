@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube gPbh6Ru7VVM>}}</div>
+{{< youtube gPbh6Ru7VVM >}}
 
 [500 flavors of soda.](http://www.wimp.com/sodaflavors/)

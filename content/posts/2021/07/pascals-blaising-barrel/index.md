@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube EJHrr21UvY8>}}</div>
+{{< youtube EJHrr21UvY8 >}}
 
 Found [here](https://ciechanow.ski/naval-architecture/)

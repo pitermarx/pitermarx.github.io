@@ -10,7 +10,7 @@ tags:
 
 I saw yesterday this video and found it very interesting.
 
-<div style="width: 70vw;">{{< youtube 0XIDykeZplU>}}</div>
+{{< youtube 0XIDykeZplU >}}
 
 Here are some excerpts from the letter mentioned in the beginning from [Galileo Galilei to Benedetto Castelli](http://inters.org/galilei-benedetto-castelli)
 

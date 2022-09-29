@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube zLEMncv140s>}}</div>
+{{< youtube zLEMncv140s >}}
 
 [pmsmartins](http://pmsmartins.tumblr.com/post/5809818132):
 

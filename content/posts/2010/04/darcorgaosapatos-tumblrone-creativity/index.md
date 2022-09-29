@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube rzod3CotfAg>}}</div>
+{{< youtube rzod3CotfAg >}}
 
 [darcorgaosapatos](http://darcorgaosapatos.tumblr.com/post/481815161/tumblrone-creativity-chiado-lisbon):
 

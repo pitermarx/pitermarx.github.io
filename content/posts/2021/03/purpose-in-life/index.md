@@ -39,18 +39,18 @@ I can give three lines of argument making the case that God really exists and ch
 
 - The universe had a beginning. It didn't came from nothing, so there must be a transcendental cause. See this two part video from the christian philosopher [William Lane Craig](https://www.reasonablefaith.org/william-lane-craig) that provides an accessible explanation of this argument
 
-<div style="width: 70vw;">{{< youtube 6CulBuMCLg0>}}</div>
+{{< youtube 6CulBuMCLg0 >}}
 
-<div style="width: 70vw;">{{< youtube vybNvc6mxMo>}}</div>
+{{< youtube vybNvc6mxMo >}}
 
 - There exists objective morality, that is some things are wrong regardless of what anyone thinks. The cause of this fact must be outside mankind.
     [John Lennox](https://www.johnlennox.org/) is a Mathematician but also participates in many debates and lectures about the christian faith. In this video, the topic is "Does Morality Need God?". There is about 50m of lecture and 30m of Q/A. I have never seen or read anything from Lennox that I didn't like
 
-<div style="width: 70vw;">{{< youtube Jzdi1mZ0FHc>}}</div>
+{{< youtube Jzdi1mZ0FHc >}}
 
 - The best explanation for what happened to Jesus is that he really was raised from the dead. [Gary Habermas](http://garyhabermas.com/) is the world's top scholar on the resurrection hypothesis. This interview gives a taste of what scholarship says about that.
 
-<div style="width: 70vw;">{{< youtube kWSG5okmUr8>}}</div>
+{{< youtube kWSG5okmUr8 >}}
 
 I could provide many more arguments to make my case but even if they all are sound and plausible we could always dismiss them.
 The only thing that cannot be easily dismissed is a direct experience of God.

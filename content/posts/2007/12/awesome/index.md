@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube Jd3-eiid-Uw>}}</div>
+{{< youtube Jd3-eiid-Uw >}}
 
 AWESOME!!!

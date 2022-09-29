@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube vf4tbCRuvSk>}}</div>
+{{< youtube vf4tbCRuvSk >}}
 
 Mais Um. A [Hiromi](http://pitermarx.tumblr.com/post/20167904) é boa mas esta toca TRÊS coisas ao mm tempo!!!

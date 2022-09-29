@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube pVrVY540xdc>}}</div>
+{{< youtube pVrVY540xdc >}}
 
 [theplanetofsound](http://theplanetofsound.tumblr.com/post/1021731132/talking-heads-this-must-be-the-place-naive)

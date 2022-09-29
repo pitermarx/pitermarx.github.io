@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube tLhVQVAaQr0>}}</div>
+{{< youtube tLhVQVAaQr0 >}}
 
 Apropriado para os tempos que correm

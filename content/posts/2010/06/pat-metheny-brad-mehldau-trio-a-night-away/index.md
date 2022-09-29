@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube h-P6JzbVpig>}}</div>
+{{< youtube h-P6JzbVpig >}}
 
 Spain 2007

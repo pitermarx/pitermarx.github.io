@@ -15,6 +15,6 @@ categories:
 3. Get a mentor
     Find someone that's better than you and learn from him
 
-<div style="width: 70vw;">{{< youtube ED7liSX7zvY>}}</div>
+{{< youtube ED7liSX7zvY >}}
 
 Chick Corea was on to something

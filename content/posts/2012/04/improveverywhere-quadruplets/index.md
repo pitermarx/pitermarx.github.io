@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube 6ifVOZEjv2g>}}</div>
+{{< youtube 6ifVOZEjv2g >}}
 
 [ImprovEverywhere](https://improveverywhere.com/2012/04/01/quadruplets/)

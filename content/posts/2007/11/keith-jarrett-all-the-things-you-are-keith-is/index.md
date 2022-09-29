@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube -DOgW3XcMi4>}}</div>
+{{< youtube -DOgW3XcMi4 >}}
 
 Keith is Awesome

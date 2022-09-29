@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube yKf9aUIxdb4>}}</div>
+{{< youtube yKf9aUIxdb4 >}}
 
 Solve it here [https://cracking-the-cryptic.web.app/sudoku/tjN9LtrrTL](https://cracking-the-cryptic.web.app/sudoku/tjN9LtrrTL)

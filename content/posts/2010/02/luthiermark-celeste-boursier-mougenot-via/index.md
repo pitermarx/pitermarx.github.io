@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube 89Kz8Nxb-Bg>}}</div>
+{{< youtube 89Kz8Nxb-Bg >}}
 
 [luthiermark](http://luthiermark.tumblr.com/post/342991598/celeste-boursier-mougenot-via-barbicanlondon):
 

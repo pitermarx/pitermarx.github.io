@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube ZG3_8fG7RzQ>}}</div>
+{{< youtube ZG3_8fG7RzQ >}}
 
 BBC Worlds Most Powerful - Bill Gates vs Steve Jobs

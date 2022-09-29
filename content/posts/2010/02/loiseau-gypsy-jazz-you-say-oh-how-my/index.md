@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube ANArGmr74u4>}}</div>
+{{< youtube ANArGmr74u4 >}}
 
 [loiseau](http://loiseau.tumblr.com/post/349763607/gypsy-jazz-you-say-oh-how-my-bloodline-calls-out):
 

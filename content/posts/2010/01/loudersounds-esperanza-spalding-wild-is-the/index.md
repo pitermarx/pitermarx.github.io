@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube 0IqcmhkfJRE>}}</div>
+{{< youtube 0IqcmhkfJRE >}}
 
 [loudersounds](http://loudersounds.tumblr.com/post/323728579/esperanza-spalding-wild-is-the-wind-nina-simone):
 

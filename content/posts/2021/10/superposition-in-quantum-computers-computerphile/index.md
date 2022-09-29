@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube kv-YXKRUheQ>}}</div>
+{{< youtube kv-YXKRUheQ >}}
 
 A reasonable explanation of superposition

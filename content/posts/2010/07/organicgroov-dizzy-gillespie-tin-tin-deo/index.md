@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube jHQaUNeErVM>}}</div>
+{{< youtube jHQaUNeErVM >}}
 
 [organicgroov](http://organicgroov.tumblr.com/post/726749712/dizzy-gillespie-tin-tin-deo-1965)

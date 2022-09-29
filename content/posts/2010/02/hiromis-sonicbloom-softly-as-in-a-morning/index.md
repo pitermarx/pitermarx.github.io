@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube IijlaIaNy0A>}}</div>
+{{< youtube IijlaIaNy0A >}}
 
 Almost forgot Hiromi

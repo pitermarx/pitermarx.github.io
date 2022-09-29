@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube 7w0ELJF70lg>}}</div>
+{{< youtube 7w0ELJF70lg >}}
 
 [shortformblog](http://shortformblog.com/post/39857514371/windows-95-sound-brian-eno):
 

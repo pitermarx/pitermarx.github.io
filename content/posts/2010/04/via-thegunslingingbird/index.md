@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube 9cadbYIzhqQ>}}</div>
+{{< youtube 9cadbYIzhqQ >}}
 
 (via [thegunslingingbird](http://thegunslingingbird.tumblr.com/))

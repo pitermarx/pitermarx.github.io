@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube fJuNgBkloFE>}}</div>
+{{< youtube fJuNgBkloFE >}}
 
 (via [eroncoelho](http://youtube.com/user/eroncoelho))

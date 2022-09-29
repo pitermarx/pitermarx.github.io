@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube uQITWbAaDx0>}}</div>
+{{< youtube uQITWbAaDx0 >}}
 
 [jonathanmoore](http://jonathanmoore.com/post/664718248/free-fall):
 

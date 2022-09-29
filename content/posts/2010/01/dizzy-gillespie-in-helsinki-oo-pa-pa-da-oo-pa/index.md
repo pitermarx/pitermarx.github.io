@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube pumwVJC7R1I>}}</div>
+{{< youtube pumwVJC7R1I >}}
 
 Oo Pa Pa Da!

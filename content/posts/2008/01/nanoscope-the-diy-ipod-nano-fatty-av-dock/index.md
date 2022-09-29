@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube mqc4kp5CHKU>}}</div>
+{{< youtube mqc4kp5CHKU >}}
 
 [Engadget](http://www.engadget.com/2008/01/20/nanoscope-the-diy-ipod-nano-fatty-a-v-dock/)

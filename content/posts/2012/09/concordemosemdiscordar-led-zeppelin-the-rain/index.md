@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube HZ4uzD_hLds>}}</div>
+{{< youtube HZ4uzD_hLds >}}
 
 
 [concordemosemdiscordar](http://concordemosemdiscordar.tumblr.com/post/32075819038/led-zeppelin-the-rain-song-these-are-the):

@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube KcaKocRXCB4>}}</div>
+{{< youtube KcaKocRXCB4 >}}
 
 [tumblrone](http://tumblrone.tumblr.com/post/488964610/remember-the-vws-fun-theory-well-they-have):
 

@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube e7xodWzLbCo>}}</div>
+{{< youtube e7xodWzLbCo >}}
 
 Oscar is SOOOO great!

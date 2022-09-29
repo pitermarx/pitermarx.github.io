@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube v3_eo1Bcj-I>}}</div>
+{{< youtube v3_eo1Bcj-I >}}
 
 **Listen to the organ**!

@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube 112AijCKqg4>}}</div>
+{{< youtube 112AijCKqg4 >}}
 
 [luthiermark](http://luthiermark.tumblr.com/post/427869046/steven-king-god-only-knows-via-moreatthedoor):
 

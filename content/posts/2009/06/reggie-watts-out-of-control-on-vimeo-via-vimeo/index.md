@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube SmUD0vbSUHg>}}</div>
+{{< youtube SmUD0vbSUHg >}}
 
 Turn up the volume

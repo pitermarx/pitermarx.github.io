@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube eQJeuA9LgF8>}}</div>
+{{< youtube eQJeuA9LgF8 >}}
 
 [sxsweveryband](http://operationeveryband.com/post/15535342003):
 

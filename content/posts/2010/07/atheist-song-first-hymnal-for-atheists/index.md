@@ -6,4 +6,4 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube lFWA1A9XFi8>}}</div>
+{{< youtube lFWA1A9XFi8 >}}

@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube lg8LfoyDFUM>}}</div>
+{{< youtube lg8LfoyDFUM >}}
 
 WOW! ronaldjenkees

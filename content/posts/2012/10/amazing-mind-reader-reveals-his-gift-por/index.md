@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube F7pYHN9iC9I>}}</div>
+{{< youtube F7pYHN9iC9I >}}
 
  (por [Jonasnuts](http://jonasnuts.com/453516.html))

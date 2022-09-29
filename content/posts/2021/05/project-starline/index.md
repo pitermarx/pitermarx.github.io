@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube Q13CishCKXY>}}</div>
+{{< youtube Q13CishCKXY >}}
 
 [Project Starline: Feel like you're there, together](https://blog.google/technology/research/project-starline/)

@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube 7fNFyhqwGzI>}}</div>
+{{< youtube 7fNFyhqwGzI >}}
 
 [funkthisjazz](http://funkthisjazz.tumblr.com/post/273595278/jimmy-rushing-good-morning-blues-1962-via)
 

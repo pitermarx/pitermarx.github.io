@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube m7ZuoB_4_8E>}}</div>
+{{< youtube m7ZuoB_4_8E >}}
 
 > Oscar Brown Jr introduces them. Pick up an album from Oscar sometime. You won’t be disappointed.

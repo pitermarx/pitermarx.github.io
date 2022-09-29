@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube eQemvyyJ--g>}}</div>
+{{< youtube eQemvyyJ--g >}}
 
 [The Oddstrument Collection](http://oddstrument.com/2008/05/08/banned-musical-instrument-causes-insanity/)

@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube vuvckBQ1bME>}}</div>
+{{< youtube vuvckBQ1bME >}}
 
 Seems pretty straightforward

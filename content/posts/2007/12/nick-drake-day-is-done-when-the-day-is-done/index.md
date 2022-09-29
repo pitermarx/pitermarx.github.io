@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube Y2jxjv0HkwM>}}</div>
+{{< youtube Y2jxjv0HkwM >}}
 
 Nick Drake - Day is Done
 

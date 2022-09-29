@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube GkuJJsApACc>}}</div>
+{{< youtube GkuJJsApACc >}}
 
 Don’t go changing, to try and please me
 You never let me down before

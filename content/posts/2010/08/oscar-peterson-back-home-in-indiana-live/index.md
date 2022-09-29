@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube jlWvq6AbbS4>}}</div>
+{{< youtube jlWvq6AbbS4 >}}
 
 Oscar is THE MAN!

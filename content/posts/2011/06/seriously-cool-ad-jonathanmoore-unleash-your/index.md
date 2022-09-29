@@ -8,6 +8,6 @@ categories:
 
 Seriously cool ad
 
-<div style="width: 70vw;">{{< youtube zyMfpJh3h4A>}}</div>
+{{< youtube zyMfpJh3h4A >}}
 
  [jonathanmoore](http://jonathanmoore.com/post/6570192702/unleash-your-fingers)

@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube YswvSNPDwb0>}}</div>
+{{< youtube YswvSNPDwb0 >}}
 
 > Molina has the thought of the new generation that must be raised to show from whom come great prowess and great talents. He is very present the purpose to which he came to this earth, to glorify the name of our God having as Matthew 25: 14-30 the parable of the talents.
 >

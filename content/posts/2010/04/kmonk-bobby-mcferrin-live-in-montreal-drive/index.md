@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube s1RjFhQ9Sjk>}}</div>
+{{< youtube s1RjFhQ9Sjk >}}
 
 [kmonk](http://kmonk.info/post/498717786/bobby-mcferrin-live-in-montreal-drive)

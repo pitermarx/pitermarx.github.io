@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube eDBxWQtgypY>}}</div>
+{{< youtube eDBxWQtgypY >}}
 
 [darcorgaosapatos](http://darcorgaosapatos.tumblr.com/post/50247686758/adriennes-speaking-of-falling-into-jazz):
 

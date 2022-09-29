@@ -6,4 +6,4 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube NVbuIZ-5-8o>}}</div>
+{{< youtube NVbuIZ-5-8o >}}

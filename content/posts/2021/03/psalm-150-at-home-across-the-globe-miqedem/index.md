@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube qqmKsAtFyNc>}}</div>
+{{< youtube qqmKsAtFyNc >}}
 
 Hallelu el bekodsho
 (Praise God in His sanctuary)

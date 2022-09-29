@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube uPbQ25iuEy0>}}</div>
+{{< youtube uPbQ25iuEy0 >}}
 
 [https://kindofbloop.com/](https://kindofbloop.com/)
 

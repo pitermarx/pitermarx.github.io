@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube 7NKOVDakrhk>}}</div>
+{{< youtube 7NKOVDakrhk >}}
 
 [bcobb](http://bcobb.tumblr.com/post/38004104525/scott-joplin-solace-the-sting-original):
 

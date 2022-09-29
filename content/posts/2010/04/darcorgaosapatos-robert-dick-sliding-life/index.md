@@ -5,6 +5,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube IVP5ffxX5Kg>}}</div>
+{{< youtube IVP5ffxX5Kg >}}
 
 [darcorgaosapatos](http://darcorgaosapatos.tumblr.com/post/475811809/robert-dick-sliding-life-blues)

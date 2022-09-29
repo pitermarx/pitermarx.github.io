@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube O9O5fxMaFhk>}}</div>
+{{< youtube O9O5fxMaFhk >}}
 
 (Legends Of Jazz Showcase, 2006)

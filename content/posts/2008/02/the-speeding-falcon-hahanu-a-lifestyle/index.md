@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube j3mTPEuFcWk>}}</div>
+{{< youtube j3mTPEuFcWk >}}
 
 [haha.nu - a lifestyle blogzine](http://haha.nu/amazing/the-speeding-falcon/)
 

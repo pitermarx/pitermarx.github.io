@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube jDj44n5bjWU>}}</div>
+{{< youtube jDj44n5bjWU >}}
 
 [theroomaboveher](http://theroomaboveher.tumblr.com/post/313516989/bon-iver-for-emma-spontaneous-acappella-in-a): (spontaneous acappella in a Paris hallway…the way music should be.)

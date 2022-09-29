@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube 0MOsccL9hvQ>}}</div>
+{{< youtube 0MOsccL9hvQ >}}
 
 Lisboa Dakar cancelado sem motivo

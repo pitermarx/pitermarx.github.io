@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube DNe0ZUD19EE>}}</div>
+{{< youtube DNe0ZUD19EE >}}
 
 [moviescore](http://moviescore.tumblr.com/post/65347273731/the-ohio-state-marching-band-did-something):
 

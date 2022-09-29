@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube ne6tB2KiZuk>}}</div>
+{{< youtube ne6tB2KiZuk >}}
 
 [pmsmartins](http://pmsmartins.tumblr.com/post/417562244/bobby-mcferrin-hacks-your-brain-with-music-video)

@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube Jj5f7gRLVFQ>}}</div>
+{{< youtube Jj5f7gRLVFQ >}}
 
 [kmonk](http://kmonk.info/post/333794735/clark-miller-wooten-16-july-2009)

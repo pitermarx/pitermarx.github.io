@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube Ehep5aG7_qk>}}</div>
+{{< youtube Ehep5aG7_qk >}}
 
 Emily solo performance of Majestic Dance

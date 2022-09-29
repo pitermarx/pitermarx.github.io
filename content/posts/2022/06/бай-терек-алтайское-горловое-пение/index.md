@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube 6I_y8Trb4cs>}}</div>
+{{< youtube 6I_y8Trb4cs >}}
 
 Bai Terek. Altai throat singing

@@ -7,6 +7,6 @@ tags:
   - "dev"
 ---
 
-<div style="width: 70vw;">{{< youtube FITJMJjASUs>}}</div>
+{{< youtube FITJMJjASUs >}}
 
 Or, "How to implement the Y Combinator in Ruby"

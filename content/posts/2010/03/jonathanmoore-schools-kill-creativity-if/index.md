@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube iG9CE55wbtY>}}</div>
+{{< youtube iG9CE55wbtY >}}
 
 [jonathanmoore](http://jonathanmoore.com/post/398193787/schools-kill-creativity):
 

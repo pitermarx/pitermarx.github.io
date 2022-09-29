@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube zok7LltWU0E>}}</div>
+{{< youtube zok7LltWU0E >}}
 
 [Aerial Sports Videos :: Red Bull](https://www.redbull.com/gb-en/paul-steiner-akte-blani-plane-swap-skydive)
 

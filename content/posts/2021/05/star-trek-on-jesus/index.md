@@ -8,4 +8,4 @@ tags:
   - "christianity"
 ---
 
-<div style="width: 70vw;">{{< youtube JTwKRpk02_8>}}</div>
+{{< youtube JTwKRpk02_8 >}}

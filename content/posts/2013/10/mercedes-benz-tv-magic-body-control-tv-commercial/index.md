@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube nLwML2PagbY>}}</div>
+{{< youtube nLwML2PagbY >}}
 
 Mercedes-Benz TV: MAGIC BODY CONTROL TV commercial “Chicken”

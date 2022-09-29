@@ -22,6 +22,6 @@ Dependence and trust. This is what makes the web go round.
 
 Speaking of trust...
 
-<div style="width: 70vw;">{{< youtube SJ7lOus1FzQ>}}</div>
+{{< youtube SJ7lOus1FzQ >}}
 
 Should I go live in a cabin in the woods?

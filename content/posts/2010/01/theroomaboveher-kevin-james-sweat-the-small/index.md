@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube YiurOBQPKsw>}}</div>
+{{< youtube YiurOBQPKsw >}}
 
 [theroomaboveher](http://theroomaboveher.tumblr.com/post/313288168/kevin-james-sweat-the-small-stuff-compilation)

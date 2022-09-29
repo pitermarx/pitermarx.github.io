@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube 1HHMA1Dpo5M>}}</div>
+{{< youtube 1HHMA1Dpo5M >}}
 
 If you’ve seen Police Academy, you know of Michael Winslow’s talents. He played [Cadet Larvell Jones](http://www.google.com/search?gcx=w&q=Cadet+Larvell+Jones&um=1&ie=UTF-8&hl=en&tbm=isch&source=og&sa=N&tab=wi&biw=1269&bih=1079) and wowed the world with his vocal impersonations.
 

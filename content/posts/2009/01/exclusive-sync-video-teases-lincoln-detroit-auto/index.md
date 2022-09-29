@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube R3xXNjSm7qI>}}</div>
+{{< youtube R3xXNjSm7qI >}}
 
 [EXCLUSIVE: Sync Video Teases Lincoln Detroit Auto Show Concept](http://jalopnik.com/5126944/exclusive-sync-video-teases-lincoln-detroit-auto-show-concept)

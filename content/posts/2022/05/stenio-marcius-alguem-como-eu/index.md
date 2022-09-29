@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube HaiKlMNikCU>}}</div>
+{{< youtube HaiKlMNikCU >}}
 
 Entra Mestre,descansa um pouco
 Estás cansado,estás sedento e rouco

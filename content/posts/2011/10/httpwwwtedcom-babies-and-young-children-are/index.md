@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube cplaWsiu7Yg>}}</div>
+{{< youtube cplaWsiu7Yg >}}
 
 “Babies and young children are like the R&D division of the human species,” says psychologist Alison Gopnik. Her research explores the sophisticated intelligence-gathering and decision-making that babies are really doing when they play.

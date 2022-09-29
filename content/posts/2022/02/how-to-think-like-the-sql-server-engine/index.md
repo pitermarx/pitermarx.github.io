@@ -8,4 +8,4 @@ tags:
   - "dev"
 ---
 
-<div style="width: 70vw;">{{< youtube fERXOywBhlA>}}</div>
+{{< youtube fERXOywBhlA >}}

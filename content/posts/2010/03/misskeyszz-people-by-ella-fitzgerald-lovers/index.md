@@ -5,7 +5,7 @@ categories:
   - "music"
 ---
 
-<div style="width: 70vw;">{{< youtube ZErLm982RL4>}}</div>
+{{< youtube ZErLm982RL4 >}}
 
 [misskeyszz](http://misskeyszz.tumblr.com/post/401938741/people-by-ella-fitzgerald)
 

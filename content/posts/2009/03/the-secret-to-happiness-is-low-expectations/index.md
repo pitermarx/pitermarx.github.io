@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube VO6XEQIsCoM>}}</div>
+{{< youtube VO6XEQIsCoM >}}
 
 The paradox of choice | Barry Schwartz

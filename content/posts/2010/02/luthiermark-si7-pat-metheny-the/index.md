@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube 9VymAn8QJNQ>}}</div>
+{{< youtube 9VymAn8QJNQ >}}
 
 [luthiermark](http://luthiermark.tumblr.com/post/345647852/si7-pat-metheny-the-orchestrion-epk-via):
 

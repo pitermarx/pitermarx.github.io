@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube IrVnm66joQk>}}</div>
+{{< youtube IrVnm66joQk >}}
 
 Paul Laurence Dumbar Chambers - Double Bass
 Jimmy Cobb - Drums

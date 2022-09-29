@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube yQddk3zN3zQ>}}</div>
+{{< youtube yQddk3zN3zQ >}}
 
 [kmonk](http://kmonk.info/post/591810053/music-for-one-apartment-and-six-drummers)

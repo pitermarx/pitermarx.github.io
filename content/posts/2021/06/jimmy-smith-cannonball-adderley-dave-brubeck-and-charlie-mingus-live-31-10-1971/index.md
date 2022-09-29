@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube fZNC7sZS6qI>}}</div>
+{{< youtube fZNC7sZS6qI >}}
 
 Unique recordings of Jimmy Smith, the Cannonball Adderley Quintet featuring George Duke, Dave Brubeck & his Trio with Gerry Mulligan and Paul Desmond,and the Charles Mingus Sextet featuring Cat Anderson at the 7th Newport Jazz Festival at the Doelen, Rotterdam, The Netherlands, 1971.
 

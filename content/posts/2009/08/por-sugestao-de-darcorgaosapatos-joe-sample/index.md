@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube aQChYKutawk>}}</div>
+{{< youtube aQChYKutawk >}}
 
 Por sugestão de [darcorgaosapatos](http://darcorgaosapatos.tumblr.com/post/154505529/randy-crawford-joe-sample-street-life-live-at)

@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube YyqEjatCSe0>}}</div>
+{{< youtube YyqEjatCSe0 >}}
 
 (via [Room1oh1](http://www.youtube.com/watch?v=YyqEjatCSe0))

@@ -8,4 +8,4 @@ categories:
 
 Come Away With Me 20th Anniversary Livestream
 
-<div style="width: 70vw;">{{< youtube Sx1RgCjmvfg>}}</div>
+{{< youtube Sx1RgCjmvfg >}}

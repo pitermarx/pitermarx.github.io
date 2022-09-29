@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube Xe3Vsbsb33Q>}}</div>
+{{< youtube Xe3Vsbsb33Q >}}
 
 
 [sahbapasta](http://sahbapasta.tumblr.com/post/107866021/meet-sophie-madeleine-youre-going-to-love-her):

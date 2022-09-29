@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube rac9duJPFiA>}}</div>
+{{< youtube rac9duJPFiA >}}
 
 Eu quero te dizer,
 Falar que eu te amo, e não vivo sem você.

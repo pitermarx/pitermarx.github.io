@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube 2r123KZbXUs>}}</div>
+{{< youtube 2r123KZbXUs >}}
 
 Back together???

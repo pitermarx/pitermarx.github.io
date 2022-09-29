@@ -8,6 +8,6 @@ categories:
 
 Another version of [my favourite christmas carol](https://blog.pitermarx.com/2020/12/my-favourite-christmas-carol/)
 
-<div style="width: 70vw;">{{< youtube X29EifkeEbw>}}</div>
+{{< youtube X29EifkeEbw >}}
 
 Ian Anderson & Band - God Rest Ye Merry Gentlemen (Weihnachten mit dem Bundespräsidenten, 24.12.06)

@@ -6,4 +6,4 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube oSCX78-8-q0>}}</div>
+{{< youtube oSCX78-8-q0 >}}

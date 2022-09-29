@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube OvYZMqQffQE>}}</div>
+{{< youtube OvYZMqQffQE >}}
 
 [kmonk](http://kmonk.info/post/387572377/pomplamoose-my-favorite-things-pomplamoose-is):
 

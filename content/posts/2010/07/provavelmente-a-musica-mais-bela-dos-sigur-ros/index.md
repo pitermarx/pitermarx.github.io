@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube NecFN-cfwlk>}}</div>
+{{< youtube NecFN-cfwlk >}}
 
 via [Bitaites](http://bitaites.org/videos/provavelmente-a-musica-mais-bela-dos-sigur-ros?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+bitaites%2Fblog+%28Bitaites%29)

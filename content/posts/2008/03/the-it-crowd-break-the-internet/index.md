@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube UTBsm0LzSP0>}}</div>
+{{< youtube UTBsm0LzSP0 >}}
 
 The IT Crowd - Break the internet

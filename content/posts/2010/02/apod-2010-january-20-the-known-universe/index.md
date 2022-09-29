@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube 17jymDn0W6U>}}</div>
+{{< youtube 17jymDn0W6U >}}
 
 [APOD: 2010 January 20 - The Known Universe](http://antwrp.gsfc.nasa.gov/apod/ap100120.html)

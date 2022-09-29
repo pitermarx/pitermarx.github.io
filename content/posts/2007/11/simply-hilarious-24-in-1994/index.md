@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube JMLH_QyPTYM>}}</div>
+{{< youtube JMLH_QyPTYM >}}
 
 (Source: [http://www.collegehumor.com/](http://www.collegehumor.com/))

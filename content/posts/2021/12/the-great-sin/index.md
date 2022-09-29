@@ -8,7 +8,7 @@ tags:
   - "christianity"
 ---
 
-<div style="width: 70vw;">{{< youtube 5PvcynQD-ag>}}</div>
+{{< youtube 5PvcynQD-ag >}}
 
 C. S. Lewis is really an extraordinary thinker and communicator.
 

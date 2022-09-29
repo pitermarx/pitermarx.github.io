@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube TMF244WJsAI>}}</div>
+{{< youtube TMF244WJsAI >}}
 
  (via [jamiro5](http://youtube.com/user/jamiro5))

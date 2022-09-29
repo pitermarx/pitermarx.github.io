@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube GMUlhuTkM3w>}}</div>
+{{< youtube GMUlhuTkM3w >}}
 
 Beatboxing Flute and Cello @ Union Square

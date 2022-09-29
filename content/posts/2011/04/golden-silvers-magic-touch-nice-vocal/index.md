@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube b3jjwTWo_9A>}}</div>
+{{< youtube b3jjwTWo_9A >}}
 
 Nice vocal harmonies
 

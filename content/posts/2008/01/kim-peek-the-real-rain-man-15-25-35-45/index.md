@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube k2T45r5G3kA>}}</div>
+{{< youtube k2T45r5G3kA >}}
 
 [1/5](http://www.youtube.com/watch?v=k2T45r5G3kA&fmt=18)
 [2/5](http://www.youtube.com/watch?v=NJjAbs-3kc8&fmt=18)

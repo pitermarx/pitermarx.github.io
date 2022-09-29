@@ -6,7 +6,7 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube n42YGcjXgI4>}}</div>
+{{< youtube n42YGcjXgI4 >}}
 
 [sahbapasta](http://sahbapasta.tumblr.com/post/125146634/the-amazing-perpetuum-jazzile-choir-using-their):
 

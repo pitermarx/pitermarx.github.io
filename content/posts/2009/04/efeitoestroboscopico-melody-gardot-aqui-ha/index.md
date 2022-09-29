@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube 4Eb651s_o1Q>}}</div>
+{{< youtube 4Eb651s_o1Q >}}
 
 [efeitoestroboscopico](http://efeitoestroboscopico.tumblr.com/post/96199184/melody-gardot-aqui-h-mais)
 

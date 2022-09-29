@@ -9,7 +9,7 @@ coverImage: "imagem-3.png"
 
 I recently watched this talk from the GOTO conferences and really enjoyed it.
 
-<div style="width: 70vw;">{{< youtube m4a3IxWaEB4>}}</div>
+{{< youtube m4a3IxWaEB4 >}}
 
 Here is a summary and my general opinion on it.
 

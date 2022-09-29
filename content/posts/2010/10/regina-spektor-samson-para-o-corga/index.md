@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube QWYUC5EMfyI>}}</div>
+{{< youtube QWYUC5EMfyI >}}
 
 Para o [corga](http://darcorgaosapatos.tumblr.com/)

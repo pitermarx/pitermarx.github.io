@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube 60ut7yIuCEY>}}</div>
+{{< youtube 60ut7yIuCEY >}}
 
 **WOW!!!! De cair o queixo!!!**
 

@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube iVEFR2ICfFY>}}</div>
+{{< youtube iVEFR2ICfFY >}}
 
 **Hospitality - Argonauts** (Original EP version)
 

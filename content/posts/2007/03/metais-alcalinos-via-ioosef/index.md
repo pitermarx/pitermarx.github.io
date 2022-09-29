@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube cqeVEFFzz7E>}}</div>
+{{< youtube cqeVEFFzz7E >}}
 
  (via [ioosef](http://youtube.com/user/ioosef))

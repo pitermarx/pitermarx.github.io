@@ -7,6 +7,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube oDAw7vW7H0c>}}</div>
+{{< youtube oDAw7vW7H0c >}}
 
 [https://phonebloks.com/](https://phonebloks.com/)

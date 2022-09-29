@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube to_AaUc17L4>}}</div>
+{{< youtube to_AaUc17L4 >}}
 
 live at Fábrica de Braço de Prata /2009

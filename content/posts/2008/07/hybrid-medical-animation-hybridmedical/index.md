@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube 9hzUjx_oD8E>}}</div>
+{{< youtube 9hzUjx_oD8E >}}
 
 [HybridMedical](http://www.hybridmedicalanimation.com/)

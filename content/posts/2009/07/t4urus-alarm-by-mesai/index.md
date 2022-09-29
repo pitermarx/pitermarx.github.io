@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube vN83DfmH9Tw>}}</div>
+{{< youtube vN83DfmH9Tw >}}
 
 _Alarm_ by [Mesai](http://www.mesai.co.kr/)

@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube TZwdtwi5ngI>}}</div>
+{{< youtube TZwdtwi5ngI >}}
 
 90 year old couple in the Mayo Clinic

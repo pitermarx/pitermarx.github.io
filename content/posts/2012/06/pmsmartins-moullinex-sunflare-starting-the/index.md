@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube jvIfYpXGX_E>}}</div>
+{{< youtube jvIfYpXGX_E >}}
 
 [pmsmartins](http://pmsmartins.tumblr.com/post/24944490367/moullinex-sunflare-starting-the-day-with-some):
 

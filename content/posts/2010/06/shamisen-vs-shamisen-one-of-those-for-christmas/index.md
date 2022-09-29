@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube w5rs7pfZuPs>}}</div>
+{{< youtube w5rs7pfZuPs >}}
 
 One of those for christmas please

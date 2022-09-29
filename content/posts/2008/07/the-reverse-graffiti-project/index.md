@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube 5lX-2sP0JFw>}}</div>
+{{< youtube 5lX-2sP0JFw >}}
 
 [The Reverse Graffiti Project](http://haha.nu/beautiful/the-reverse-graffiti-project/)

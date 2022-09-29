@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube gQfaNzrQz4M>}}</div>
+{{< youtube gQfaNzrQz4M >}}
 
 All acoustic!

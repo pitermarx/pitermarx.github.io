@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube LsuPvomGAYM>}}</div>
+{{< youtube LsuPvomGAYM >}}
 
 [luthiermark](http://luthiermark.tumblr.com/post/507488751/danny-boy-e9-via-singlpilot)

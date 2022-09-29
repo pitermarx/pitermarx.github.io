@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-<div style="width: 70vw;">{{< youtube lOZW59MpUtc>}}</div>
+{{< youtube lOZW59MpUtc >}}
 
 [com Inês Castel-Branco Vídeo por Tiago Bettencourt & MANTHA - Vídeos do MySpace](http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=103221909)

@@ -6,6 +6,6 @@ categories:
   - "videos"
 ---
 
-<div style="width: 70vw;">{{< youtube D4Dnm6dkOVI>}}</div>
+{{< youtube D4Dnm6dkOVI >}}
 
 [ifcutenesscouldkill](http://ifcutenesscouldkill.tumblr.com/post/718256393/presto-pixar-short-film)
