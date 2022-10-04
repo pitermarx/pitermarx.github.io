@@ -1,8 +1,9 @@
 ---
-title: ""
+title: "WHAT?!"
 date: "2009-10-27"
+categories: 
+  - "images"
+  - "shares"
 ---
 
-\[gallery\] WHAT?!
-
-[Cat yoga by Melanie.Brueggemann](http://pixdaus.com/single.php?id=200127)
+![WHAT?!](images/what.jpg "[Cat yoga by Melanie.Brueggemann](http://pixdaus.com/single.php?id=200127)")
