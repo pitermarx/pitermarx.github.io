@@ -1,7 +1,7 @@
 ---
-title: ""
+title: "teorema de nyquist"
 date: "2008-09-28"
-categories: 
+categories:
   - "quotes"
   - "shares"
 ---

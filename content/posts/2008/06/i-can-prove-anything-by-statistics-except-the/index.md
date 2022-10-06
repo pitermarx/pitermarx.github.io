@@ -1,7 +1,7 @@
 ---
-title: ""
+title: "I can prove anything"
 date: "2008-06-18"
-categories: 
+categories:
   - "quotes"
   - "shares"
 ---

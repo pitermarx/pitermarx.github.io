@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Sony’s first CD player Advertisement"
 date: "2007-11-04"
 categories:
   - "shares"
