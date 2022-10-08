@@ -8,6 +8,7 @@ categories:
 
 {{< spotify type="track" id="3N4JDfJfgN9BSIkgYOF1uE" width="100%" height="250" >}}
 
+<pre>
 And I love her so
 I wouldn’t trade her for gold
 Walking on moonbeams
@@ -35,3 +36,4 @@ How long do you think you’d stay living
 
 And I love her so
 I wouldn’t trade her for gold
+</pre>
