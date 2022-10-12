@@ -1,4 +1,4 @@
 public/
-resources/_gen/
+resources/
 go.sum
 .hugo_build.lock
