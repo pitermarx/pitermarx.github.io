@@ -1,6 +1,9 @@
 ---
-title: ""
+title: "Whatever"
 date: "2009-11-28"
+categories:
+  - "shares"
+  - "images"
 ---
 
-\[gallery\] [aleatoriedades](http://aleatoriedades.tumblr.com/post/251176253/reitchel-sweethomestyle-copperkitten)
+![](images/whatever.jpg "[aleatoriedades](http://aleatoriedades.tumblr.com/post/251176253/reitchel-sweethomestyle-copperkitten)")
