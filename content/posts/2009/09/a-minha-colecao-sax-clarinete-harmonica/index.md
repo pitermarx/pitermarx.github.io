@@ -1,9 +1,11 @@
 ---
-title: ""
+title: "A minha coleção"
 date: "2009-09-26"
+categories:
+  - "images"
+  - "shares"
 ---
 
-\[gallery\] A minha coleção
-
-Sax, Clarinete, Harmónica, Guitarra e Acordeão. Falta o Piano  
+![](images/instr.jpg)
+Sax, Clarinete, Harmónica, Guitarra e Acordeão. Falta o Piano
 Ficou desfocado…

@@ -1,7 +1,7 @@
 ---
-title: ""
+title: "bugatti-t57"
 date: "2010-07-12"
-categories: 
+categories:
   - "images"
   - "shares"
 ---
@@ -11,5 +11,5 @@ categories:
 [luthiermark](http://luthiermark.tumblr.com/post/749995253/bugatti-t57):
 
 > (via [mfs](http://mfs.tumblr.com/))
-> 
+>
 > Why can’t anyone make cars this beautiful anymore?
