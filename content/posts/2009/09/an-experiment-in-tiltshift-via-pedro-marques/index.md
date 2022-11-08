@@ -1,6 +1,9 @@
 ---
-title: ""
+title: "tiltshift"
 date: "2009-09-25"
+categories:
+  - "images"
+  - "shares"
 ---
 
 \[gallery\] An experiment in tiltshift (via [Pedro Marques](http://flickr.com/photos/pedromarques))

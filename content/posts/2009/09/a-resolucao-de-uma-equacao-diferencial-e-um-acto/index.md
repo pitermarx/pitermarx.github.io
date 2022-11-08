@@ -1,8 +1,10 @@
 ---
-title: ""
+title: "Bruxaria"
 date: "2009-09-19"
+categories:
+  - "quotes"
+  - "shares"
 ---
 
 > A resolução de uma equação diferencial é um acto de bruxaria
-
-António Pereira de Melo
+> <cite>António Pereira de Melo</cite>
