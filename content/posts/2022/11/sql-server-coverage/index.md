@@ -1,6 +1,6 @@
 ---
 title: "New dotnet tool: SqlServerCoverage"
-date: "2021-11-10"
+date: "2022-11-10"
 categories:
   - "longs"
   - "original"
