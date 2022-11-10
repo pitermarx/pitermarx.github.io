@@ -1,6 +1,6 @@
 ---
 title: "New dotnet tool: SqlServerCoverage"
-date: "2021-11-11"
+date: "2021-11-10"
 categories:
   - "longs"
   - "original"
@@ -13,10 +13,25 @@ I've called it - not very creatively - [SqlServerCoverage](https://github.com/pi
 
 ## Quick start
 
-1. Install dotnet tool: `dotnet tool install sqlservercoverage.commandline -g`
-2. Start coverage session: `$id = sql-coverage start --connection-string=$cnx --database=$db`
-3. Collect coverage: `sql-coverage collect --connection-string=$cnx --id=$id --summary`
-4. Cleanup: `sql-coverage stop --connection-string=$cnx --id=$id`
+1. Install dotnet tool:
+```powershell
+dotnet tool install sqlservercoverage.commandline -g
+```
+
+2. Start coverage session:
+```powershell
+$id = sql-coverage start --connection-string=$cnx --database=$db
+```
+
+3. Collect coverage:
+```powershell
+sql-coverage collect --connection-string=$cnx --id=$id --summary
+```
+
+4. Cleanup:
+```powershell
+sql-coverage stop --connection-string=$cnx --id=$id
+```
 
 ## Details
 
@@ -30,28 +45,27 @@ $conn = "Data Source=.\SQLEXPRESS;Integrated Security=True"
 $db = "DatabaseName"
 
 # start a session and get the ID
-$id = dotnet sql-coverage start --connection-string=$conn --database=$db
+$id = sql-coverage start --connection-string=$conn --database=$db
 if ($LASTEXITCODE -ne 0) { throw $id }
 
 # returns a list of session IDs on the server
-dotnet sql-coverage list --connection-string=$conn
+sql-coverage list --connection-string=$conn
 
 # now do some stuff on the database
 
 # collect coverage data.
 # export an html report, an opencover report, a sonar report and a console summary
 $outputDirectory="somewhere"
-dotnet sql-coverage collect --connection-string=$conn --id=$id `
+sql-coverage collect --connection-string=$conn --id=$id `
   --html --opencover --sonar --summary --output=$outputDirectory
 
 # manual cleanup is necessary to stop the XEvents session
 # you can do this
-dotnet sql-coverage stop --connection-string=$conn --id=$id
+sql-coverage stop --connection-string=$conn --id=$id
 # or stop all sessions on the server
-dotnet sql-coverage stop-all --connection-string=$conn
+sql-coverage stop-all --connection-string=$conn
 # or stop all sessions if the corresponding db does not exist anymore
-dotnet sql-coverage stop-all --connection-string=$conn --only-missing-dbs
-
+sql-coverage stop-all --connection-string=$conn --only-missing-dbs
 ```
 
 This is a sample summary from the console and attached is a sample HTML report
