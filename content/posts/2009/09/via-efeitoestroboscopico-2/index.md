@@ -1,8 +1,11 @@
 ---
-title: ""
+title: "Oh, The Temptation"
 date: "2009-09-21"
+categories: 
+  - "videos"
+  - "shares"
 ---
 
-(via [efeitoestroboscopico](http://efeitoestroboscopico.tumblr.com/))
+{{< vimeo 5239013 >}}
 
-(Source: [https://player.vimeo.com/](https://player.vimeo.com/))
+(via [efeitoestroboscopico](http://efeitoestroboscopico.tumblr.com/))
