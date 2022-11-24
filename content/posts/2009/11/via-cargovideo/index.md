@@ -1,8 +1,9 @@
 ---
-title: ""
+title: "Kaki King - They Loved It In Italy"
 date: "2009-11-09"
+categories:
+  - "videos"
+  - "shares"
 ---
 
-(via [cargovideo](http://youtube.com/user/cargovideo))
-
-(Source: [https://www.youtube.com/](https://www.youtube.com/))
+{{< youtube 69qNYYhUom0 >}}
