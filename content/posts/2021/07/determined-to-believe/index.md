@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "John Lennox - Determined to Believe?"
 date: "2021-07-19"
 categories: 
   - "quotes"
