@@ -16,4 +16,5 @@ categories:
 > — But we have to sleep sometime…
 > Agreed. But nature set a limit on that — as it did on eating and drinking. And you’re over the limit.
 > You’ve had more than enough of that. But not of working. There’s still more of that to do.
-> <cite> Marcus Aurelius - Meditations (Book 5, Paragraph 1) </cite>
+>
+> — <cite> Marcus Aurelius - Meditations (Book 5, Paragraph 1) </cite>
