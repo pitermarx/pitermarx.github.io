@@ -1,8 +1,9 @@
 ---
-title: ""
+title: "Dumbo (1941)"
 date: "2009-09-17"
+categories:
+  - "images"
+  - "shares"
 ---
 
-\[gallery\] [fydisneymovies](http://fydisneymovies.tumblr.com/post/167148715/dumbo-1941):
-
-> Dumbo (1941)
+![](dumbo.jpg "[fydisneymovies](http://fydisneymovies.tumblr.com/post/167148715/dumbo-1941)")
