@@ -1,8 +1,18 @@
 ---
-title: ""
+title: "Experiments with Kinetic photography"
 date: "2009-09-26"
+categories:
+  - "images"
+  - "shares"
 ---
 
-\[gallery\] Experiments with [Kinetic photography](http://en.wikipedia.org/wiki/Kinetic_photography)
+![](img1.jpg)
+![](img2.jpg)
+![](img3.jpg)
+![](img4.jpg)
+![](img5.jpg)
+![](img6.jpg)
+![](img7.jpg)
+![](img8.jpg)
 
 [More (and better) on Flickr](http://www.flickr.com/groups/kineticphotography/)
