@@ -1,6 +1,9 @@
 ---
 title: "Galliano and Marsalis - La Vie En Rose"
 date: "2009-08-02"
+categories:
+  - "music"
+  - "shares"
 ---
 
 {{< youtube dVxBDEqmwSA >}}
