@@ -10,6 +10,7 @@ categories:
 
 do álbum SEM AÇÚCAR, de 1980 - letra de Lena dAgua, música de José da Ponte
 
+<pre>
 anoiteceu, meu amor o dia desceu no mar
 escrevo o teu nome na areia, o tempo parou por instantes
 vagueavas sozinho na praia
@@ -33,3 +34,4 @@ sobes por mim devagar, procuras o céu no meu corpo
 num sorriso os teus olhos encontram nos meus
 mais uma estrela que se acendeu
 em ti deslizo mansamente
+</pre>
