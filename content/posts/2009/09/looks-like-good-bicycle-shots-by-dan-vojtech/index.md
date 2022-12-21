@@ -1,6 +1,9 @@
 ---
-title: ""
+title: "Bicycle Shots"
 date: "2009-09-11"
+categories:
+  - "images"
+  - "shares"
 ---
 
-\[gallery\] [Looks like good Bicycle Shots by Dan Vojtech](http://lookslikegooddesign.com/sport-photo-dan-vojtech/)
+![](tumblr_kptu71bK3Z1qz4vrlo1_500.jpg "[Looks like good Bicycle Shots by Dan Vojtech](http://lookslikegooddesign.com/sport-photo-dan-vojtech/)")

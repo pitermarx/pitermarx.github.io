@@ -1,8 +1,11 @@
 ---
-title: ""
+title: "Billie Holiday - The Way You Look Tonight"
 date: "2009-09-08"
+categories:
+  - "music"
+  - "shares"
 ---
 
-[mabelmoments](http://mabelmoments.tumblr.com/post/182807566/billie-holiday-the-way-you-look-tonight-1936):
+{{< spotify type="track" id="0ywbgYYinAodsw1dm1lYe8" width="100%" height="250" >}}
 
-> **Billie Holiday - _The Way You Look Tonight_**, 1936
+[mabelmoments](http://mabelmoments.tumblr.com/post/182807566/billie-holiday-the-way-you-look-tonight-1936):
