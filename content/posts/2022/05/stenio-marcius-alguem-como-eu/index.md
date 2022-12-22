@@ -8,6 +8,7 @@ categories:
 
 {{< youtube HaiKlMNikCU >}}
 
+<pre>
 Entra Mestre,descansa um pouco
 Estás cansado,estás sedento e rouco
 Dorme Mestre, a casa é Tua
@@ -31,3 +32,4 @@ Vai verter a vida do corpo Seu,
 Pra levar a culpa de alguém como eu,
 Pra lavar o sujo do meu próprio eu,
 Levar-me puro a Deus
+</pre>
