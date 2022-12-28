@@ -8,7 +8,7 @@ categories:
 
 I'm not a big Dylan fan, but he sure had a way with words...
 
-{{< spotify type="track" id="5N1M5lueT7liCW7R4gaaMi" width="100%" height="250" >}}
+{{< spotify type="track" id="5N1M5lueT7liCW7R4gaaMi" >}}
 
 <pre>
   Well, the neighborhood bully, he's just one man

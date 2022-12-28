@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="0ywbgYYinAodsw1dm1lYe8" width="100%" height="250" >}}
+{{< spotify type="track" id="0ywbgYYinAodsw1dm1lYe8" >}}
 
 [mabelmoments](http://mabelmoments.tumblr.com/post/182807566/billie-holiday-the-way-you-look-tonight-1936):

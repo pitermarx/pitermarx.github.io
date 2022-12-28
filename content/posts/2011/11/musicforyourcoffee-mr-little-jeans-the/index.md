@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="394hU2YNpI3cotY8NZCmpI" width="100%" height="250" >}}
+{{< spotify type="track" id="394hU2YNpI3cotY8NZCmpI" >}}
 
 [musicforyourcoffee](http://musicforyourcoffee.tumblr.com/post/12972101829/mr-little-jeans-the-suburbs-electronic):
 

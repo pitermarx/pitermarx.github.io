@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="3AA8xNhDC0MpqwkGX3EP5V" width="100%" height="250" >}}
+{{< spotify type="track" id="3AA8xNhDC0MpqwkGX3EP5V" >}}
 
 <pre>
   They say an end can be a start, feels like I’ve been buried yet I’m still alive

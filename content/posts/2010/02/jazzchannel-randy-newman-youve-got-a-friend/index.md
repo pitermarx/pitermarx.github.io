@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="2stkLJ0JNcXkIRDNF3ld6c" width="100%" height="250" >}}
+{{< spotify type="track" id="2stkLJ0JNcXkIRDNF3ld6c" >}}
 
 [jazzchannel](http://jazzchannel.tumblr.com/post/365334054/randy-newman-youve-got-a-friend-in-me)

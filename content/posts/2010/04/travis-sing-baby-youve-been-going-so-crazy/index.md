@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="4yA2SM7XCLkSgkBUSoZb5S" width="100%" height="250" >}}
+{{< spotify type="track" id="4yA2SM7XCLkSgkBUSoZb5S" >}}
 
 <pre>
   Baby, you’ve been going so crazy,

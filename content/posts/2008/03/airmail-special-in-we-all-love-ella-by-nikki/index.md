@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="39CMoDrOsreghf75tb3kEM" width="100%" height="250" >}}
+{{< spotify type="track" id="39CMoDrOsreghf75tb3kEM" >}}
 
 by Nikki yanovsky - only 13 years old. WOW!!!

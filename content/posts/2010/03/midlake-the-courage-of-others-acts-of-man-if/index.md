@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="5hjpeyMwNlHZMa7EvjSxUj" width="100%" height="250" >}}
+{{< spotify type="track" id="5hjpeyMwNlHZMa7EvjSxUj" >}}
 
 <pre>
   If all that grows starts to fade, starts to falter

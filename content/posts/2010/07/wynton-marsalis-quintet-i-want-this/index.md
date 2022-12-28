@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="album" id="4dwKwsvESyhweToVaZqzrN" width="100%" height="250" >}}
+{{< spotify type="album" id="4dwKwsvESyhweToVaZqzrN" >}}
 
 i want this

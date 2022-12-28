@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="6C7oybnvznbTV7kzsjaTIJ" width="100%" height="250" >}}
+{{< spotify type="track" id="6C7oybnvznbTV7kzsjaTIJ" >}}
 
 [heymikewaskom](http://heymikewaskom.com/post/348721978/dizzy-gillespie-and-his-orchestra-salt-peanuts)

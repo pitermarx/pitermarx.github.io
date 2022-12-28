@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="2R2gMe3zb9BgCdT2PZh1s3" width="100%" height="250" >}}
+{{< spotify type="track" id="2R2gMe3zb9BgCdT2PZh1s3" >}}
 
 [moviescore](http://moviescore.tumblr.com/post/181489634/stu-phillips-glen-a-larson-main-theme-knight)
 

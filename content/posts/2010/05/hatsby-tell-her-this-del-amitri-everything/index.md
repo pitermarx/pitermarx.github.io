@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="0bnuObY08o8EMPvqvFTEtg" width="100%" height="250" >}}
+{{< spotify type="track" id="0bnuObY08o8EMPvqvFTEtg" >}}
 
 [hatsby](http://hatsby.tumblr.com/post/580581766/tell-her-this-del-amitri-everything-about-this):
 

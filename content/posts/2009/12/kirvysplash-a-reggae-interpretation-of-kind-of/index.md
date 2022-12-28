@@ -36,4 +36,4 @@ SIDE A
 
 (Source: [http://kirvysplash.tumblr.com/](http://kirvysplash.tumblr.com/))
 
-{{< spotify type="album" id="0FSsJAj3wyk0ExAOcKrLmX" width="100%" height="250" >}}
+{{< spotify type="album" id="0FSsJAj3wyk0ExAOcKrLmX" >}}

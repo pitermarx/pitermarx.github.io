@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="3126iwAXVfyNQDP5iW2OAr" width="100%" height="250" >}}
+{{< spotify type="track" id="3126iwAXVfyNQDP5iW2OAr" >}}
 
 [moviescore](http://moviescore.tumblr.com/post/123676142/isaac-hayes-main-theme-shaft-1971-hayes-won):
 

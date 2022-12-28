@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="2JDnnXPsZn1e6a8dYjUMYF" width="100%" height="250" >}}
+{{< spotify type="track" id="2JDnnXPsZn1e6a8dYjUMYF" >}}
 
 <pre>
   So today I wrote a song for you cause a day can get so long

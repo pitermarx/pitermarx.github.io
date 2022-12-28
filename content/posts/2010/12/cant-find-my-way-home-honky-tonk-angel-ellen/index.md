@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="6cBJjtNNB6tLLR2hNTZPdB" width="100%" height="250" >}}
+{{< spotify type="track" id="6cBJjtNNB6tLLR2hNTZPdB" >}}
 
 <pre>
   Come down off your throne, leave your body alone

@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="20p0otuBznfIROs20NAfx4" width="100%" height="250" >}}
+{{< spotify type="track" id="20p0otuBznfIROs20NAfx4" >}}
 
 <pre>
   Louis, Louis

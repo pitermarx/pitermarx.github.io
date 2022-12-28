@@ -6,4 +6,4 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="album" id="1VRBB9iu84o3g16CczH9iH" width="100%" height="250" >}}
+{{< spotify type="album" id="1VRBB9iu84o3g16CczH9iH" >}}

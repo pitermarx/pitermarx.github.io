@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="0KiwlUzEr8AFl3EofUxZpj" width="100%" height="250" >}}
+{{< spotify type="track" id="0KiwlUzEr8AFl3EofUxZpj" >}}
 
 [moviescore](http://moviescore.tumblr.com/post/526939738/kissdistinctlyamerican-gary-portnoy-cheers):
 

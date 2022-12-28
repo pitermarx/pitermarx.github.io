@@ -1,5 +1,5 @@
 ---
-title: "#17: O Lisboa-Dakar"
+title: "Lisboa-Dakar"
 date: "2008-01-07"
 categories:
   - "shares"

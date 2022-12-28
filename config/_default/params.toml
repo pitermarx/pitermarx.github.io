@@ -49,9 +49,11 @@ enableCodeCopy = true
 
 [list]
   showBreadcrumbs = true
+  showTaxonomies = true
   showSummary = false
   showTableOfContents = true
   groupByYear = true
+  paginationWidth = 4
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]

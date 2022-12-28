@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="096O9QxDBQ1xPIyLskGwbq" width="100%" height="250" >}}
+{{< spotify type="track" id="096O9QxDBQ1xPIyLskGwbq" >}}
 
 [darcorgaosapatos](http://darcorgaosapatos.tumblr.com/post/364998528/finley-quaye-even-after-all)
 

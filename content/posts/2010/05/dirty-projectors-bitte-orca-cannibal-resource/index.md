@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="1pbRrSj6CBZGcG5i2BSv5L" width="100%" height="250" >}}
+{{< spotify type="track" id="1pbRrSj6CBZGcG5i2BSv5L" >}}
 
 <pre>
   Look around at everyone

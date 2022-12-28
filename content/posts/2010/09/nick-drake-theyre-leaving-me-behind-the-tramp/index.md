@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="1cOgEdFflAN4MsKodKMOM2" width="100%" height="250" >}}
+{{< spotify type="track" id="1cOgEdFflAN4MsKodKMOM2" >}}
 
 <pre>
   The tramp moves on to the end of the street

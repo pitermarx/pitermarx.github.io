@@ -8,7 +8,7 @@ tags:
   - "christianity"
 ---
 
-{{< spotify type="track" id="5cARYX1aiptjqYZ4O94j8r" width="100%" height="250" >}}
+{{< spotify type="track" id="5cARYX1aiptjqYZ4O94j8r" >}}
 
 [Wikipedia](https://en.wikipedia.org/wiki/God_Rest_You_Merry,_Gentlemen) says it's earliest known printed edition is dated to c. 1760.
 

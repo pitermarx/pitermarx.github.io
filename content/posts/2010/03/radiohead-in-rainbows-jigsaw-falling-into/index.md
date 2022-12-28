@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="0YJ9FWWHn9EfnN0lHwbzvV" width="100%" height="250" >}}
+{{< spotify type="track" id="0YJ9FWWHn9EfnN0lHwbzvV" >}}
 
 <pre>
   Just as you take my hand

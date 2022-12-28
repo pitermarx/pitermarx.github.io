@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="4mO7DeDHWeyU8RVII7UWwm" width="100%" height="250" >}}
+{{< spotify type="track" id="4mO7DeDHWeyU8RVII7UWwm" >}}
 
 <pre>
   I used to know a little square so long ago, when I was small

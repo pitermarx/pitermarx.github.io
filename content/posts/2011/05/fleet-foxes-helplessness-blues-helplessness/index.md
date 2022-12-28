@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="1b8Zlu3aMVxEbyeospYPrK" width="100%" height="250" >}}
+{{< spotify type="track" id="1b8Zlu3aMVxEbyeospYPrK" >}}
 
 <pre>
   I was raised up believing I was somehow unique

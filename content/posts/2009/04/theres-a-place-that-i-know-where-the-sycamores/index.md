@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="7tXeeUCuvSrGnnscIT58iv" width="100%" height="250" >}}
+{{< spotify type="track" id="7tXeeUCuvSrGnnscIT58iv" >}}
 
 <pre>
   There’s a place that I know where the sycamores grow

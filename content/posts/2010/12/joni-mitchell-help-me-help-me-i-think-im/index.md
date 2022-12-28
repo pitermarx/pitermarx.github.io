@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="0tVzXGFyNPusa1VkHmYDLd" width="100%" height="250" >}}
+{{< spotify type="track" id="0tVzXGFyNPusa1VkHmYDLd" >}}
 
 <pre>
   Help me, I think I’m falling in love again

@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="6zOcJQreuf9EEbuuxT8aHN" width="100%" height="250" >}}
+{{< spotify type="track" id="6zOcJQreuf9EEbuuxT8aHN" >}}
 
 <pre>
   Good times for a change 

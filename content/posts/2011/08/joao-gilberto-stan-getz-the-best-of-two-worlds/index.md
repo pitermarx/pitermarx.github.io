@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="4VzhqEIsif9TditEmLt21K" width="100%" height="250" >}}
+{{< spotify type="track" id="4VzhqEIsif9TditEmLt21K" >}}
 
 <pre>
 Ai, ai, ai, Izaura, Hoje eu não posso ficar

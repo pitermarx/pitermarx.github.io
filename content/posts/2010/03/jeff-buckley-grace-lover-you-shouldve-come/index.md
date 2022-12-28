@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="6Jv7kjGkhY2fT4yuBF3aTz" width="100%" height="250" >}}
+{{< spotify type="track" id="6Jv7kjGkhY2fT4yuBF3aTz" >}}
 
 <pre>
   Looking out the door i see the rain fall upon the funeral mourners

@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="0gzqZ9d1jIKo9psEIthwXe" width="100%" height="250" >}}
+{{< spotify type="track" id="0gzqZ9d1jIKo9psEIthwXe" >}}
 
 <pre>
   The heart is a bloom, shoots up through stony ground

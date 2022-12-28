@@ -14,4 +14,4 @@ Não é o filme típico. Em 1º lugar tem 2 partes, são mais de 4 horas de film
 
 Não é nada do que estava à espera mas no entanto gostei. É incrível como ler nos pode dar muito detalhe e precisão, mas nada bate a 7ª arte para capturar a imaginação e fazer-nos entrar na história.
 
-{{< spotify type="track" id="6aiwt2fNnrwodC6Xdy0nli" width="100%" height="250" >}}
+{{< spotify type="track" id="6aiwt2fNnrwodC6Xdy0nli" >}}

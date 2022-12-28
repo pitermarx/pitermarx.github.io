@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="6PrKZUXJPmBiobMN44yR8Y" width="100%" height="250" >}}
+{{< spotify type="track" id="6PrKZUXJPmBiobMN44yR8Y" >}}
 
 [oldhollywood](http://oldhollywood.tumblr.com/post/1553728248/ennio-morricone-the-ecstasy-of-gold-via-the):
 

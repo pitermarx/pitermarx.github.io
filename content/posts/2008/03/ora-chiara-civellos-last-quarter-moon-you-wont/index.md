@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="03sdQo1Wc5VAfrQviKZrLS" width="100%" height="250" >}}
+{{< spotify type="track" id="03sdQo1Wc5VAfrQviKZrLS" >}}
 
 You wont regret buying it

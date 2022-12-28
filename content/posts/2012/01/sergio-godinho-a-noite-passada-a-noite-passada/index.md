@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="3UZDbSTem5wcvezdvZtMKD" width="100%" height="250" >}}
+{{< spotify type="track" id="3UZDbSTem5wcvezdvZtMKD" >}}
 
 <pre>
   A noite passada acordei com o teu beijo

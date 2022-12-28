@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="211zFNeH6wTBWdHjygmz1d" width="100%" height="250" >}}
+{{< spotify type="track" id="211zFNeH6wTBWdHjygmz1d" >}}
 
 [moviescore](http://moviescore.tumblr.com/post/352968650/brieflynoted-its-detail-and-musical-elements): performed by The City of Prague Philharmonic Orchestra

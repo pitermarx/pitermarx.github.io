@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="49NwhsB8bJACVpE7MWHcyJ" width="100%" height="250" >}}
+{{< spotify type="track" id="49NwhsB8bJACVpE7MWHcyJ" >}}
 
 <pre>
   Yeah I got busted

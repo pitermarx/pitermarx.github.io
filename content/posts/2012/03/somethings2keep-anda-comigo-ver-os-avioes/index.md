@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="2ufFly9TQNkxaZECMHiel3" width="100%" height="250" >}}
+{{< spotify type="track" id="2ufFly9TQNkxaZECMHiel3" >}}
 
 [somethings2keep](http://somethings2keep.tumblr.com/post/20104781801/anda-comigo-ver-os-avioes-levantar-voo-a-rasgar):
 

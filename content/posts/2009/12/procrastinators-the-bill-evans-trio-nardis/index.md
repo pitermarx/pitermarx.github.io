@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="37vEa9sfgAqEZuqX8AX0Zk" width="100%" height="250" >}}
+{{< spotify type="track" id="37vEa9sfgAqEZuqX8AX0Zk" >}}
 
 [procrastinators](http://procrastinators.tumblr.com/post/274565612/the-bill-evans-trio-nardis)

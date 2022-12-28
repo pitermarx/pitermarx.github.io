@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="270ueT8Mg9NJZNy9WEVCzq" width="100%" height="250" >}}
+{{< spotify type="track" id="270ueT8Mg9NJZNy9WEVCzq" >}}
 
 <pre>
   The moment has come to face the truth

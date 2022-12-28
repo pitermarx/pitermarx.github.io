@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="1NZAisHXFuKJqOjr14TvDN" width="100%" height="250" >}}
+{{< spotify type="track" id="1NZAisHXFuKJqOjr14TvDN" >}}
 
 <pre>
   There is no oxygen in the air

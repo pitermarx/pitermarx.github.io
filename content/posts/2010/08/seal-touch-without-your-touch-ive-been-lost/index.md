@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="6ZW3qwtXyzAgwLVI3b7SVp" width="100%" height="250" >}}
+{{< spotify type="track" id="6ZW3qwtXyzAgwLVI3b7SVp" >}}
 
 <pre>
   Without your touch I’ve been lost without the things I love

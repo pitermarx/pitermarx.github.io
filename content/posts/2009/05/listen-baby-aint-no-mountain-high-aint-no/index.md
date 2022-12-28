@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="7tqhbajSfrz2F7E1Z75ASX" width="100%" height="250" >}}
+{{< spotify type="track" id="7tqhbajSfrz2F7E1Z75ASX" >}}
 
 <pre>
   Listen, baby

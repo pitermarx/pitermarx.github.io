@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="3afeZ81GDy59tATovKyH6Z" width="100%" height="250" >}}
+{{< spotify type="track" id="3afeZ81GDy59tATovKyH6Z" >}}
 
 <pre>
   The way you look at me when you think I’m not looking, tells me…. 

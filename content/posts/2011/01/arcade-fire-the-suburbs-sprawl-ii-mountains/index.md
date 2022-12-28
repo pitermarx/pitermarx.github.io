@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="0U0p8weaMIbIFMJ0CPlvHV" width="100%" height="250" >}}
+{{< spotify type="track" id="0U0p8weaMIbIFMJ0CPlvHV" >}}
 
 <pre>
   They heard me singing and they told me to stop

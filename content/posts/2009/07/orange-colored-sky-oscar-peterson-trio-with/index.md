@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="0S4ftPuNcKopz8WfaFUQX9" width="100%" height="250" >}}
+{{< spotify type="track" id="0S4ftPuNcKopz8WfaFUQX9" >}}
 
 <pre>
   I was walking along mindin' my business

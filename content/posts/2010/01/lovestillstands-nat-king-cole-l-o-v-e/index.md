@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="7E3rc13GL2I5wA6CIFXaxs" width="100%" height="250" >}}
+{{< spotify type="track" id="7E3rc13GL2I5wA6CIFXaxs" >}}
 
 [lovestillstands](http://lovestillstands.tumblr.com/post/336686197/nat-king-cole-l-o-v-e)

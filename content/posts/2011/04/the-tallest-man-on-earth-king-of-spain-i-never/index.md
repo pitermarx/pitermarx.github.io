@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="3SXsoJxUF3C9XjZnGMZbXn" width="100%" height="250" >}}
+{{< spotify type="track" id="3SXsoJxUF3C9XjZnGMZbXn" >}}
 
 <pre>
   I never knew I was a lover, just cause I steal the things you hide,

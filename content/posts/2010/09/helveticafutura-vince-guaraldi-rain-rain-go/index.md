@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="0wx14XPEXYqSKdVPBAoQeE" width="100%" height="250" >}}
+{{< spotify type="track" id="0wx14XPEXYqSKdVPBAoQeE" >}}
 
 [helveticafutura](http://helveticafutura.tumblr.com/post/1215442781/vince-guaraldi-rain-rain-go-away-from-the):
 

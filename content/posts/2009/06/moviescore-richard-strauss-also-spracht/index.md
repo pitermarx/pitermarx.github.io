@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="1F9gh9ffHCCO1PwTCVclo0" width="100%" height="250" >}}
+{{< spotify type="track" id="1F9gh9ffHCCO1PwTCVclo0" >}}
 
 [moviescore](http://moviescore.tumblr.com/post/129165390/richard-strauss-also-spracht-zarathustra-thus):
 

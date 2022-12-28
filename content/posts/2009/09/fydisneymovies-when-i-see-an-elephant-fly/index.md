@@ -9,7 +9,7 @@ categories:
 
 ![](tumblr_konx5jdrGP1qzl19so1_1280.jpg)
 
-{{< spotify type="track" id="0Qgc2XtzLSbLUeBFDK8X1R" width="100%" height="250" >}}
+{{< spotify type="track" id="0Qgc2XtzLSbLUeBFDK8X1R" >}}
 
 <pre>
   I saw a peanut stand, heard a rubber band,

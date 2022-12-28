@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="33PyUqHzb6GPcToJ0bWoVK" width="100%" height="250" >}}
+{{< spotify type="track" id="33PyUqHzb6GPcToJ0bWoVK" >}}
 
 <pre>
   Rousseau walks on trumpet paths

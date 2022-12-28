@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="7mOQ3j4XVGmV9V1U6zkCZN" width="100%" height="250" >}}
+{{< spotify type="track" id="7mOQ3j4XVGmV9V1U6zkCZN" >}}
 
 [stubbyboardman](http://stubbyboardman.tumblr.com/post/715588156):
 

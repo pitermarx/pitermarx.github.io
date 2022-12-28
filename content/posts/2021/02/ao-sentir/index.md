@@ -8,7 +8,7 @@ tags:
   - "christianity"
 ---
 
-{{< spotify type="track" id="3RSt0Y7gj1pNEzryjxwxj5" width="100%" height="250" >}}
+{{< spotify type="track" id="3RSt0Y7gj1pNEzryjxwxj5" >}}
 
 <pre>
   Ao sentir o mundo ao meu redor

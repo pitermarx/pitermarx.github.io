@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="4UkvTxAN4JI5uCJbRqijP3" width="100%" height="250" >}}
+{{< spotify type="track" id="4UkvTxAN4JI5uCJbRqijP3" >}}
 
 Nunca percebo o sentido das letras dos Toranja mas que são um uso espectacular do Português são.
 

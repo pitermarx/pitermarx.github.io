@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="5Z4EgTCCoObfO1WfrvrQ9v" width="100%" height="250" >}}
+{{< spotify type="track" id="5Z4EgTCCoObfO1WfrvrQ9v" >}}
 
 [messtothemasses](http://messtothemasses.tumblr.com/post/181436458/supertramp-logical-song-o-saxofone-o)
 

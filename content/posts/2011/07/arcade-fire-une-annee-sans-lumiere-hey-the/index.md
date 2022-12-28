@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="7D5mjGj6O2cHHCoBF8O7qV" width="100%" height="250" >}}
+{{< spotify type="track" id="7D5mjGj6O2cHHCoBF8O7qV" >}}
 
 <pre>
   Hey! The streetlights all burnt out.

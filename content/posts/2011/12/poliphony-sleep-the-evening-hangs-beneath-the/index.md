@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="0cSi86kcWDT2Z2yKdx9nlU" width="100%" height="250" >}}
+{{< spotify type="track" id="0cSi86kcWDT2Z2yKdx9nlU" >}}
 
 <pre>
   The evening hangs beneath the moon,

@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="4wpBmwRslROTDCqHVFR1cU" width="100%" height="250" >}}
+{{< spotify type="track" id="4wpBmwRslROTDCqHVFR1cU" >}}
 
 <pre>
   In the wee small hours of the morning

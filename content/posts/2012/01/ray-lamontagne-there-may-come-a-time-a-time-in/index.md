@@ -7,7 +7,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="7vtFOrPRsfQUpe4XXcDESa" width="100%" height="250" >}}
+{{< spotify type="track" id="7vtFOrPRsfQUpe4XXcDESa" >}}
 
 <pre>
   There may come a time

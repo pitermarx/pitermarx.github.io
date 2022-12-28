@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="5gCXM7Kzx0opwKxwDZL5sw" width="100%" height="250" >}}
+{{< spotify type="track" id="5gCXM7Kzx0opwKxwDZL5sw" >}}
 
 <pre>
   Tell her not to go 

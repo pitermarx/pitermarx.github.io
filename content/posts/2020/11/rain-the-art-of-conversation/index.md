@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="61Wh9vJtPH9gqRTEsgi6cU" width="100%" height="250" >}}
+{{< spotify type="track" id="61Wh9vJtPH9gqRTEsgi6cU" >}}
 
 Kenny Barron & Dave Holland

@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="7fKA60i4JhkavVw7fQFOHS" width="100%" height="250" >}}
+{{< spotify type="track" id="7fKA60i4JhkavVw7fQFOHS" >}}
 
 [professionalcrazy](http://professionalcrazy.tumblr.com/post/373035659/fiona-apple-why-try-to-change-me-now):
 

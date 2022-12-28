@@ -6,6 +6,6 @@ categories:
   - "shares"
 ---
 
-{{< spotify type="track" id="1YApfp6sbnSS2Ahg8CGonL" width="100%" height="250" >}}
+{{< spotify type="track" id="1YApfp6sbnSS2Ahg8CGonL" >}}
 
 [xineann](http://xineann.tumblr.com/post/375476439/billie-holiday-now-they-call-that-swing-from-ya)
