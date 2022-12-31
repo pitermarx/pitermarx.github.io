@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-![](images/the_rock.jpg)
+![](images/the_rock.jpg "[Split Rock Research](https://www.splitrockresearch.org/portfolio/the-split-rock/)")
 
 > Go out in front of the people. Take with you some of the elders of Israel and take in your hand the staff with which you struck the Nile, and go.
 > I will stand there before you by the rock at Horeb. Strike the rock, and water will come out of it for the people to drink.
