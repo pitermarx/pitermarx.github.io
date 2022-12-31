@@ -26,7 +26,7 @@ The Quran actually has the Christian and Jewish scriptures in high regard and of
 I find this position problematic. In affirming this, the Quran both affirms and contradicts the scriptures that came before it, the Torah and the Gospel.
 As a very blatant case I can point to the verse where it claims Jesus did not actually die on the cross.
 
-> and for their saying, “We have certainly killed the MasīH ‘Īsā the son of Maryam, the Messenger of Allah”, while in fact **they did neither kill him, nor crucify him**, but they were deluded by resemblance.Those who disputed in this matter are certainly in doubt about it. They have no knowledge of it, but they follow whims. It is absolutely certain that they did not kill him
+> and for their saying, “We have certainly killed the MasīH ‘Īsā the son of Maryam, the Messenger of Allah”, while in fact **they did neither kill him, nor crucify him**, but they were deluded by resemblance. Those who disputed in this matter are certainly in doubt about it. They have no knowledge of it, but they follow whims. It is absolutely certain that they did not kill him
 > - <cite> [Quran 4:157](https://quran.com/4/157) </cite>
 
 In a general sense I found the Islamic religion very unappealing. Reading the Quran didn't have any effect in me other than giving me a [gory](https://en.wikipedia.org/wiki/Zaqqum) mental [picture of hell](https://quran.com/22?startingVerse=19) and a [sensual mental picture](https://quran.com/78/33) of heaven.
@@ -42,7 +42,7 @@ In addition to that, the strong determinism I see affirmed in the Quran leaves m
 
 As a side note and a personal comment, I think that Islam is a religion filled with father issues.
 
-- Muhammad was an orfan boy. His father died before he was born so he was raised by his grandfather. He who also died when Muhammad was in his teens, so the young man was then raised by his uncle. [[source](https://en.wikipedia.org/wiki/Muhammad)].
+- Muhammad was an orphan boy. His father died before he was born so Muhammad was raised by his grandfather. He who also died when Muhammad was in his teens, so the young man was then raised by his uncle. [[source](https://en.wikipedia.org/wiki/Muhammad)].
 - The Quran [actually forbids adoption](https://en.wikipedia.org/wiki/Islamic_adoptional_jurisprudence), after a revelation to Muhammad concerning his marriage to the former wife of his adopted son [[source](https://en.wikipedia.org/wiki/Zayd_ibn_Haritha_al-Kalbi#Change_of_adoption_laws_in_Islam)].
 - The Quran also denies again and again that God could have a son, however I believe this to be [a misunderstanding](https://quran.com/72/3) of that Christians mean when they say that Jesus is the Son of God. The Quran seems to think that the trinity was [God, Mary and Jesus](https://quran.com/5/116).
 
@@ -50,7 +50,7 @@ Upon sharing my thoughts on the Quran and Islam, one of my Muslim coworkers made
 
 > **Islam provides solutions Christianity doesn't.**
 >
-> We have strict rules for marriage, who can marry who, reason to get married, what to say when you get married, how to solve conflicts between husband and wife, breastfeeding rules, sex rules, divorce, inheritance, etc...
+> We have strict rules for marriage, who can marry who, reason to get married, what to say when you get married, how to solve conflicts between husband and wife, breastfeeding rules, sex rules, divorce, inheritance, etc.
 >
 > Things like "Love Jesus, go to heaven" [...]
 >
@@ -78,12 +78,12 @@ Having a list of rules fosters a commercial mindset, where people are encouraged
 This is not what God has in mind when he sets boundaries on our behavior.
 The rules are actually for our own benefit and not to gain points with God.
 
-God want's a loving relationship with us. There is no hard rule on the Bible for Christians to follow about when and how much to fast, but we do it anyway,
-not to gain God's favor, but because it's good for our relationship.
+God wants a loving relationship with us. There is no hard rule on the Bible for Christians to follow about when and how much to fast, but we do it anyway,
+not to gain God's favor, but because it is good for our relationship.
 
 The same thing happens with my wife.
 There is no rule on the marriage contract for me to give flowers to my wife, but I do it anyway.
-And when I do, it shouldn't be about getting something from her but simply because I love her and I know she enjoys it.
+And when I do, it shouldn't be about getting something from her but simply because I love her, and I know she enjoys it.
 
 ### Look how great I am
 The more rules and procedures we need to keep, the more we (me?) will be inclined towards comparing ourselves to others.
@@ -92,7 +92,7 @@ This is a slippery slope, because (1) we are usually blind to our own faults, an
 > Why do you look at the speck of sawdust in your brother’s eye and pay no attention to the plank in your own eye? How can you say to your brother, ‘Let me take the speck out of your eye,’ when all the time there is a plank in your own eye? You hypocrite, first take the plank out of your own eye, and then you will see clearly to remove the speck from your brother’s eye.
 > - <cite> Jesus, [Mathew 7](https://www.biblegateway.com/passage/?search=Matthew%207%3A3&version=NIV) </cite>
 
-and Jesus' parable of the self righteous Pharisee
+and Jesus' parable of the self-righteous Pharisee
 
 > Two men went up to the temple to pray, one a Pharisee and the other a tax collector. The Pharisee stood by himself and prayed: ‘God, I thank you that I am not like other people—robbers, evildoers, adulterers—or even like this tax collector. I fast twice a week and give a tenth of all I get.’ But the tax collector stood at a distance. He would not even look up to heaven, but beat his breast and said, ‘God, have mercy on me, a sinner.’ I tell you that this man, rather than the other, went home justified before God.
 > - <cite> Jesus, [Luke 18](https://www.biblegateway.com/passage/?search=Luke%2018&version=NIV) </cite>
@@ -101,7 +101,7 @@ and Jesus' parable of the self righteous Pharisee
 
 If following God's will is simply a matter of adhering to a set of rules, then we would have an army of lawyers ready to argue with God about following the strict sense of the rules that scripture establishes.
 
-As a father of very smart small children I can tell you that this is exactly what they do. They do the bare minimum of the things I tell them to do, and then if I get upset they tell me they have complied to the letter.
+As a father of very smart small children, I can tell you that this is exactly what they do. They do the bare minimum of the things I tell them to do, and then if I get upset, they tell me they have complied to the letter.
 
 ## The issue is in the heart, not the external rules
 
@@ -118,7 +118,7 @@ By having a list of rules, we can have a "checkbox" mentality, and forget that r
 > I have been crucified with Christ and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me.
 > - <cite> [Galatians 2:20](https://www.biblegateway.com/passage/?search=Galatians+2%3A20&version=NIV) </cite>
 
-The point of the Christianity is not to make you compliant with a set of rules, but rather to transform your heart's desires to be aligned with God's desires. This is not a one-off deal, but a lifelong commitment to being transformed into followers of Christ - AKA Christians - who desire to be like him.
+The point of the Christianity is not to make you compliant with a set of rules, but to transform your heart's desires to be aligned with God's desires. This is not a one-off deal, but a lifelong commitment to being transformed into followers of Christ - AKA Christians - who desire to be like him.
 
 > As for you, **you were dead in your transgressions and sins**, in which you used to live when you followed the ways of this world [...] 
 > All of us also [...] gratifying the cravings of our flesh and following its desires and thoughts. [...] 
@@ -130,7 +130,7 @@ Our works, our efforts for keeping the rules are worthless when it comes to maki
 
 ## Does this mean that there are no rules?
 
-This is a a fair and on point concern, but not an unforeseen one. The apostle Paul gives a clear answer to this.
+This is a fair and on point concern, but not an unforeseen one. The apostle Paul gives a clear answer to this.
 
 > What shall we say, then? Shall we go on sinning so that grace may increase? By no means! We are those who have died to sin; how can we live in it any longer?
 > - <cite> [Romans 6:1-2](https://www.biblegateway.com/passage/?search=Romans+6%3A1-2&version=NIV)  </cite>
@@ -142,7 +142,7 @@ I left out the last sentence of the previous Ephesians quote.
 > For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do
 > - <cite> [Ephesians 2:10](https://www.biblegateway.com/passage/?search=Ephesians+2%3A10&version=NIV) </cite>
 
-### The higher moral standard of christianity
+### The higher moral standard of Christianity
 
 > Life has war, Islam sets rules for wars, Jesus says don't fight.
 > Life has divorce, Islam sets rules for divorce, Christianity has no divorce.
@@ -151,14 +151,14 @@ I left out the last sentence of the previous Ephesians quote.
 This is exactly on point, and for those three items I have the same answer.
 
 Muhammad set some rules to restrict some evil, Jesus has set rules to maximize the good.
-Muhammad has set earthly rules, Jesus has set an heavenly standard. We cannot keep His standard apart from His grace.
+Muhammad has set earthly rules, Jesus has set a heavenly standard. We cannot keep His standard apart from His grace.
 
 - Islam sets rules for wars, but Jesus says for us to [turn the other cheek](https://www.biblegateway.com/passage/?search=Matthew%205%3A39&version=NIV), and to [pray for our enemies](https://www.biblegateway.com/passage/?search=Matthew%205%3A44&version=NIV)
 - Islam sets rules for divorce. [Jesus reiterates the creation story, explicitly saying that divorce is only permitted in case of adultery](https://www.biblegateway.com/passage/?search=Matthew+19%3A1-9&version=NIV). Permitted, not mandated
-- Islam sets specific amounts for charity but jesus says ["if you want to be perfect, go, sell your possessions and give to the poor, and you will have treasure in heaven"](https://www.biblegateway.com/passage/?search=Matthew%2019%3A21&version=NIV)
+- Islam sets specific amounts for charity but Jesus says ["if you want to be perfect, go, sell your possessions and give to the poor, and you will have treasure in heaven"](https://www.biblegateway.com/passage/?search=Matthew%2019%3A21&version=NIV)
 
 ### The seriousness of following Jesus
-Many times the Christians make the gospel sound like "Love Jesus, go to heaven", and that's our fault. While that is part of the truth, [actually loving Jesus means keeping his commandments](https://www.biblegateway.com/passage/?search=John%2014%3A15&version=NIV), and the [greatest commandments](https://www.biblegateway.com/passage/?search=Matthew%2022%3A36-40&version=NIV) are loving God above all and [loving others as ourselves](https://www.biblegateway.com/passage/?search=John+15%3A9-14&version=NIV).
+Many times, Christians make the gospel sound like "Love Jesus, go to heaven", and that's our fault. While that is part of the truth, [actually loving Jesus means keeping his commandments](https://www.biblegateway.com/passage/?search=John%2014%3A15&version=NIV), and the [greatest commandments](https://www.biblegateway.com/passage/?search=Matthew%2022%3A36-40&version=NIV) are loving God above all and [loving others as ourselves](https://www.biblegateway.com/passage/?search=John+15%3A9-14&version=NIV).
 
 Successful Christian living will be filled with acts of selfless giving, dying to sin and sacrificing ourselves in order to serve others.
 
