@@ -1,6 +1,9 @@
 ---
-title: ""
+title: "MMS"
 date: "2009-09-10"
+categories:
+  - "quotes"
+  - "shares"
 ---
 
 “O que procuramos, no mms, são novos talentos para a política Portuguesa”
@@ -10,5 +13,3 @@ date: "2009-09-10"
 Estou inclinado para aqui
 
 [MMS - Movimento Mérito e Sociedade](http://www.mudarportugal.pt/ "MMS")
-
-(Source: [https://www.youtube.com/](https://www.youtube.com/))
