@@ -1,17 +1,18 @@
 <script src="https://getinsights.io/js/insights.js"></script>
 <script>
   let id = '{{ os.Getenv "HUGO_INSIGHTS" }}';
-  if (id) {
+  let doNotTrack = localStorage.getItem("insights") === 'do-not-track'
+  if (id && !doNotTrack) {
     insights.init(id);
     insights.trackPages();
   }
-  
+
   document.addEventListener("DOMContentLoaded", attachRandomLink);
   function attachRandomLink() {
     let rnd = [...document.querySelectorAll("nav li > a")].filter(a => a.innerText == "Random")[0]
     if (rnd) rnd.addEventListener("click", sendToRandomArticle)
   }
-  
+
   function sendToRandomArticle(e) {
     e.preventDefault();
     fetch(window.location.origin + '/index.json')
@@ -19,10 +20,10 @@
       .then(redirectAtRandom)
       .catch(err => console.log(err));
   }
-  
+
   function redirectAtRandom(data) {
     let randIndex = Math.floor(Math.random() * data.length);
-    insights.track({ id: "random-button" })
+    if (!doNotTrack) insights.track({ id: "random-button" })
     window.location.href = data[randIndex]['permalink']
   }
 </script>
