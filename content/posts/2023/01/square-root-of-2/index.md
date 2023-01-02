@@ -1,6 +1,6 @@
 ---
 title: "1, 24, 51, 10"
-date: "2023-01-03"
+date: "2023-01-02"
 categories:
   - "links"
   - "shares"
