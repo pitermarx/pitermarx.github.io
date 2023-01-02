@@ -6,6 +6,8 @@ categories:
   - "shares"
 ---
 
+{{< katex >}}
+
 ![](tablet.png "[How did the Babylonians know √2 up to six digits?](https://thepalindrome.substack.com/p/how-did-the-babylonians-know-2-up)")
 
 This clay tablet from 1800-1600 BC shows that ancient Babylonians were able to approximate the square root of two with 99.9999% precision.
