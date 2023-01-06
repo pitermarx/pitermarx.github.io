@@ -1,10 +1,11 @@
 ---
-title: ""
+title: "Freshly Ground - Doo Be Doo"
 date: "2009-09-23"
+categories:
+    - "music"
+    - "shares"
 ---
 
 Por sugestão da Ida
 
-Freshly Ground - Doo Be Doo
-
-(Source: [https://www.youtube.com/](https://www.youtube.com/))
+{{< youtube DGXit3XJAgE >}}

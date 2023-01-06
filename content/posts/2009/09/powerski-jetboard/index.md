@@ -1,8 +1,11 @@
 ---
-title: ""
+title: "PowerSki Jetboard"
 date: "2009-09-18"
+categories:
+    - "videos"
+    - "shares"
 ---
 
-[PowerSki Jetboard](http://blog.uncovering.org/archives/2009/09/powerski_jetboard.html)
+{{< youtube kEo3VP5wDT0 >}}
 
-(Source: [https://www.youtube.com/](https://www.youtube.com/))
+[via](http://blog.uncovering.org/archives/2009/09/powerski_jetboard.html)
