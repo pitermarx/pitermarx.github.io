@@ -1,10 +1,11 @@
 ---
-title: ""
+title: "Michael Moschen performs THE TRIANGLE"
 date: "2009-10-09"
+categories:
+    - "shares"
+    - "videos"
 ---
 
-Michael Moschen performs THE TRIANGLE
+{{< youtube qjHoedoSUXY >}}
 
 Even better with sound
-
-(Source: [https://www.youtube.com/](https://www.youtube.com/))

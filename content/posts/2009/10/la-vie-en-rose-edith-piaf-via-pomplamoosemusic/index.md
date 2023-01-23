@@ -1,8 +1,9 @@
 ---
-title: ""
+title: "La Vie en Rose - Edith Piaf - Pomplamoose"
 date: "2009-10-18"
+categories:
+    - "shares"
+    - "music"
 ---
 
-La Vie en Rose - Edith Piaf (via [PomplamooseMusic](http://youtube.com/user/PomplamooseMusic))
-
-(Source: [https://www.youtube.com/](https://www.youtube.com/))
+{{< youtube vsMIuuV05uc >}}
