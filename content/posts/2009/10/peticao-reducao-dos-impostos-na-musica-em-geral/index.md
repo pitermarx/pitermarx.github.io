@@ -1,6 +1,9 @@
 ---
 title: "Petição Redução dos Impostos na Música em geral."
 date: "2009-10-06"
+categories:
+    - "shares"
+    - "links"
 ---
 
 Música também é cultura.
