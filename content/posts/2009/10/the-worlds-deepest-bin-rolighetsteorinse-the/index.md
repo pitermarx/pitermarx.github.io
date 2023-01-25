@@ -1,8 +1,9 @@
 ---
-title: ""
+title: "The world’s deepest bin"
 date: "2009-10-12"
+categories:
+    - "shares"
+    - "videos"
 ---
 
-The world’s deepest bin - Rolighetsteorin.se - The fun theory
-
-(Source: [https://www.youtube.com/](https://www.youtube.com/))
+{{< youtube cbEKAwCoCKw >}}
