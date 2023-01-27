@@ -1,6 +1,9 @@
 ---
 title: "Blue Sun Bristling"
 date: "2009-11-05"
+categories:
+    - "shares"
+    - "images"
 ---
 
 ![](images/bluesun_friedman.jpg "[APOD: 2009 November 4 - Blue Sun Bristling](http://antwrp.gsfc.nasa.gov/apod/ap091104.html)")

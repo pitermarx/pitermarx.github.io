@@ -1,8 +1,9 @@
 ---
-title: ""
+title: "Blind Pilot ‘The Story I Heard’"
 date: "2009-11-27"
+categories:
+    - "shares"
+    - "music"
 ---
 
-Blind Pilot ‘The Story I Heard’
-
-(Source: [https://player.vimeo.com/](https://player.vimeo.com/))
+{{< vimeo 5273084 >}}

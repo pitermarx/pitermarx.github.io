@@ -1,6 +1,9 @@
 ---
-title: ""
+title: "APOD: 2009 November 11"
 date: "2009-11-17"
+categories:
+    - "shares"
+    - "images"
 ---
 
-\[gallery\] [APOD: 2009 November 11 - Great Observatories Explore Galactic Center](http://antwrp.gsfc.nasa.gov/apod/ap091111.html)
+![](tumblr_kszzgsUOpb1qz4vrlo1_500.jpg "[Great Observatories Explore Galactic Center](http://antwrp.gsfc.nasa.gov/apod/ap091111.html)")
