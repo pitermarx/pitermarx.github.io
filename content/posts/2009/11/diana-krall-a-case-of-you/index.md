@@ -1,8 +1,9 @@
 ---
-title: ""
+title: "Diana Krall - A Case of You"
 date: "2009-11-19"
+categories:
+    - "shares"
+    - "music"
 ---
 
-Diana Krall - A Case of You
-
-(Source: [https://www.youtube.com/](https://www.youtube.com/))
+{{<youtube BGrsc5FeQDs>}}
