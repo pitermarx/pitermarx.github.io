@@ -1,5 +1,5 @@
 ---
-title: "Animated Sheet Music: "Giant Steps" by John Coltrane"
+title: "Animated Sheet Music: Giant Steps by John Coltrane"
 date: "2009-11-25"
 categories:
     - "shares"
