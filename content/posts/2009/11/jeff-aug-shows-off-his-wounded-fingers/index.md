@@ -1,8 +1,9 @@
 ---
-title: ""
+title: "Jeff Aug Shows Off His ‘Wounded Fingers’ | Up Front | NPR"
 date: "2009-11-24"
+categories:
+    - "shares"
+    - "music"
 ---
 
-Jeff Aug Shows Off His ‘Wounded Fingers’
-
-(Source: [https://player.vimeo.com/](https://player.vimeo.com/))
+{{< vimeo 6837021 >}}
