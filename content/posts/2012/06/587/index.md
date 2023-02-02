@@ -1,10 +1,10 @@
 ---
-title: ""
+title: "dance"
 date: "2012-06-01"
-categories: 
+categories:
   - "images"
   - "shares"
-tags: 
+tags:
   - "gif"
 ---
 

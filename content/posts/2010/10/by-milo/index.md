@@ -1,7 +1,7 @@
 ---
-title: ""
+title: "amphibious"
 date: "2010-10-15"
-categories: 
+categories:
   - "images"
   - "shares"
 ---

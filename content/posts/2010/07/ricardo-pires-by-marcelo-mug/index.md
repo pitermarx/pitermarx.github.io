@@ -1,7 +1,7 @@
 ---
-title: ""
+title: "Ricardo Pires"
 date: "2010-07-09"
-categories: 
+categories:
   - "images"
   - "shares"
 ---

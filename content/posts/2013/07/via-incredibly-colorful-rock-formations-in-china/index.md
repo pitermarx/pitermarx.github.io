@@ -1,7 +1,7 @@
 ---
-title: ""
+title: "Incredibly Colorful Rock Formations in China"
 date: "2013-07-06"
-categories: 
+categories:
   - "images"
   - "shares"
 ---

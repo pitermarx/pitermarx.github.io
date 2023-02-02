@@ -1,7 +1,7 @@
 ---
-title: ""
+title: "Nice Guitar"
 date: "2010-05-09"
-categories: 
+categories:
   - "images"
   - "shares"
 ---
