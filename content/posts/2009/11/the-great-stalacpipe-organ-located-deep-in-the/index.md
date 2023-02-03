@@ -1,9 +1,12 @@
 ---
-title: ""
+title: "The Great Stalacpipe Organ"
 date: "2009-11-01"
+categories:
+    - "shares"
+    - "links"
 ---
 
-\[gallery\] [The Great Stalacpipe Organ](http://www.oddmusic.com/gallery/om25450.html)
+![](tumblr_ksdnp0wopI1qz4vrlo1_400.jpg "[The Great Stalacpipe Organ](http://www.oddmusic.com/gallery/om25450.html)")
 
 Located deep in the Luray Caverns in Virginia’s Shenandoah Valley is the Great Stalacpipe Organ, the worlds largest musical instrument.
 
