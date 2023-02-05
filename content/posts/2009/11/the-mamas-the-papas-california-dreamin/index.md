@@ -1,8 +1,9 @@
 ---
-title: ""
+title: "The Mamas & The Papas: California Dreamin"
 date: "2009-11-20"
+categories:
+    - "shares"
+    - "music"
 ---
 
-The Mamas & The Papas: California Dreamin’
-
-(Source: [https://www.youtube.com/](https://www.youtube.com/))
+{{< youtube dN3GbF9Bx6E >}}
