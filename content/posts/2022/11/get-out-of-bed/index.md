@@ -4,6 +4,8 @@ date: "2022-11-27"
 categories:
   - "quotes"
   - "shares"
+tags:
+  - "books"
 ---
 
 > At dawn, when you have trouble getting out of bed, tell yourself:

@@ -1,11 +1,11 @@
 ---
 title: "Book: No God but One: Allah or Jesus?"
 date: "2021-06-30"
-categories: 
+categories:
   - "original"
   - "shorts"
-tags: 
-  - "book"
+tags:
+  - "books"
 ---
 
 ![](images/image.png)
