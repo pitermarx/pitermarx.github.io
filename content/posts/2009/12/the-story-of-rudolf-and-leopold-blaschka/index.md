@@ -1,8 +1,9 @@
 ---
-title: ""
+title: "The Story of Rudolf and Leopold Blaschka"
 date: "2009-12-06"
+categories:
+    - "shares"
+    - "videos"
 ---
 
-The Story of Rudolf and Leopold Blaschka
-
-(Source: [https://www.youtube.com/](https://www.youtube.com/))
+{{< youtube rHOx5H5vNx4 >}}
