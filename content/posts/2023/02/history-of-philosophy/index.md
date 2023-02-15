@@ -1,5 +1,5 @@
 ---
-title: "Hisory of Philosophy without any gaps"
+title: "History of Philosophy without any gaps"
 date: "2023-02-15"
 categories:
   - "links"
