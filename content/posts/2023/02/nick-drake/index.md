@@ -1,6 +1,6 @@
 ---
 title: "Nick Drake's Tone - An In-Depth Look"
-date: "2022-02-21"
+date: "2023-02-21"
 categories:
   - "videos"
   - "shares"
