@@ -4,6 +4,8 @@ date: "2007-12-31"
 categories:
   - "music"
   - "shares"
+tags:
+  - "nick-drake"
 ---
 
 {{< youtube Y2jxjv0HkwM >}}

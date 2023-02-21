@@ -4,6 +4,8 @@ date: "2010-09-16"
 categories:
   - "music"
   - "shares"
+tags:
+  - "nick-drake"
 ---
 
 {{< spotify type="track" id="1cOgEdFflAN4MsKodKMOM2" >}}
