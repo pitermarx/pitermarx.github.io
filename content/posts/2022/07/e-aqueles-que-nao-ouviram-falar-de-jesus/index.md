@@ -14,7 +14,7 @@ Recentemente um colega disse-me que não crê em Deus (especificamente o Deus cr
 > Porquê desenhar um processo em que biliões de pessoas nunca ouviram falar de Jesus?  
 > Um deus com tantas falhas não tem o meu apoio
 
-Tentando por a objeção na forma de uma pergunta, proponho a seguinte formulação:
+Tentando pôr a objeção na forma de uma pergunta, proponho a seguinte formulação:
 
 > Se Deus é bom e justo, como é que pode condenar ao inferno aqueles que nunca tiveram oportunidade de ouvir falar de Jesus?
 
