@@ -14,6 +14,6 @@ categories:
 > Religion is a two way relationship.
 > God's initiative comes first and our response comes second. 
 >
-> <cite> (Dr. Peter Kreeft)[https://www.youtube.com/watch?v=eKa8X5vjtjc&t=1050s] </cite>
+> <cite> [Dr. Peter Kreeft](https://www.youtube.com/watch?v=eKa8X5vjtjc&t=1050s) </cite>
 
 I found this quote brilliant
