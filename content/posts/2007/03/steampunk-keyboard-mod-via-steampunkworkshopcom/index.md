@@ -1,8 +1,11 @@
 ---
 title: "Steampunk Keyboard Mod"
 date: "2007-03-06"
-categories: 
+categories:
   - "images"
+  - "shares"
+tags:
+  - "keyboard"
 ---
 
 ![steampunk keyboard](images/62768_500.jpg)
