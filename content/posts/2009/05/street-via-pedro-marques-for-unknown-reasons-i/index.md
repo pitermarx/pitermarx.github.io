@@ -10,4 +10,4 @@ categories:
 
 (via [Pedro Marques](http://flickr.com/photos/pedromarques))
 
-For unknown reasons, i like [this kind of things]({{< ref "/posts/2007/03/patterns-in-russia/" >}})
+For unknown reasons, i like [this kind of things]({{< ref "/posts/2007/03/patterns-in-russia" >}})

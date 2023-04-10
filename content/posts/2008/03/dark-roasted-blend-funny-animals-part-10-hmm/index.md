@@ -10,4 +10,4 @@ categories:
 
 [Dark Roasted Blend: Funny Animals, Part 10](http://www.darkroastedblend.com/2008/03/funny-animals-part-10.html)
 
-[hmm…]({{< ref "/posts/2008/01/best-faces-of-2007/" >}})
+[hmm…]({{< ref "/posts/2008/01/best-faces-of-2007" >}})
