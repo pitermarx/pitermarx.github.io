@@ -6,7 +6,7 @@ categories:
   - "shares"
 ---
 
-Another version of [my favourite christmas carol](https://blog.pitermarx.com/2020/12/my-favourite-christmas-carol/)
+Another version of [my favourite christmas carol]({{< ref "/posts/2020/12/my-favourite-christmas-carol" >}})
 
 {{< youtube X29EifkeEbw >}}
 

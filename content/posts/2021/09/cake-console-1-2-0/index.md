@@ -1,14 +1,14 @@
 ---
 title: "Cake.Console 1.2.0"
 date: "2021-09-09"
-categories: 
+categories:
   - "longs"
   - "original"
-tags: 
+tags:
   - "dev"
 ---
 
-After a bit of work, I have found Cake.[Console](https://blog.pitermarx.com/2021/09/presenting-cake-console/) stable enough for a [first release](https://www.nuget.org/packages/Cake.Console/). I decided to version it with the same number as Cake itself. If needed I will update the revision number.
+After a bit of work, I have found [Cake.Console]({{< ref "/posts/2021/09/presenting-cake-console >}}) stable enough for a [first release](https://www.nuget.org/packages/Cake.Console/). I decided to version it with the same number as Cake itself. If needed I will update the revision number.
 
 ## Usage
 
@@ -41,7 +41,7 @@ host.Task("TaskName").Does(c => c.Information("Hello"));
 host.RunTarget(host.Context.Arguments.GetArgument("target"));
 ```
 
-2. Using the Cake Cli, that includes arguments like --target, --version, --info, --tree, --description, --exclusive…  
+2. Using the Cake Cli, that includes arguments like --target, --version, --info, --tree, --description, --exclusive…
     It's very similar to [frosting](https://cakebuild.net/docs/running-builds/runners/cake-frosting)
 
 ```

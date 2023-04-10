@@ -1,7 +1,7 @@
 ---
 title: "Street"
 date: "2009-05-21"
-categories: 
+categories:
   - "images"
   - "shares"
 ---
@@ -10,4 +10,4 @@ categories:
 
 (via [Pedro Marques](http://flickr.com/photos/pedromarques))
 
-For unknown reasons, i like [this kind of things](https://blog.pitermarx.com/2007/03/patterns-in-russia/)
+For unknown reasons, i like [this kind of things]({{< ref "/posts/2007/03/patterns-in-russia/" >}})

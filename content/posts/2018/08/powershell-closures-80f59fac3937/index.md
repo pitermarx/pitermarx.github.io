@@ -1,21 +1,21 @@
 ---
 title: "Powershell closures"
 date: "2018-08-07"
-categories: 
+categories:
   - "original"
   - "shorts"
-tags: 
+tags:
   - "dev"
 ---
 
-As a [follow up to the previous article](https://blog.pitermarx.com/2018/08/execute-an-arbitrary-piece-of-code-with-a-temporary-file-uploaded-to-azure-e87f7057f70b/), I needed to warn you (and me) about powershell closures. They didn’t work as i expected
+I needed to warn you (and me) about powershell closures. They didn’t work as i expected
 
 ```
 $Foo = 1
 Write-Host "I expect Foo to be 1: " $Foo
 
 function New-Closure {
-    param([Scriptblock] $Expression, $Foo = 2) 
+    param([Scriptblock] $Expression, $Foo = 2)
     & $Expression
 }
 
