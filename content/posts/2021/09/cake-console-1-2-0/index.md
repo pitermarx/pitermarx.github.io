@@ -8,7 +8,7 @@ tags:
   - "dev"
 ---
 
-After a bit of work, I have found [Cake.Console]({{< ref "/posts/2021/09/presenting-cake-console >}}) stable enough for a [first release](https://www.nuget.org/packages/Cake.Console/). I decided to version it with the same number as Cake itself. If needed I will update the revision number.
+After a bit of work, I have found [Cake.Console]({{< ref "/posts/2021/09/presenting-cake-console" >}}) stable enough for a [first release](https://www.nuget.org/packages/Cake.Console/). I decided to version it with the same number as Cake itself. If needed I will update the revision number.
 
 ## Usage
 
