@@ -10,7 +10,7 @@ tags:
 
 Os [Large Language Models](https://en.wikipedia.org/wiki/Large_language_model) (LLM), têm recentemente sido alvo de grande atenção, por causa de desenvolvimentos tecnológicos que os fazem ter resultados tão bons que espantam até mesmo os investigadores que os desenvolvem.
 
-A [OpenAI](https://openai.com/) oferece gratuitamente, o [ChatGPT](https://openai.com/blog/chatgpt) que é um LLM. O ChatGPT é capaz de manter uma conversa em várias línguas, sobre quase qualquer assunto, e escrever respostas com uam aparente confiança tal que pode convencer qualquer pessoa que não esteja familiarizada com o tópico da conversa.
+A [OpenAI](https://openai.com/) oferece gratuitamente o [ChatGPT](https://openai.com/blog/chatgpt) que é um LLM. O ChatGPT é capaz de manter uma conversa em várias línguas, sobre quase qualquer assunto, e escrever respostas com uma aparente confiança tal que pode convencer qualquer pessoa que não esteja familiarizada com o tópico da conversa.
 
 Simplificando muito, o texto que o ChatGPT gera é baseado na pergunta "Que palavras têm a maior probabilidade de aparecer agora, dado tudo o que já foi escrito anteriormente?". Ora esta pergunta não está afinada para responder com dados factuais, mas sim para gerar um texto coerente que imite a escrita humana na qual o modelo do ChatGPT foi treinado. No entanto, ainda assim é surpreendente a qualidade do texto gerado.
 
@@ -30,11 +30,11 @@ A resposta foi surpreendentemente detalhada
 >
 > Em resumo, a fé é um ato pessoal de adesão a Deus, que envolve tanto o intelecto quanto a vontade e é infundida por Deus. Não é apenas um consentimento intelectual, mas também uma resposta de confiança e entrega a Ele, e envolve a dimensão comunitária da vida da Igreja.
 
-Decidi pega na ideia de confiança e tentar desenvolve-la.
+Decidi seguir com a ideia de confiança e tentei que o ChatGPT a desenvolvesse.
 
 > Há então além do consentimento intelectual (que até os demónios têm) uma adesão ou confiança em Deus.
 
-Com esta simples frase, o ChatGPT deu-me mais alguns pontos para pensar
+Com esta simples frase, o ChatGPT respondeu-me mais alguns pontos para eu ponderar.
 
 > Sim, exatamente. A fé não é apenas um mero consentimento intelectual em relação às verdades reveladas por Deus, mas também envolve uma adesão pessoal e uma confiança em Deus como fonte de toda verdade e bem.
 >
@@ -56,7 +56,7 @@ No entanto, como se fosse um bom teólogo cristão, o ChatGPT não "se deixou en
 >
 > Portanto, a fé e a vida moral são inseparáveis. A verdadeira fé nos leva a uma vida de virtude e santidade, que é a resposta adequada ao amor e à misericórdia de Deus.
 
-Esta interação foi bastante útil para me ajudar a sistematizar as ideias sobre o que é a fé. Tentei escrever um resumo em três pontos
+Esta interação foi bastante útil para me ajudar a sistematizar as ideias sobre o que é a fé. Tentei escrever um resumo em três pontos.
 
 > Então a fé verdadeira que leva à salvação tem três componentes:
 > 1 - O consentimento intelectual às verdades do evangelho, i.e. Deus existe, Jesus é o Homem-Deus que morreu pelos pecados do mundo, todos somos pecadores...
