@@ -40,7 +40,7 @@ jobs:
         env:
           HUGO_INSIGHTS: ${{ secrets.HUGO_INSIGHTS }}
         with:
-          version: latest
+          version: 0.111.3
           extended: false
           args: --cleanDestinationDir --minify --verbose
       - name: Upload artifact
