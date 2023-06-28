@@ -5,4 +5,12 @@
     .prose :where(blockquote):not(:where([class~=not-prose] *)) {
         font-weight: unset;
     }
+    /* Two columns on home */
+    @media screen and (min-width: 800px) {
+        #main-content>section {
+            float: left;
+            width: 48%;
+            padding: 0 2%;
+        }
+    }
 </style>
