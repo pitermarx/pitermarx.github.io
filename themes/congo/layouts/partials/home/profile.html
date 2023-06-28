@@ -31,6 +31,4 @@
   </header>
   <section class="prose dark:prose-invert">{{ .Content | emojify }}</section>
 </article>
-<section>
-  {{ partial "recent-articles.html" . }}
-</section>
+{{ partial "recent-articles.html" . }}
