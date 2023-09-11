@@ -1,12 +1,7 @@
-<script src="https://getinsights.io/js/insights.js"></script>
+<script async src="https://analytics.umami.is/script.js" data-website-id="42551e5b-0378-4474-bc3a-b2849edf2faf"></script>
 <script>
   (function (){
-    let id = '{{ os.Getenv "HUGO_INSIGHTS" }}';
     let doNotTrack = localStorage.getItem("insights") === 'do-not-track'
-    if (id && !doNotTrack) {
-      insights.init(id);
-      insights.trackPages();
-    }
 
     document.addEventListener(
       "DOMContentLoaded",
@@ -27,7 +22,7 @@
 
     function redirectAtRandom(data) {
       let randIndex = Math.floor(Math.random() * data.length);
-      if (!doNotTrack) insights.track({ id: "random-button" })
+      if (!doNotTrack) umami.track('Random button')
       window.location.href = data[randIndex]['permalink']
     }
   })();
