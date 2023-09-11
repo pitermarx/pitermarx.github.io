@@ -1,6 +1,6 @@
 ---
 title: "A divindade de Cristo"
-date: "2022-09-11"
+date: "2023-09-11"
 categories:
   - "longs"
   - "original"
