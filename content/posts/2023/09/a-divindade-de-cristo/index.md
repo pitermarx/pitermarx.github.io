@@ -16,7 +16,7 @@ Poderia aprofundar muitos desses assuntos, tal como [Jesus ser o arcanjo Miguel]
 Poderia falar de [previsões](https://en.wikipedia.org/wiki/Unfulfilled_Watch_Tower_Society_predictions#Adherents'_response_to_failed_predictions) e [profecias](https://jwfacts.com/watchtower/jehovahs-prophet.php) [falhadas](https://jwfacts.com/watchtower/1800s.php), ou da ideia da [divisão da humanidade em classes](https://www.jw.org/pt-pt/ensinos-biblicos/perguntas/quem-vai-para-o-ceu/), mas vou deixar todos esses assuntos para outra altura. Não que os ache pouco importantes, ou difíceis de rebater, mas simplesmente quero focar-me num assunto que acho essencial da fé cristã, a divindade de Jesus Cristo.
 Esse ponto doutrinário tem sido alvo de ataques constantes ao longo da história, primeiro pelos Judeus, depois por [Ário](https://pt.wikipedia.org/wiki/Arianismo) e [Nestório](https://pt.wikipedia.org/wiki/Nestorianismo), por Maomé e pelos muçulmanos até hoje, e mais recentemente pelas testemunhas de Jeová. Todos estes grupos, tão diferentes entre si, concordam numa coisa. Jesus não é Deus. Eu discordo, e quero explicar porquê.
 
-# Metodologia
+## Metodologia
 
 Ao longo de 2000 anos de história, os principais grupos cristãos, Católicos, Ortodoxos e Protestantes sempre concordaram que Jesus se considerava divino, e que a Bíblia e o testemunho dos apóstolos confirmavam isso. 
 Se em toda a história da Igreja vemos uma voz unânime a afirmar algo de que discordamos, devemos ter a humildade intelectual para assumir que é altamente provável estarmos errados, mas vamos ignorar isso.
@@ -25,11 +25,11 @@ As Testemunhas de Jeová não vão aceitar o testemunho da igreja como justifica
   - Que os apóstolos consideravam Jesus como divino.
   - Que o Velho Testamento não impõe a interpretação de Jeová como uma unidade monolítica, permitindo espaço para uma compreensão da divindade de Jesus.
 
-# O que pensava Jesus sobre si?
+## O que pensava Jesus sobre si?
 
 Conseguimos entender nos evangelhos, através do que jesus diz e faz, que ele não se considera uma pessoa qualquer, mas reclama para si atributos e direitos que são apenas divinos. Por vezes essas afirmações não são muito claras para nós, mas os Judeus que ouviram Jesus ajudam-nos. Sempre que Jesus afirmava a sua divindade, a sua vida estava em risco, porque os Judeus o queriam condenar à morte por blasfémia.
 
-## Filho de Deus
+### Filho de Deus
 
 > Princípio do evangelho de Jesus Cristo, *Filho de Deus*.
 >
@@ -75,7 +75,7 @@ Ao dizer-se Filho de Deus, Jesus afirmava ser da mesma natureza de Deus, mas tam
 >
 > <cite>[João 10:30-33](https://www.biblegateway.com/passage/?search=Jo%C3%A3o+10%3A30-33&version=ARC)</cite>
  
-## Unigénito
+### Unigénito
 
 Jesus não apenas é Filho de Deus num sentido particular, ele é o único filho de Deus. Ele é o Deus unigénito.
 
@@ -101,7 +101,7 @@ Mas ser filho unigénito de Deus não implica que Jesus é um ser criado? Poder�
 
 Mas há outra afirmação ainda mais chocante de Jesus, onde entendemos que ele é um ser eterno.
 
-## Eu Sou
+### Eu Sou
 
 O Evangelho de João é particularmente rico em afirmações chocantes, se ditas por alguém que não Deus. Os judeus afirmavam que Jesus estava possuído por demónios, e queriam matá-lo por blasfémia.
    
@@ -124,7 +124,7 @@ Com a afirmação "Eu Sou" Jesus estava inequivocamente a identificar-se com [YH
 >
 > <cite>[Exodo 3:14](https://www.biblegateway.com/passage/?search=Exodo+3%3A14&version=ARC)</cite>
 
-## Filho do Homem
+### Filho do Homem
 
 Um dos títulos preferidos de Jesus, que usava constantemente para se referir a si mesmo era "Filho do Homem". 
 Alguns afirmam que esta expressão realça a sua humanidade, mas na verdade, "Filho do Homem" é um título ainda mais divino do que "Filho de Deus".
@@ -149,11 +149,11 @@ Jesus estava a fazer uma alusão à visão de Daniel, em que um como "Filho do H
 Jesus estava a afirmar que ele próprio quem iria receber de Deus um reino eterno e autoridade sobre todos.
 Além disso afirmou que se iria sentar à "direita do Poder", o que significa que tem a mesma autoridade que Deus Pai.
 
-## Os direitos de Jesus
+### Os direitos de Jesus
 
 Até aqui vimos quatro títulos ou atributos acerca de quem Jesus é, mas há ainda quatro coisas que Jesus tem ou faz que demonstram a sua divindade. Por outras palavras, aquilo a que Jesus tem direito.
 
-### Autoridade
+#### Autoridade
 
 Jesus recebe de Deus Pai toda a autoridade. Autoridade sobre toda a carne. Autoridade no céu e na terra. Autoridade sobre tudo e todos.
 
@@ -188,7 +188,7 @@ E por fim afirma ter autoridade sobre o sábado, uma festa solene instituída po
 >
 > <cite>[Mateus 12:8](https://www.biblegateway.com/passage/?search=Mateus+12%3A8&version=ARC)</cite>
 
-### Adoração
+#### Adoração
 
 Muitas vezes vemos nos evangelhos Jesus sendo adorado.
 Nunca vemos Jesus a repreender alguém por essa atitude.
@@ -224,7 +224,7 @@ A mesma honra devida a Deus Pai é também devida ao filho.
 > para que todos honrem o Filho, *assim como honram o Pai*. Quem não honra o Filho, não honra o Pai que o enviou.
 {{< /bible >}}
 
-### Absolvição
+#### Absolvição
 
 Por último, Jesus afirma a sua divindade quando perdoa pecados. Quem pode perdoar é aquele que é o ofendido. Um pecado é uma ofensa contra Deus, logo apenas Deus pode perdoar.
 
@@ -246,11 +246,11 @@ Por último, Jesus afirma a sua divindade quando perdoa pecados. Quem pode perdo
 
 Os escribas têm razão. Ou Jesus blasfemava, ou então ele é o próprio Deus encarnado.
 
-# O que pensavam os apóstolos sobre Jesus?
+## O que pensavam os apóstolos sobre Jesus?
 
 Não temos testemunho escrito de todos os doze discípulos de Jesus. Mas a partir do testemunho que temos, é fácil perceber que, para os apóstolos, Jesus era mais que um ser criado por Deus.
 
-## Pedro
+### Pedro
 
 O apóstolo Pedro, sempre pronto para falar, foi usado por Deus para fazer uma afirmação em nome dos discípulos.
 
@@ -270,7 +270,7 @@ Como já vimos anteriormente, chamar a Jesus "Filho de Deus" é afirmar a sua di
 
 Para Pedro, Jesus é o "nosso Deus e Salvador" e "nosso Senhor". Para Pedro, Jesus tem "divino poder" para nos dar "tudo o que diz respeito à vida". Para Pedro, Jesus é Deus.
 
-## João
+### João
 
 O apóstolo João é o discípulo que mais enfatiza a divindade de Jesus, tanto no seu evangelho como nas suas cartas.
 
@@ -297,7 +297,7 @@ Para João, Jesus é o Filho unigénito de Deus, aquele que tem a mesma natureza
 Para João, Jesus é o Verbo que estava no princípio com Deus e por intermédio de quem toda a criação foi feita.
 Nada do que foi criado existe sem Jesus. Nem terra nem céus, nem homens nem anjos. Sem ele, nada do que foi feito se fez. Para João, Jesus é Deus.
 
-## Paulo
+### Paulo
 
 Paulo escreveu grande parte do novo testamento, por isso há muitíssimos exemplos onde poderíamos ler explicitamente ou inferir que Paulo considera Jesus um ser divino.
 Logo em Atos, ao despedir-se dos anciãos de Éfeso, Paulo dá-lhes instruções onde lemos que foi o "sangue de Deus" que comprou a igreja.
@@ -330,7 +330,7 @@ Para Paulo Jesus era Deus. Isto não foi uma descoberta ou invenção dele, mas 
 Já escrevi anteriormente sobre [os credos do novo testamento](https://blog.pitermarx.com/2022/04/os-credos-do-novo-testamento/), passagens que têm uma formulação diferente do resto do texto envolvente.
 São *formulações credais*, construídas de uma forma que ajude a recitação e memorização. Neles entendemos que os primeiros cristãos imediatamente após a morte de Jesus afirmavam a sua *divindade*, *pré-existência*, *morte pelos nossos pecados*, *sepultamento* e *ressurreição*.
 
-## Hebreus
+### Hebreus
 A identidade do escritor da carta aos Hebreus é incerta, mas sendo este um texto de resposta aos Testemunhas de Jeová, não poderia deixar de fora o seu testemunho.
 Hebreus começa por afirmar a superioridade de Jesus aos anjos, a Moisés e aos sumos sacerdotes.
 
@@ -359,4 +359,125 @@ Em suma, os apóstolos sabiam sem sombra de dúvida que Jesus é Deus. Vamos tom
 {{< bible "João 20:28-29" >}}
 > Respondeu-lhe Tomé: Senhor meu, e Deus meu!
 > Disse-lhe Jesus: Porque me viste, creste? Bem-aventurados os que não viram e creram.
+{{< /bible >}}
+
+## A pluralidade em Deus no velho testamento
+
+No velho testamento encontramos várias passagens com subtilezas intrigantes.
+Subtilezas que levam um leitor atento a questionar-se sobre a natureza de Deus.
+Não vou afirmar que encontramos uma doutrina da trindade claramente explícita no velho testamento, mas muitas questões que o texto levanta são respondidas se entendermos Deus tal como a ortodoxia cristã o define: "Um Deus, três pessoas".
+
+### Shemá
+
+Em primeiro lugar, um dos textos fundacionais para o Judaísmo é o [Shemá](https://pt.wikipedia.org/wiki/Shem%C3%A1_Israel).
+
+{{< bible "Deuteronômio 6:4" >}}
+> Ouve, ó Israel; o Senhor nosso Deus é o único Senhor.
+{{< /bible >}}
+
+Uma afirmação clara do monoteísmo Judaico, a que as várias religiões Abraâmicas acedem. Só há um Deus.
+No entanto, a palavra hebraica que afirma a unidade de Deus, אחד (echad), pode ser entendida como uma unidade composta.
+Por exemplo em Génesis 2 o primeiro casal é "uma carne". Não é uma palavra que implique necessariamente uma unidade monolítica.
+
+{{< bible "Génesis 2:24" >}}
+> Portanto deixará o homem a seu pai e a sua mãe, e unir-se-á à sua mulher, e serão uma só carne.
+{{< /bible >}}
+
+Quando os cristãos afirmam que Deus são três pessoas, não estão a afirmar um politeísmo, pois assim negariam as escrituras, mas sim um entendimento diferente da natureza de Deus.
+
+### Gramática
+
+Duas das passagens mais intrigantes que sugerem uma pluralidade dentro da divindade são encontradas no livro de Génesis.
+
+{{< bible "Génesis 1:26" >}}
+> E disse Deus: Façamos o homem à nossa imagem, conforme a nossa semelhança; domine ele sobre os peixes do mar, sobre as aves do céu, sobre os animais domésticos, e sobre toda a terra, e sobre todo réptil que se arrasta sobre a terra.
+{{< /bible >}}
+
+{{< bible "Génesis 3:22" >}}
+> Então disse o Senhor Deus: Eis que o homem se tem tornado como um de nós, conhecendo o bem e o mal. Ora, não suceda que estenda a sua mão, e tome também da árvore da vida, e coma e viva eternamente.
+{{< /bible >}}
+
+Nestas duas passagens, Deus fala consigo na primeira pessoa do plural. Fala como se estivesse num grupo de Deuses, e toma conselho entre eles.
+Esta curiosidade gramatical é muito bem explicada pelo conceito da trindade.
+Outra pista intrigante para a natureza plural de Deus é o uso do termo אלהים (Elohim).
+A palavra אלהים é plural em hebraico e é frequentemente usada para se referir a Deus no Velho Testamento. Isso implica que a divindade não é uma entidade singular, mas sim uma pluralidade que age em unidade.
+
+### O Anjo do Senhor
+
+Já [escrevi](https://blog.pitermarx.com/2022/01/the-angel-of-the-lord/) anteriormente sobre este tópico, por isso vou ser breve, mas o conceito do "Anjo do Senhor" também lança luz sobre essa visão não monolítica de Deus.
+
+{{< bible "Exodo 3:2-4" >}}
+> E apareceu-lhe o anjo do Senhor em uma chama de fogo do meio duma sarça. Moisés olhou, e eis que a sarça ardia no fogo, e a sarça não se consumia;
+> pelo que disse: Agora me virarei para lá e verei esta maravilha, e por que a sarça não se queima.
+> E vendo o Senhor que ele se virara para ver, Deus chamou-o do meio da sarça, e disse: Moisés, Moisés! Respondeu ele: Eis-me aqui.
+{{< /bible >}}
+
+No mesmo texto lemos que quem está na sarça é o Anjo do Senhor, mas quem fala do meio da sarça é Deus. Lemos também que é o Senhor (יהוה, Jeová) que vê que Moisés se está a aproximar, mas que é Deus (אלהים, Elohim) quem fala.
+
+### Várias pessoas divinas
+
+O rei David escreve no Salmo 110 que o Senhor (יהוה, Jeová), fala com o Senhor (אדן, Adonai) de David e lhe dá um lugar de autoridade, à sua "mão direita", indicando um estatuto de igualdade com Deus.
+
+{{< bible "Salmos 110:1" >}}
+> Disse o Senhor ao meu Senhor: Assenta-te à minha direita, até que eu ponha os teus inimigos por escabelo dos teus pés.
+{{< /bible >}}
+
+Em Génesis encontramos uma passagem que pode ser entendida como referindo dois Senhores (יהוה, Jeová).
+
+{{< bible "Génesis 19:24" >}}
+> Então, fez o SENHOR chover enxofre e fogo, da parte do SENHOR, sobre Sodoma e Gomorra.
+{{< /bible >}}
+
+Em Isaías também encontramos passagens que oferecem uma visão da pluralidade divina.
+
+{{< bible "Isaías 48:12-17" >}}
+> Escuta-me, ó Jacó, e tu, ó Israel, a quem chamei; eu sou o mesmo, eu o primeiro, eu também o último.
+> Também a minha mão fundou a terra, e a minha destra estendeu os céus; quando eu os chamo, eles aparecem juntos.
+> Ajuntai-vos todos vós, e ouvi: Quem, dentre eles, tem anunciado estas coisas? Aquele a quem o Senhor amou executará a sua vontade contra Babilônia, e o seu braço será contra os caldeus.
+> Eu, eu o tenho dito; também já o chamei; eu o trouxe, e o seu caminho será próspero.
+> Chegai-vos a mim, ouvi isto: Não falei em segredo desde o princípio; desde o tempo em que aquilo se fez, eu estava ali; e agora o Senhor Deus me enviou juntamente com o seu Espírito.
+> Assim diz o Senhor, o teu Redentor, o Santo de Israel: Eu sou o Senhor, o teu Deus, que te ensina o que é útil, e te guia pelo caminho em que deves andar.
+{{< /bible >}}
+
+Quem está a falar é "o Senhor, o teu Deus", "o primeiro e o último", mas ele é enviado pelo "Senhor Deus" juntamente com o seu Espírito. Este texto sugere a presença simultânea de Deus, do Senhor, e do Seu Espírito, como entidades distintas.
+
+## Conclusão
+Uma análise aprofundada das escrituras demonstra sem sombras de dúvidas que Jesus é Deus.
+Muitos textos do novo testamento ficariam mal explicados se negássemos esse facto.
+Muitos textos do velho testamento que levantam questões sobre a natureza de Deus ficariam por explicar sem esse facto.
+Só há um Deus, mas Ele existe como três pessoas. Não é tão claro como no caso de Jesus que nas escrituras o Espírito Santo também é Deus, mas também é fácil chegar a essa conclusão.
+Mas no caso de Jesus, não há espaço para negar a sua divindade.
+
+Isaías diz-nos três vezes que o Senhor (יהוה, Jeová) é o primeiro e o último.
+
+{{< bible "Isaías 41:4" >}}
+> Quem operou e fez isto, chamando as gerações desde o princípio? Eu, o Senhor, que sou o primeiro, e que com os últimos sou o mesmo.
+{{< /bible >}}
+
+{{< bible "Isaías 44:6" >}}
+> Assim diz o Senhor, Rei de Israel, seu Redentor, o Senhor dos exércitos: Eu sou o primeiro, e eu sou o último, e fora de mim não há Deus.
+{{< /bible >}}
+
+{{< bible "Isaías 48:12" >}}
+> Escuta-me, ó Jacó, e tu, ó Israel, a quem chamei; eu sou o mesmo, eu o primeiro, eu também o último.
+{{< /bible >}}
+
+Mas no livro de Apocalipse, é Jesus o primeiro e o último, o Alfa e o Ómega.
+
+{{< bible "Apocalipse 1:8" >}}
+> Eu sou o Alfa e o ómega, diz o Senhor Deus, aquele que é, e que era, e que há de vir, o Todo-Poderoso.
+{{< /bible >}}
+
+{{< bible "Apocalipse 2:8" >}}
+> Ao anjo da igreja em Esmirna escreve: Isto diz o primeiro e o último, que foi morto e reviveu:
+{{< /bible >}}
+
+{{< bible "Apocalipse 21:5-6" >}}
+> E o que estava assentado sobre o trono disse: Eis que faço novas todas as coisas. E acrescentou: Escreve; porque estas palavras são fiéis e verdadeiras.
+> Disse-me ainda: está cumprido: Eu sou o Alfa e o Ómega, o princípio e o fim. A quem tiver sede, de graça lhe darei a beber da fonte da água da vida.
+{{< /bible >}}
+
+{{< bible "Apocalipse 22:12-13" >}}
+> Eis que cedo venho e está comigo a minha recompensa, para retribuir a cada um segundo a sua obra.
+> Eu sou o Alfa e o Ómega, o primeiro e o derradeiro, o princípio e o fim.
 {{< /bible >}}
