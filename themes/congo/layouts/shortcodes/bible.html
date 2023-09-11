@@ -1,9 +1,9 @@
-{{ .Inner | markdownify }}
-<p>
+<blockquote>
+    <p>{{ .Inner | markdownify }}</p>
     <cite>
         <a href="https://www.biblegateway.com/passage/?search={{ .Get 0 }}&version=ARC"
            target="_blank">
            {{ .Get 0 }}
         </a>
     </cite>
-</p>
+</blockquote>
