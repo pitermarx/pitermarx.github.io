@@ -50,7 +50,7 @@ mas os que são julgados dignos de alcançar o mundo vindouro, e a ressurreiçã
 porque já não podem mais morrer; pois são *iguais aos anjos*, e são *filhos de Deus*, sendo filhos da ressurreição.
 {{< /bible >}}
 
-Mas será que Jesus é chamado Filho de Deus no mesmo sentido que os seres humanos ou os anjos? Não. Jesus reclamava para si esse título de forma particular, sendo ele <b>O Filho</bde Deus e não apenas <b>UM</bFilho de Deus. Jesus é o único que conhece e pode revelar Pai, e o Pai também testifica que Jesus é o seu Filho.
+Mas será que Jesus é chamado Filho de Deus no mesmo sentido que os seres humanos ou os anjos? Não. Jesus reclamava para si esse título de forma particular, sendo ele **O** Filho de Deus e não apenas **UM** Filho de Deus. Jesus é o único que conhece e pode revelar Pai, e o Pai também testifica que Jesus é o seu Filho.
 			
 {{< bible "Lucas 10:22" >}}
 Todas as coisas me foram entregues por meu Pai; e ninguém conhece quem é *o Filho* senão o Pai, nem quem é o Pai senão *o Filho*, e aquele a quem o Filho o quiser revelar.
