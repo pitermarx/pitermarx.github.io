@@ -37,8 +37,6 @@ jobs:
         uses: actions/configure-pages@v2
       - name: Run Hugo
         uses: crazy-max/ghaction-hugo@v2
-        env:
-          HUGO_INSIGHTS: ${{ secrets.HUGO_INSIGHTS }}
         with:
           version: v0.111.3
           extended: false

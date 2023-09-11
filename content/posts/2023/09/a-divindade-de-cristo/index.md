@@ -1,6 +1,6 @@
 ---
 title: "A divindade de Cristo"
-date: "2022-09-12"
+date: "2022-09-11"
 categories:
   - "longs"
   - "original"
@@ -442,11 +442,11 @@ Assim diz o Senhor, o teu Redentor, o Santo de Israel: Eu sou o Senhor, o teu De
 Quem está a falar é "o Senhor, o teu Deus", "o primeiro e o último", mas ele é enviado pelo "Senhor Deus" juntamente com o seu Espírito. Este texto sugere a presença simultânea de Deus, do Senhor, e do Seu Espírito, como entidades distintas.
 
 ## Conclusão
-Uma análise aprofundada das escrituras demonstra sem sombras de dúvidas que Jesus é Deus.
+Uma análise aprofundada das escrituras demonstra sem sombras de dúvidas que elas nos apresentam Jesus como Deus.
 Muitos textos do novo testamento ficariam mal explicados se negássemos esse facto.
 Muitos textos do velho testamento que levantam questões sobre a natureza de Deus ficariam por explicar sem esse facto.
-Só há um Deus, mas Ele existe como três pessoas. Não é tão claro como no caso de Jesus que nas escrituras o Espírito Santo também é Deus, mas também é fácil chegar a essa conclusão.
-Mas no caso de Jesus, não há espaço para negar a sua divindade.
+Só há um Deus, mas Ele existe como três pessoas. Não é tão claro como no caso de Jesus que nas escrituras o Espírito Santo também é Deus, mas também conseguimos chegar a essa conclusão.
+No entanto, para o caso de Jesus, não há espaço para negar a sua divindade.
 
 Isaías diz-nos três vezes que o Senhor (יהוה, Jeová) é o primeiro e o último.
 
@@ -481,3 +481,14 @@ Disse-me ainda: está cumprido: Eu sou o Alfa e o Ómega, o princípio e o fim. 
 Eis que cedo venho e está comigo a minha recompensa, para retribuir a cada um segundo a sua obra.
 Eu sou o Alfa e o Ómega, o primeiro e o derradeiro, o princípio e o fim.
 {{< /bible >}}
+
+Para negarmos a divindade de Jesus Cristo, temos três hipóteses.
+
+1. Negamos completamente as escrituras. Mesmo que elas não fossem inspiradas por Deus ou sagradas, elas demonstrariam sem sombra de dúvida que Jesus e os primeiros cristãos criam na divindade de Cristo.
+Para negarmos esse facto, precisamos de afirmar que elas são completamente inconfiáveis, coisa que nem descrentes que estudam o texto afirmam.
+2. Negarmos o caráter bondoso de Jesus. Se temos uma informação confiável de que Jesus afirmava ser Deus, mas não o era, temos a hipótese de o considerar um embusteiro.
+Se ele não era Deus, mas afirmava sê-lo, então Jesus não é um bom homem. É um mentiroso. É muito estranho se assim for, porque esse mentiroso teria morrido por algo que sabia ser mentira.
+3. Negarmos a sanidade mental de Jesus. Se Jesus afirmou a sua divindade, estando sinceramente convencido dela, mas estando sinceramente enganado, então teríamos de questionar a sua sanidade mental.
+No entanto, as palavras e os actos de Jesus como descritos nos evangelhos mostram uma pessoa em plena posse das suas faculdades mentais, um mestre cujos ensinos fazem sentido tanto para crianças como para os eruditos deste mundo.
+
+Se as escrituras, particularmente os evangelhos, são uma fonte confiável de informação sobre Jesus, então, ou Jesus é um maluco, ou Jesus é um mentiroso, ou Jesus é Deus.
