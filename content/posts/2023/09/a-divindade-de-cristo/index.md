@@ -1,6 +1,6 @@
 ---
 title: "A divindade de Cristo"
-date: "2023-09-12"
+date: "2022-09-12"
 categories:
   - "longs"
   - "original"
@@ -172,13 +172,13 @@ Jesus recebe de Deus Pai toda a autoridade. Autoridade sobre toda a carne. Autor
 
 Jesus dá alguns exemplos dessa autoridade nos seus milagres. Demonstra autoridade sobre a natureza quando acalma a tempestade, anda sobre o mar, multiplica os pães ou transforma a água em vinho.
 
-> E aqueles homens se maravilharam, dizendo: Que homem é este, que até os ventos e o mar lhe obedecem?
+> E aqueles homens se maravilharam, dizendo: Que homem é este, que até os ventos e o mar *lhe obedecem*?
 >
 > <cite>[Mateus 8:27](https://www.biblegateway.com/passage/?search=Mateus+8%3A27&version=ARC)</cite>
 
 Demonstra autoridade sobre os demónios.
 
-> E todos se maravilharam a ponto de perguntarem entre si, dizendo: Que é isto? Uma nova doutrina com autoridade! Pois ele ordena aos espíritos imundos, e eles lhe obedecem!
+> E todos se maravilharam a ponto de perguntarem entre si, dizendo: Que é isto? Uma nova doutrina com autoridade! Pois ele ordena aos espíritos imundos, e eles *lhe obedecem*!
 >
 > <cite>[Marcos 1:27](https://www.biblegateway.com/passage/?search=Marcos+1%3A27&version=ARC)</cite>
 
@@ -195,33 +195,33 @@ Nunca vemos Jesus a repreender alguém por essa atitude.
 Portanto, ou Jesus é alguém que tem direito a receber algo que só é próprio de dar a Deus ou então Jesus estava a pecar, recebendo adoração.
 
 {{< bible "Mateus 8:2" >}}
-> E eis que veio um leproso e o adorava, dizendo: Senhor, se quiseres, podes tornar-me limpo.
+> E eis que veio um leproso e o **adorava**, dizendo: Senhor, se quiseres, podes tornar-me limpo.
 {{< /bible >}}
     
 {{< bible "Mateus 9:18" >}}
-> Enquanto ainda lhes dizia essas coisas, eis que chegou um chefe da sinagoga e o adorou, dizendo: Minha filha acaba de falecer; mas vem, impõe-lhe a tua mão, e ela viverá.
+> Enquanto ainda lhes dizia essas coisas, eis que chegou um chefe da sinagoga e o **adorou**, dizendo: Minha filha acaba de falecer; mas vem, impõe-lhe a tua mão, e ela viverá.
 {{< /bible >}}
 
 {{< bible "Mateus 14:33" >}}
-> Então os que estavam no barco adoraram-no, dizendo: Verdadeiramente tu és Filho de Deus.
+> Então os que estavam no barco **adoraram-no**, dizendo: Verdadeiramente tu és Filho de Deus.
 {{< /bible >}}
 
 {{< bible "Mateus 15:25" >}}
-> Então veio ela e, adorando-o, disse: Senhor, socorre-me.
+> Então veio ela e, **adorando-o**, disse: Senhor, socorre-me.
 {{< /bible >}}
 
 {{< bible "Mateus 28:9" >}}
-> E eis que Jesus lhes veio ao encontro, dizendo: Salve. E elas, aproximando-se, abraçaram-lhe os pés, e o adoraram.
+> E eis que Jesus lhes veio ao encontro, dizendo: Salve. E elas, aproximando-se, abraçaram-lhe os pés, e o **adoraram**.
 {{< /bible >}}
 
 {{< bible "João 9:38" >}}
-> Disse o homem: Creio, Senhor! E o adorou.
+> Disse o homem: Creio, Senhor! E o **adorou**.
 {{< /bible >}}
 
 A mesma honra devida a Deus Pai é também devida ao filho.
 
 {{< bible "João 5:23" >}}
-> para que todos honrem o Filho, assim como honram o Pai. Quem não honra o Filho, não honra o Pai que o enviou.
+> para que todos honrem o Filho, *assim como honram o Pai*. Quem não honra o Filho, não honra o Pai que o enviou.
 {{< /bible >}}
 
 ### Absolvição
@@ -245,3 +245,118 @@ Por último, Jesus afirma a sua divindade quando perdoa pecados. Quem pode perdo
 {{< /bible >}}
 
 Os escribas têm razão. Ou Jesus blasfemava, ou então ele é o próprio Deus encarnado.
+
+# O que pensavam os apóstolos sobre Jesus?
+
+Não temos testemunho escrito de todos os doze discípulos de Jesus. Mas a partir do testemunho que temos, é fácil perceber que, para os apóstolos, Jesus era mais que um ser criado por Deus.
+
+## Pedro
+
+O apóstolo Pedro, sempre pronto para falar, foi usado por Deus para fazer uma afirmação em nome dos discípulos.
+
+{{< bible "Mateus 16:16" >}}
+> Respondeu-lhe Simão Pedro: Tu és o Cristo, *o Filho do Deus vivo*.
+{{< /bible >}}
+
+Como já vimos anteriormente, chamar a Jesus "Filho de Deus" é afirmar a sua divindade.
+É dizer que ele tem a mesma natureza de Deus. Mas para não nos deixar dúvidas, Pedro escreve na sua segunda carta mais detalhadamente aquilo que ele sabe sobre Jesus.
+
+{{< bible "2 Pedro 1:1-4" >}}
+> Simão Pedro, servo e apóstolo de Jesus Cristo, aos que connosco alcançaram fé igualmente preciosa na justiça do ***nosso Deus e Salvador Jesus Cristo***:
+> Graça e paz vos sejam multiplicadas no pleno conhecimento de Deus e de Jesus nosso Senhor;
+> visto como *o seu divino poder* nos tem dado tudo o que diz respeito à vida e à piedade, pelo pleno conhecimento daquele que nos chamou por sua própria glória e virtude;
+> pelas quais ele nos tem dado as suas preciosas e grandíssimas promessas, para que por elas vos torneis participantes da natureza divina, havendo escapado da corrupção, que pela concupiscência há no mundo.
+{{< /bible >}}
+
+Para Pedro, Jesus é o "nosso Deus e Salvador" e "nosso Senhor". Para Pedro, Jesus tem "divino poder" para nos dar "tudo o que diz respeito à vida". Para Pedro, Jesus é Deus.
+
+## João
+
+O apóstolo João é o discípulo que mais enfatiza a divindade de Jesus, tanto no seu evangelho como nas suas cartas.
+
+{{< bible "João 1:1-3" >}}
+> No princípio era o Verbo, e o Verbo estava com Deus, e o **Verbo era Deus**.
+> Ele estava no princípio com Deus.
+> Todas as coisas foram feitas por intermédio dele, e sem ele nada do que foi feito se fez.
+{{< /bible >}}
+
+{{< bible "João 20:30-31" >}}
+> Jesus, na verdade, operou na presença de seus discípulos ainda muitos outros sinais que não estão escritos neste livro;
+> estes, porém, estão escritos para que creiais que Jesus é o Cristo, o Filho de Deus, e para que, crendo, tenhais vida em seu nome.
+{{< /bible >}}
+
+{{< bible "1 João 4:9" >}}
+> Nisto se manifestou o amor de Deus para conosco: em que Deus enviou seu **Filho unigênito** ao mundo, para que por meio dele vivamos.
+{{< /bible >}}
+
+{{< bible "1 João 5:5" >}}
+> Quem é o que vence o mundo, senão aquele que crê que Jesus é o Filho de Deus?
+{{< /bible >}}
+
+Para João, Jesus é o Filho unigénito de Deus, aquele que tem a mesma natureza de Deus.
+Para João, Jesus é o Verbo que estava no princípio com Deus e por intermédio de quem toda a criação foi feita.
+Nada do que foi criado existe sem Jesus. Nem terra nem céus, nem homens nem anjos. Sem ele, nada do que foi feito se fez. Para João, Jesus é Deus.
+
+## Paulo
+
+Paulo escreveu grande parte do novo testamento, por isso há muitíssimos exemplos onde poderíamos ler explicitamente ou inferir que Paulo considera Jesus um ser divino.
+Logo em Atos, ao despedir-se dos anciãos de Éfeso, Paulo dá-lhes instruções onde lemos que foi o "sangue de Deus" que comprou a igreja.
+
+{{< bible "Actos 20:28" >}}
+> Cuidai pois de vós mesmos e de todo o rebanho sobre o qual o Espírito Santo vos constituiu bispos, para apascentardes a igreja de Deus, que ele adquiriu com seu próprio sangue.
+{{< /bible >}}
+
+Na carta aos Colossenses, a igreja é avisada sobre enganos que os iriam separar da simplicidade da fé em Cristo, em quem "habita corporalmente TODA a plenitude da divindade".
+
+{{< bible "Colossenses 2:8-10" >}}
+> Tendo cuidado para que ninguém vos faça presa sua, por meio de filosofias e vãs sutilezas, segundo a tradição dos homens, segundo os rudimentos do mundo, e não segundo Cristo;
+> porque nele habita corporalmente toda a plenitude da divindade,
+> e tendes a vossa plenitude nele, que é a cabeça de todo principado e potestade,
+{{< /bible >}}
+
+Na carta aos Filipenses, Jesus é claramente afirmado como igual a Deus.
+
+{{< bible "Filipenses 2:5-11" >}}
+> Tende em vós aquele sentimento que houve também em Cristo Jesus,
+> o qual, subsistindo em forma de Deus, não considerou o ser igual a Deus coisa a que se devia aferrar,
+> mas esvaziou-se a si mesmo, tomando a forma de servo, tornando-se semelhante aos homens;
+> e, achado na forma de homem, humilhou-se a si mesmo, tornando-se obediente até a morte, e morte de cruz.
+> Pelo que também Deus o exaltou soberanamente, e lhe deu o nome que é sobre todo nome;
+> para que ao nome de Jesus se dobre todo joelho dos que estão nos céus, e na terra, e debaixo da terra,
+> e toda língua confesse que Jesus Cristo é Senhor, para glória de Deus Pai.
+{{< /bible >}}
+
+Para Paulo Jesus era Deus. Isto não foi uma descoberta ou invenção dele, mas foi o testemunho que ele recebeu dos primeiros cristãos.
+Já escrevi anteriormente sobre [os credos do novo testamento](https://blog.pitermarx.com/2022/04/os-credos-do-novo-testamento/), passagens que têm uma formulação diferente do resto do texto envolvente.
+São *formulações credais*, construídas de uma forma que ajude a recitação e memorização. Neles entendemos que os primeiros cristãos imediatamente após a morte de Jesus afirmavam a sua *divindade*, *pré-existência*, *morte pelos nossos pecados*, *sepultamento* e *ressurreição*.
+
+## Hebreus
+A identidade do escritor da carta aos Hebreus é incerta, mas sendo este um texto de resposta aos Testemunhas de Jeová, não poderia deixar de fora o seu testemunho.
+Hebreus começa por afirmar a superioridade de Jesus aos anjos, a Moisés e aos sumos sacerdotes.
+
+{{< bible "Hebreus 1:2-8,13-14" >}}
+> 2 nestes últimos dias a nós nos falou pelo Filho, a quem constituiu herdeiro de todas as coisas, e por quem fez também o mundo;
+> 3 sendo ele o resplendor da sua glória e a expressa imagem do seu Ser, e sustentando todas as coisas pela palavra do seu poder, havendo ele mesmo feito a purificação dos pecados, assentou-se à direita da Majestade nas alturas,
+> 4 feito tanto mais excelente do que os anjos, quanto herdou mais excelente nome do que eles.
+> 5 Pois a qual dos anjos disse jamais: Tu és meu Filho, hoje te gerei? E outra vez: Eu lhe serei Pai, e ele me será Filho?
+> 6 E outra vez, ao introduzir no mundo o primogênito, diz: E todos os anjos de Deus o adorem.
+> 7 Ora, quanto aos anjos, diz: Quem de seus anjos faz ventos, e de seus ministros labaredas de fogo.
+> 8 Mas do Filho diz: O teu trono, ó Deus, subsiste pelos séculos dos séculos, e cetro de eqüidade é o cetro do teu reino.
+> 13 Mas a qual dos anjos disse jamais: Assenta-te à minha direita até que eu ponha os teus inimigos por escabelo de teus pés?
+> 14 Não são todos eles espíritos ministradores, enviados para servir a favor dos que hão de herdar a salvação?
+{{< /bible >}}
+
+Livros inteiros podem ser escritos sobre este capítulo, mas vamos salientar três pontos. Lemos que Jesus é (1) herdeiro de todas as coisas (2) a expressa imagem de Deus (3) mais excelente do que os anjos.
+Lemos que Jesus tem um trono que vai permanecer para sempre. É a Jesus que toda a criação vai ser sujeita.
+
+{{< bible "Hebreus 2:5" >}}
+> Porque não foi aos anjos que Deus sujeitou o mundo vindouro, de que falamos.
+{{< /bible >}}
+
+A carta aos Hebreus afirma categoricamente que Jesus não é um anjo. É superior aos anjos, pois é ele que vai receber toda a autoridade sobre o mundo, não um anjo.
+Em suma, os apóstolos sabiam sem sombra de dúvida que Jesus é Deus. Vamos tomar o testemunho dos apóstolos como verdadeiro, e não esperar pelo nosso encontro com Jesus na nossa ressurreição para reconhecer a sua divindade. Sejamos mais bem-aventurados que Tomé.
+
+{{< bible "João 20:28-29" >}}
+> Respondeu-lhe Tomé: Senhor meu, e Deus meu!
+> Disse-lhe Jesus: Porque me viste, creste? Bem-aventurados os que não viram e creram.
+{{< /bible >}}
