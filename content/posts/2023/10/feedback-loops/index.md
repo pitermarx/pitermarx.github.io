@@ -89,4 +89,4 @@ If you cannot show those small improvements to the end users, use feature flags.
 
 ![](what-do-we-want.png)
 
-Where will YOU improve your feedback loops?
+How will YOU improve your feedback loops?
