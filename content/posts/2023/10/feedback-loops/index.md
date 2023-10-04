@@ -27,7 +27,7 @@ It has long ago been acknowledged that managing software systems is best done wi
 
 Royce acknowledged that each phase of the software development lifecycle informed and affected other phases, and not only the one that follows it. They can’t be planned and executed in isolation, thinking simply in terms of inputs and outputs.
 
-If we then know that feedback loops are critical to the success of a software project, we prioritize activities that improve our feedback loops.
+If we then know that feedback loops are critical to the success of a software project, we must prioritize activities that improve our feedback loops.
 One way to do it is to minimize delay or in other words, make it shorter, make it faster, make it continuous. 
 
 The buzz word Agile, when stripped from all the baggage and frameworks that accompany it these days is simply a term that means:
