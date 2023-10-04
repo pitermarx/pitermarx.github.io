@@ -282,7 +282,7 @@ Who, being in very nature God, did not consider equality with God something to b
 Therefore God exalted him to the highest place and gave him the name that is above every name, that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue acknowledge that Jesus Christ is Lord, to the glory of God the Father.
 {{< /bible >}}
 
-For Paul Jesus was God. This was not his discovery or invention, but it was the testimony he received from the early Christians. I have previously written about the [New Testament creeds](https://blog.pitermarx.com/2022/04/the-new-testament-creeds/), passages that have a different wording than the rest of the surrounding text. They are credal formulations , constructed in a way that helps recitation and memorization. In them we understand that the first Christians immediately after Jesus' death affirmed his divinity, pre-existence  death for our sins , burial and resurrection.
+For Paul Jesus was God. This was not his discovery or invention, but it was the testimony he received from the early Christians. I have previously written about the [New Testament creeds](/2022/04/the-new-testament-creeds/), passages that have a different wording than the rest of the surrounding text. They are credal formulations , constructed in a way that helps recitation and memorization. In them we understand that the first Christians immediately after Jesus' death affirmed his divinity, pre-existence  death for our sins , burial and resurrection.
 
 ### Hebrews
 
@@ -351,7 +351,7 @@ In these two passages, God speaks to himself in the first person plural. He spea
 
 ### The Angel of the Lord
 
-I have [written previously](https://blog.pitermarx.com/2022/01/the-angel-of-the-lord/) on this topic, so I will be brief, but the concept of the “Angel of the Lord” also sheds light on this non-monolithic view of God.
+I have [written previously](/2022/01/the-angel-of-the-lord/) on this topic, so I will be brief, but the concept of the “Angel of the Lord” also sheds light on this non-monolithic view of God.
 
 {{< bible "Exodus 3:2-4" "NIV" >}}
 There the angel of the Lord appeared to him in flames of fire from within a bush. Moses saw that though the bush was on fire it did not burn up. So Moses thought, “I will go over and see this strange sight—why the bush does not burn up.”

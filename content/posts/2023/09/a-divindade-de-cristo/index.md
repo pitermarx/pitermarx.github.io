@@ -327,7 +327,7 @@ e toda língua confesse que Jesus Cristo é Senhor, para glória de Deus Pai.
 {{< /bible >}}
 
 Para Paulo Jesus era Deus. Isto não foi uma descoberta ou invenção dele, mas foi o testemunho que ele recebeu dos primeiros cristãos.
-Já escrevi anteriormente sobre [os credos do novo testamento](https://blog.pitermarx.com/2022/04/os-credos-do-novo-testamento/), passagens que têm uma formulação diferente do resto do texto envolvente.
+Já escrevi anteriormente sobre [os credos do novo testamento](/2022/04/os-credos-do-novo-testamento/), passagens que têm uma formulação diferente do resto do texto envolvente.
 São *formulações credais*, construídas de uma forma que ajude a recitação e memorização. Neles entendemos que os primeiros cristãos imediatamente após a morte de Jesus afirmavam a sua *divindade*, *pré-existência*, *morte pelos nossos pecados*, *sepultamento* e *ressurreição*.
 
 ### Hebreus
@@ -404,7 +404,7 @@ A palavra אלהים é plural em hebraico e é frequentemente usada para se ref
 
 ### O Anjo do Senhor
 
-Já [escrevi](https://blog.pitermarx.com/2022/01/the-angel-of-the-lord/) anteriormente sobre este tópico, por isso vou ser breve, mas o conceito do "Anjo do Senhor" também lança luz sobre essa visão não monolítica de Deus.
+Já [escrevi](/2022/01/the-angel-of-the-lord/) anteriormente sobre este tópico, por isso vou ser breve, mas o conceito do "Anjo do Senhor" também lança luz sobre essa visão não monolítica de Deus.
 
 {{< bible "Exodo 3:2-4" >}}
 E apareceu-lhe o anjo do Senhor em uma chama de fogo do meio duma sarça. Moisés olhou, e eis que a sarça ardia no fogo, e a sarça não se consumia;
