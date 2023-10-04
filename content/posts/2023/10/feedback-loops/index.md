@@ -21,7 +21,7 @@ It has long ago been acknowledged that managing software systems is best done wi
 
 > I believe in this concept, but the implementation described above is risky and invites failure. […] The testing phase which occurs at the end of the development cycle is the first event for which timing, storage, input/output transfers, etc., are experienced as distinguished from analyzed. These phenomena are not precisely analyzable. They are not the solutions to the standard partial differential equations of mathematical physics for instance. Yet if these phenomena fail to satisfy the various external constraints, then invariably a major redesign is required. […] The required design changes are likely to be so disruptive that the software requirements upon which the design is based and which provides the rationale for everything are violated. Either the requirements must be modified, or a substantial change in the design is required. In effect the development process has returned to the origin and one can expect up to a 100% overrun in schedule and/or costs.
 >
-> <cite> Winston Royce - [Managing the development of large software systems](https://doi.org/10.7551/mitpress/12274.003.0035) </cite>
+> — <cite> Winston Royce - [Managing the development of large software systems](https://doi.org/10.7551/mitpress/12274.003.0035) </cite>
 
 ## So what?
 
@@ -38,7 +38,7 @@ The buzz word Agile, when stripped from all the baggage and frameworks that acco
 > 
 > Implement changes that improve the things and the process
 >
-> <cite> Me - this article </cite>
+> — <cite> Me - this article </cite>
 
 Being agile means implementing good feedback loops. Loops that inform and affect the way you work and the result of your work.
 
@@ -63,7 +63,7 @@ When we improve the speed of any delay point, we enable faster feedback, and the
 
 > Simplicity - the art of maximizing the amount of work not done - is essential.
 >
-> <cite> [Principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html) </cite>
+> — <cite> [Principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html) </cite>
 
 One of the sure ways to reduce delays is simplification.
 It really bothers me to see unused code, unnecessary processes, and overengineering. So, I make it a priority to simplify as much as possible.
