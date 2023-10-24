@@ -11,6 +11,9 @@
     <img
       class="mx-auto my-0 rounded-md"
       alt="{{ $altText }}"
+      {{ if .Site.Params.enableImageLazyLoading | default true }}
+        loading="lazy"
+      {{ end }}
       {{ if findRE "^https?" $url.Scheme }}
         src="{{ $url.String }}"
       {{ else }}
@@ -24,12 +27,16 @@
           {{ if eq .MediaType.SubType "svg" }}
             src="{{ .RelPermalink }}"
           {{ else }}
+            width="{{ .Width }}"
+            height="{{ .Height }}"
             {{ if lt .Width 660 }}
               src="{{ .RelPermalink }}"
             {{ else }}
               srcset="
-              {{ (.Resize "660x").RelPermalink }} 660w,
-              {{ (.Resize "1024x").RelPermalink }} 1024w"
+              {{- (.Resize "330x").RelPermalink }} 330w,
+              {{- (.Resize "660x").RelPermalink }} 660w,
+              {{- (.Resize "1024x").RelPermalink }} 1024w,
+              {{- (.Resize "1320x").RelPermalink }} 2x"
               src="{{ (.Resize "660x").RelPermalink }}"
             {{ end }}
           {{ end }}
