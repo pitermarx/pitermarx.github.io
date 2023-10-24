@@ -38,7 +38,7 @@ jobs:
       - name: Run Hugo
         uses: crazy-max/ghaction-hugo@v2
         with:
-          version: v0.111.3
+          version: v0.119.0
           extended: false
           args: --cleanDestinationDir --minify --verbose
       - name: Upload artifact
