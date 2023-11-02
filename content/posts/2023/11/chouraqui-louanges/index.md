@@ -14,7 +14,7 @@ Escreveu uma tradução francesa da bíblia. Aqui está uma (fraca) tradução d
 
 Source: https://archive.org/details/CHOURAQUISpaumes/
 
-<pre>
+<pre class="not-prose">
 Na verdade, o Saltério,
   mais do que um livro escrito num passado muito distante permanece um ser vivo que fala,
   quem fala com você,
@@ -50,7 +50,7 @@ Os dois atores deste duelo,
   são o Justo e o Culpado.
 </pre>
 
-<pre>
+<pre class="not-prose">
 No caminho para a morte encontramos o Culpado.
 
 O Saltério constitui um formidável cartão de identidade que inclui nada menos que 112 nomes, apelidos, títulos e qualidades.
@@ -84,7 +84,7 @@ Ao seu poder, parece não haver freio: para ele o Inocente, na verdade, não exi
 Ao seu ódio nada se opõe.
 </pre>
 
-<pre>
+<pre class="not-prose">
 O Justo é de outro mundo.
 
 Mas diante desse ser emaciado,
@@ -136,7 +136,7 @@ Lá,
   o Messias.
 </pre>
 
-<pre>
+<pre class="not-prose">
 Mas já notamos suficientemente a natureza fantástica de sua luta?
 
 Foi suficientemente enfatizado que ele só se opõe às flechas que o perfuram com a sua voz?
@@ -160,7 +160,7 @@ Esta não é uma renúncia heróica
 O Justo, ele está empenhado na ação triunfante da justiça e da verdade.
 </pre>
 
-<pre>
+<pre class="not-prose">
 Ciente de sua solidão
   o Justo é um estranho até entre o seu próprio povo.
 
@@ -177,7 +177,7 @@ Ela é a estrada
 Ela arranca o homem do desespero da sua condição para lhe abrir as portas da vida.
 </pre>
 
-<pre>
+<pre class="not-prose">
 No caminho do Justo
   lutas e sofrimentos não são poupados.
   
@@ -204,7 +204,7 @@ Por lealdade
   para suportar o peso da loucura assassina do príncipe das trevas.
 </pre>
 
-<pre>
+<pre class="not-prose">
 O julgamento de Yhwh deve resolver não apenas o conflito entre o Culpado e o Inocente,
   mas também pôr fim à guerra que as nações estão travando contra Israel.
   Todo o Saltério vibra e arde assim com esta esperança messiânica.
