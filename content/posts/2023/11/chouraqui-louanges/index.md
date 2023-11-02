@@ -4,6 +4,8 @@ date: "2023-11-01"
 categories:
   - "quotes"
   - "shares"
+tags: 
+  - "christianity"
 ---
 
 André Chouraqui foi um Franco-Algeriano-Israelita que foi advogado, escritor e estadista.
