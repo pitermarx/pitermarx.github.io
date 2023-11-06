@@ -1,15 +1,13 @@
 languageCode = "pt"
 languageName = "Português"
-displayName = "PT"
-isoCode = "pt"
-weight = 1
-rtl = false
+languageDirection = "ltr"
+weight = 2
 
 title = "ριтєя мαяχ"
-# logo = "img/pitermarx.jpg"
-description = "Once I was born and now I'm alive!"
 
-dateFormat = "2 January 2006"
+[params]
+  dateFormat = "2 January 2006"
+  description = "Once I was born and now I'm alive!"
 
 [author]
   name = "ριтєя мαяχ"
@@ -29,3 +27,4 @@ dateFormat = "2 January 2006"
      { stack-overflow = "https://stackoverflow.com/users/2633434/pitermarx" },
      { twitter = "https://twitter.com/pitermarx" }
   ]
+
