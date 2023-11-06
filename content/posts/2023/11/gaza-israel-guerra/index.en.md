@@ -1,5 +1,5 @@
 ---
-title: "A guerra e a vinda de Cristo"
+title: "The war and the coming of Christ"
 date: "2023-11-01"
 categories:
   - "longs"
