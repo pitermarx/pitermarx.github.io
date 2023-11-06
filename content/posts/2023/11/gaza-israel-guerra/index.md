@@ -47,7 +47,7 @@ Jew, be careful not to rely on your own strength, on your works. You are part of
 
 Christian, be careful not to oppose God's plan in Israel. You are just a [grafted](https://www.biblegateway.com/passage/?search=Romans+11%3A17-24&version=NIV) branch and if God did not spare the natural branches, he will not spare you either. Strive for your reconciliation and remain in the goodness of God. Also be careful not to be a hindrance to those who today hate Israel from entering the flock of the Chief Shepherd. They are enemies of God today, but you were also enemies, and you have received reconciliation.
 
-Unbeliever, pay attention to the signs of the times. The time of God's patience will not last forever but there is still time! Today you have the opportunity to repent. Today you can have all your sins forgiven. Today you can receive peace with God.
+To all non-christians I say, pay attention to the signs of the times. The time of God's patience will not last forever but there is still time! Today you have the opportunity to repent. Today you can have all your sins forgiven. Today you can receive peace with God.
 
 Israel only exists today by divine will. It is a miracle that Israel exists, but a time of great tribulation for Israel is approaching.
 

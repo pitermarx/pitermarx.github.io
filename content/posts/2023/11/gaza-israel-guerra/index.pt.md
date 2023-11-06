@@ -46,7 +46,7 @@ Judeu, cuidado para não te apoiares nas tuas próprias forças, nas tuas obras.
 
 Cristão, cuidado para não te opores ao plano de Deus em Israel. Tu és apenas um ramo [enxertado](https://www.biblegateway.com/passage/?search=Romanos+11%3A17-24&version=ARC) e se Deus não poupou os ramos naturais também não te poupará a ti. Esforça-te pela sua reconciliação e permanece na bondade de Deus. Cuidado também para não seres um entrave àqueles que hoje odeiam Israel entrarem no rebanho do Sumo Pastor. Eles são hoje inimigos de Deus, mas também tu o eras, e recebeste a reconciliação.
 
-Descrente, presta atenção aos sinais dos tempos. O tempo da paciência de Deus não vai durar para sempre mas ainda é tempo! Hoje tens oportunidade de arrependimento. Hoje podes ter todos os teus pecados perdoados. Hoje podes receber a paz com Deus.
+A todo o não cristão digo, presta atenção aos sinais dos tempos. O tempo da paciência de Deus não vai durar para sempre mas ainda é tempo! Hoje tens oportunidade de arrependimento. Hoje podes ter todos os teus pecados perdoados. Hoje podes receber a paz com Deus.
 
 Israel só existe hoje por vontade divina. É um milagre Israel existir, mas está a aproximar-se um tempo de grande tribulação para Israel.
 
