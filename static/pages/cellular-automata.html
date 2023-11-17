@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cellular Automaton</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+
+        label {
+            margin-right: 5px;
+        }
+
+        input, button {
+            margin-bottom: 10px;
+        }
+
+        #canvas {
+            font-family: monospace;
+            white-space: pre-wrap;
+            margin: 10px 0;
+            padding: 10px;
+            border: 1px solid #ccc;
+            background-color: #f8f8f8;
+            overflow-y: scroll;
+            height: 80vh
+        }
+    </style>
+</head>
+<body>
+    <label for="ruleInput">Rule:</label>
+    <input type="number" id="ruleInput" value="30">
+
+    <button id="startButton">Start</button>
+    <button id="stopButton" style="display:none;">Stop</button>
+
+    <pre id="canvas"></pre>
+
+    <script>
+        const emWidth = parseFloat(getComputedStyle(document.body).fontSize) / 2;
+        const width = Math.max(Math.floor(window.innerWidth / emWidth), 100);
+        let animationInterval;
+
+        let state = new Array(width).fill(false);
+        state[Math.floor(width / 2)] = true;
+
+        function applyRule(currentState, rule) {
+            const nextState = new Array(width);
+
+            for (let i = 0; i < width; i++) {
+                nextState[i] = applyElementaryRule(currentState, i, rule);
+            }
+
+            return nextState;
+        }
+
+        function applyElementaryRule(currentState, index, rule) {
+            const left = (index - 1 + width) % width;
+            const center = index;
+            const right = (index + 1) % width;
+
+            const neighborhood = (currentState[left] ? 4 : 0) | (currentState[center] ? 2 : 0) | (currentState[right] ? 1 : 0);
+
+            return (rule & (1 << neighborhood)) !== 0;
+        }
+
+        function appendState() {
+            const canvas = document.getElementById('canvas');
+            canvas.innerHTML += state.map(cell => (cell ? '█' : ' ')).join('') + '\n';
+            canvas.scrollTop = canvas.scrollHeight; // Auto-scroll to the bottom
+        }
+
+        function runAutomaton() {
+            let rule = parseInt(document.getElementById('ruleInput').value, 10) || 30;
+            document.getElementById('canvas').innerHTML = ''; // Clear the canvas
+            clearInterval(animationInterval);
+            animationInterval = setInterval(() => {
+                appendState();
+                state = applyRule(state, rule);
+            }, 100);
+        }
+
+        function updateParameters() {
+            state = new Array(width).fill(false);
+            state[Math.floor(width / 2)] = true;
+            runAutomaton();
+        }
+
+        function toggleButtons(isRunning) {
+            const startButton = document.getElementById('startButton');
+            const stopButton = document.getElementById('stopButton');
+            startButton.style.display = !isRunning ? 'none' : 'inline-block';
+            stopButton.style.display = !isRunning ? 'inline-block' : 'none';
+        }
+
+        document.getElementById('startButton').addEventListener('click', () => {
+            runAutomaton();
+            toggleButtons(false);
+        });
+
+        document.getElementById('stopButton').addEventListener('click', () => {
+            clearInterval(animationInterval);
+            toggleButtons(true);
+        });
+
+        window.addEventListener('resize', updateParameters);
+        document.getElementById('ruleInput').addEventListener('input', updateParameters);
+
+    </script>
+</body>
+</html>
