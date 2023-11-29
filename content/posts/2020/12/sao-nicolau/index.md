@@ -1,5 +1,5 @@
 ---
-title: "São Nicolau"
+title: "Saint Nicholas"
 date: "2020-12-23"
 categories: 
   - "original"
@@ -8,13 +8,15 @@ tags:
   - "christianity"
 ---
 
-Como é de conhecimento geral, a ideia do [Pai Natal](https://en.wikipedia.org/wiki/Saint_Nicholas) é construída a partir de uma figura histórica, o [São Nicolau.](https://www.stnicholascenter.org/) O que nem todos sabem é que há uma história sobre o São Nicolau e o [primeiro concílio ecuménico](https://pt.wikipedia.org/wiki/Primeiro_Conc%C3%ADlio_de_Niceia).
+As is common knowledge, the idea of [Santa Claus](https://en.wikipedia.org/wiki/Santa_Claus) is built from a historical figure, [Saint Nicholas](https://www.stnicholascenter.org/) .
 
-Em 325 AD, houve um encontro com uma maioria representativa dos bispos do mundo cristão, para discutir chamada [arianismo](https://pt.wikipedia.org/wiki/Arianismo), que estava a crescer em popularidade. Esta ideia, assim chamada por causa do seu fundador [Ário](https://pt.wikipedia.org/wiki/%C3%81rio), dizia que Jesus não era Deus, mas sim um semi-deus. Um ser criado pelo Deus verdadeiro, o Deus-Pai.
+What not everyone knows is that there is a story about Saint Nicholas and the [first ecumenical council](https://en.wikipedia.org/wiki/Saint_Nicholas).
 
-A história [apresentada no site do São Nicolau](https://www.stnicholascenter.org/who-is-st-nicholas/stories-legends/traditional-stories/life-of-nicholas/bishop-nicholas-loses-his-cool) conta que durante a discussão, enquanto Ário defendia a sua posição, Nicolau não aguentou ouvir tanta heresia que se levantou e deu uma bofetada na cara do seu oponente
+In 325 AD, there was a meeting with a representative majority of the bishops of the Christian world, to discuss so-called [Arianism](https://pt.wikipedia.org/wiki/Arianism), which was growing in popularity. This idea, so called because of its founder [Arius](https://en.wikipedia.org/wiki/Arius), said that [Jesus was not God](2023/09/the-divinity-of-christ/), but rather a semi-god. A being created by the true God, the God-Father.
 
-A história mais tarde foi alterada para um murro em vez da bofetada. É possivelmente inventada, mas divertida, e deu origem a uns memes engraçados...
+The story [featured on the Saint Nicholas website](https://www.stnicholascenter.org/who-is-st-nicholas/stories-legends/traditional-stories/life-of-nicholas/bishop-nicholas-loses-his-cool) says that during the discussion, while Arius defended his position, Nicholas could not bear to hear so much heresy that he stood up and slapped his opponent in the face.
+
+The story was later changed to a punch instead of a slap. It's possibly made up, but fun, and has given rise to some funny memes...
 
 - ![](images/WhatsApp-Image-2020-12-02-at-11.20.00.jpeg)
     

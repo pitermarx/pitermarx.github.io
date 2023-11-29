@@ -8,7 +8,7 @@ tags:
   - "christianity"
 ---
 
-(Translated from the [PT version](/2023/09/a-divindade-de-cristo))
+(Translated from the [PT version](/pt/2023/09/a-divindade-de-cristo))
 
 This weekend I had an encounter with Jehovah's Witnesses who are on my street every week distributing their leaflets. We had a pleasant and respectful interaction, despite deeply disagreeing on many issues.
 
