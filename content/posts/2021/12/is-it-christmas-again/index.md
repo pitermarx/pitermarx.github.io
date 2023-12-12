@@ -104,7 +104,7 @@ In summary, Jesus thought of himself as:
 
 No wonder that most deemed him as a lunatic. If anyone else made this kind of affirmations he would have been labeled as mentally unstable! Once again we get into [Lewis Trilemma](https://en.wikipedia.org/wiki/Lewis%27s_trilemma). Assuming that the gospel of John is an accurate account of what Jesus actually said, either he was delusional about himself, trying to purposefully deceive his listeners or he was actually right!
 
-Even though I'm reasonably confident on it's reliability, it's not mandatory to put all of the weight of this argument on John's gospel. The other gospels also paint a picture of Jesus thinking this way about himself. Even if not all of the statements could be relied upon for historical truth, the fact is that Jesus didn't think of himself as a mere man. The question is: was he right or was he wrong?
+Even though I'm reasonably confident on it's reliability, it's not mandatory to put all of the weight of this argument on John's gospel. The other gospels also paint a picture of Jesus thinking this way about himself. Even if not all of the statements could be relied upon for historical truth, the fact is that [Jesus didn't think of himself as a mere man](/2023/09/the-divinity-of-christ/). The question is: was he right or was he wrong?
 
 I'm not at all capable of thinking of Jesus as a liar or a lunatic, so I've made my decision.
 
