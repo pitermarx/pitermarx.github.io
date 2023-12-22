@@ -22,31 +22,29 @@ Regardless of all that, around 2 millennia ago **JESUS WAS BORN**! And we still 
 
 Why is Jesus such an unique figure in history? Let me share some ideas I read [here](https://www.challies.com/quotes/the-incomparable-christ/), expressed in a more eloquent manner than I ever could.
 
-```
-More than nineteen hundred years ago, there was a Man born contrary to the laws of life. This Man lived in poverty and was reared in obscurity. He did not travel extensively. Only once did He cross the boundary of the country in which He lived; that was during His exile in childhood.
-
-He possessed neither wealth nor influence. His relatives were inconspicuous and had neither training nor formal education.
-
-In infancy He startled a king; in childhood He puzzled doctors; in manhood He ruled the course of nature, walked upon the waves as pavement, and hushed the sea to sleep.
-
-He healed the multitudes without medicine and made no charge for His service.
-
-He never wrote a book, and yet perhaps all the libraries of the world could not hold the books that have been written about Him.
-
-He never wrote a song, and yet He has furnished the theme for more songs than all the songwriters combined.
-
-He never founded a college, but all the schools put together cannot boast of having as many students.
-
-He never marshaled an army, nor drafted a soldier, nor fired a gun; and yet no leader ever had more volunteers who have, under His orders, made more rebels stack arms and surrender without a shot fired.
-
-He never practiced psychiatry, and yet He has healed more broken hearts than all the doctors far and near.
-
-Once each week multitudes congregate at worshiping assemblies to pay homage and respect to Him.
-
-The names of the past, proud statesmen of Greece and Rome have come and gone. The names of the past scientists, philosophers, and theologians have come and gone. But the name of this Man multiplies more and more. Though time has spread nineteen hundred years between the people of this generation and the mockers at His crucifixion, He still lives. His enemies could not destroy Him, and the grave could not hold Him.
-
-He stands forth upon the highest pinnacle of heavenly glory, proclaimed of God, acknowledged by angels, adored by saints, and feared by devils, as the risen, personal Christ, our Lord and Savior.
-```
+> More than nineteen hundred years ago, there was a Man born contrary to the laws of life. This Man lived in poverty and was reared in obscurity. He did not travel extensively. Only once did He cross the boundary of the country in which He lived; that was during His exile in childhood.
+> 
+> He possessed neither wealth nor influence. His relatives were inconspicuous and had neither training nor formal education.
+>
+> In infancy He startled a king; in childhood He puzzled doctors; in manhood He ruled the course of nature, walked upon the waves as pavement, and hushed the sea to sleep.
+>
+> He healed the multitudes without medicine and made no charge for His service.
+>
+> He never wrote a book, and yet perhaps all the libraries of the world could not hold the books that have been written about Him.
+>
+> He never wrote a song, and yet He has furnished the theme for more songs than all the songwriters combined.
+>
+> He never founded a college, but all the schools put together cannot boast of having as many students.
+> 
+> He never marshaled an army, nor drafted a soldier, nor fired a gun; and yet no leader ever had more volunteers who have, under His orders, made more rebels stack arms and surrender without a shot fired.
+>
+> He never practiced psychiatry, and yet He has healed more broken hearts than all the doctors far and near.
+>
+> Once each week multitudes congregate at worshiping assemblies to pay homage and respect to Him.
+>
+> The names of the past, proud statesmen of Greece and Rome have come and gone. The names of the past scientists, philosophers, and theologians have come and gone. But the name of this Man multiplies more and more. Though time has spread nineteen hundred years between the people of this generation and the mockers at His crucifixion, He still lives. His enemies could not destroy Him, and the grave could not hold Him.
+>
+> He stands forth upon the highest pinnacle of heavenly glory, proclaimed of God, acknowledged by angels, adored by saints, and feared by devils, as the risen, personal Christ, our Lord and Savior.
 
 There is no one else like Jesus. He said things that if said by someone else would be crazy. Only a madman would say the things he did. The people around him thought so
 
