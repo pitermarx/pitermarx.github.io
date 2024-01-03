@@ -8,7 +8,7 @@ tags:
   - "christianity"
 ---
 
-<small>Traduzido automaticamente da [versão em inglês](https://blog.pitermarx.com/2021/12/is-it-christmas-again/)</small>
+<small>Traduzido automaticamente da [versão em inglês](/2021/12/is-it-christmas-again/)</small>
 
 [Christmas time is here](https://open.spotify.com/track/299lFlaAsNQdgbIZNPmIA0?si=32931844c37a4807), [it's the most wonderful time of the year](https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN?si=332ad834e00d48f3) ou pelo menos é isso que dizem. Mas porquê?
 
