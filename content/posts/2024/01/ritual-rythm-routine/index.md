@@ -1,6 +1,6 @@
 ---
 title: "Ritual, Rhythm and Routines"
-date: "2024-01-04"
+date: "2024-01-03"
 categories:
   - "longs"
   - "original"
