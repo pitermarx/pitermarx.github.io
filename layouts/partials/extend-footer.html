@@ -2,7 +2,7 @@
 <script>
   (function (){
     let doNotTrack = localStorage.getItem("insights") === 'do-not-track'
-    if (id && !doNotTrack) {
+    if (!doNotTrack) {
       insights.init('qv5R8zukglcxKmui');
       insights.trackPages();
     }
