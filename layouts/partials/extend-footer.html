@@ -1,7 +1,11 @@
-<script async src="https://analytics.umami.is/script.js" data-website-id="42551e5b-0378-4474-bc3a-b2849edf2faf"></script>
+<script src="https://getinsights.io/js/insights.js"></script>
 <script>
   (function (){
     let doNotTrack = localStorage.getItem("insights") === 'do-not-track'
+    if (id && !doNotTrack) {
+      insights.init('qv5R8zukglcxKmui');
+      insights.trackPages();
+    }
 
     document.addEventListener(
       "DOMContentLoaded",
@@ -22,7 +26,7 @@
 
     function redirectAtRandom(data) {
       let randIndex = Math.floor(Math.random() * data.length);
-      if (!doNotTrack) umami.track('Random button')
+      if (!doNotTrack) insights.track({ id: "random-button" })
       window.location.href = data[randIndex]['permalink']
     }
   })();
