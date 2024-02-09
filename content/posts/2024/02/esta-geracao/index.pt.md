@@ -39,13 +39,15 @@ A primeira e talvez mais comum interpretação é que "Esta Geração" se refere
 
 Outra interpretação bastante comum é que Jesus estava realmente a referir-se aos seus contemporâneos, e que "Esta Geração" realmente viu "todas estas coisas" com a destruição de Jerusalém em 70 AD. É o chamado [Preterismo](https://en.wikipedia.org/wiki/Preterism). Esta posição tem o problema de ignorar que Jesus estava a falar claramente dos tempos do fim e da sua vinda. Como Jesus na verdade ainda não voltou para julgar o mundo, quem defende esta interpretação normalmente adere a um preterismo parcial.
 
-A terceira interpretação é que com "geração", Jesus estava a referir-se àqueles que vêm os sinais começar, particularmente a "Abominação Desoladora". Segundo esta interpretação, o que Jesus estava a dizer é que tudo se vai dar numa rápida sucessão de acontecimentos. A geração que vir a "Abominação Desoladora" também vai ver o fim. O problema é que Jesus não diz "essa" geração, mas sim "esta" geração. Também não é clara a ligação à "Abominação Desoladora". Apesar de ser esse o evento fulcral dos tempos do fim, não é óbvia a ligação textual de "Esta Geração" a esse evento em particular.
+A terceira interpretação é que com "geração", Jesus estava a referir-se àqueles que vêm os sinais começar, particularmente a ["Abominação Desoladora"](https://pt.wikipedia.org/wiki/Abomina%C3%A7%C3%A3o_da_desola%C3%A7%C3%A3o). Segundo esta interpretação, o que Jesus estava a dizer é que tudo se vai dar numa rápida sucessão de acontecimentos. A geração que vir a "Abominação Desoladora" também vai ver o fim. O problema é que Jesus não diz "essa" geração, mas sim "esta" geração. Também não é clara a ligação à "Abominação Desoladora". Apesar de ser esse o evento fulcral dos tempos do fim, não é óbvia a ligação textual de "Esta Geração" a esse evento em particular.
 
 A quarta interpretação, que vou defender nas linhas seguintes é que "Esta Geração" é a humanidade perversa que rejeita Deus e o seu Messias. Em particular os Judeus que rejeitam Jesus. Até que todas estas coisas se cumpram, vão haver sempre Judeus que rejeitam Jesus como Messias, mas no fim todos se vão converter. Poderia dizer-se que afirmar que os ímpios sempre vão existir é um truísmo sem grande significado, mas contra essa ideia quero propor trÊs argumentos.
 
   - Jesus deixou-nos também a parábola do trigo e do joio, que tem uma interpretação clara de que no meio dos crentes verdadeiros haverá sempre hipócritas. Será isto também um truísmo sem significado?
+ 
 	- Há uma doutrina dentro do cristianismo chamada [Teologia do Domínio](https://en.wikipedia.org/wiki/Dominion_theology) que diz que o domínio da igreja se deve expandir e até governar todas as esferas da sociedade em todo o mundo, e então o fim virá. Se esta interpretação for correcta, então a Teologia do Domínio está errada.
-	- Se focarmos "Esta Geração" no povo Judeu, a afirmação pode ser entendida como uma eventual conversão e salvação de todos os Judeus que sobreviverem a "todas estas coisas". Essa ideia é afirmada por Paulo em Romanos 11:26, que simplesmente reitera o que Isaías disse em 59:20-21
+	
+  - Se focarmos "Esta Geração" no povo Judeu, a afirmação pode ser entendida como uma eventual conversão e salvação de todos os Judeus que sobreviverem a "todas estas coisas". Essa ideia é afirmada por Paulo em Romanos 11:26, que simplesmente reitera o que Isaías disse em 59:20-21
 
 ## Geração Perversa?
 
