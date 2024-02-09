@@ -44,14 +44,12 @@ A terceira interpretação é que com "geração", Jesus estava a referir-se àq
 A quarta interpretação, que vou defender nas linhas seguintes é que "Esta Geração" é a humanidade perversa que rejeita Deus e o seu Messias. Em particular os Judeus que rejeitam Jesus. Até que todas estas coisas se cumpram, vão haver sempre Judeus que rejeitam Jesus como Messias, mas no fim todos se vão converter. Poderia dizer-se que afirmar que os ímpios sempre vão existir é um truísmo sem grande significado, mas contra essa ideia quero propor três argumentos.
 
   - Jesus deixou-nos também a parábola do trigo e do joio, que tem uma interpretação clara de que no meio dos crentes verdadeiros haverá sempre hipócritas. Será isto também um truísmo sem significado?
- 
-	- Há uma doutrina dentro do cristianismo chamada [Teologia do Domínio](https://en.wikipedia.org/wiki/Dominion_theology) que diz que o domínio da igreja se deve expandir e até governar todas as esferas da sociedade em todo o mundo, e então o fim virá. Se esta interpretação for correcta, então a Teologia do Domínio está errada.
-	
+  - Há uma doutrina dentro do cristianismo chamada [Teologia do Domínio](https://en.wikipedia.org/wiki/Dominion_theology) que diz que o domínio da igreja se deve expandir e até governar todas as esferas da sociedade em todo o mundo, e então o fim virá. Se esta interpretação for correcta, então a Teologia do Domínio está errada.
   - Se focarmos "Esta Geração" no povo Judeu, a afirmação pode ser entendida como uma eventual conversão e salvação de todos os Judeus que sobreviverem a "todas estas coisas". Essa ideia é afirmada por Paulo em Romanos 11:26, que simplesmente reitera o que Isaías disse em 59:20-21
 
 ## Geração Perversa?
 
-Proponho então uma maneira diferente de entender a expressão "esta geração". Para Jesus, e para um Judeu com alta literacia bíblica, a expressão "esta geração" significava o grupo de pessoas que se opõe a Deus. Significa o conjunto dos ímpios que não vão herdar o Reino do Messias. Esta geração são aqueles que ainda não nasceram de novo, não foram gerados de novo, da água e do espírito.
+Proponho então que a melhor maneira de entender a expressão é que para Jesus, e para um Judeu com alta literacia bíblica, a expressão "esta geração" significava o grupo de pessoas que se opõe a Deus. Significava o conjunto dos ímpios que não vão herdar o Reino do Messias. Esta geração são aqueles que ainda não nasceram de novo, não foram gerados de novo, da água e do espírito.
 
 {{< bible "João 3:5" >}}
 Jesus respondeu: Em verdade, em verdade te digo que se alguém não nascer da água e do Espírito, não pode entrar no reino de Deus.
@@ -60,7 +58,7 @@ Jesus respondeu: Em verdade, em verdade te digo que se alguém não nascer da á
 Para suportar esta proposta vou dar três linhas de argumentos
   - Usos da expressão "Esta Geração" no antigo testamento
   - Jesus usa sempre "esta geração" como algo mau
-	- Usos da expressão "esta geração" no restante do novo testamento
+  - Usos da expressão "esta geração" no restante do novo testamento
 
 ### 1 - "Esta Geração" no AT
 
