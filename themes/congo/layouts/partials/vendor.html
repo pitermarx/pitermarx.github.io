@@ -4,7 +4,7 @@
   {{ $mermaidConfig := resources.Get "js/mermaid.js" }}
   {{ $mermaidConfig := $mermaidConfig | resources.Minify }}
   {{ $mermaidJS := slice $mermaidLib $mermaidConfig | resources.Concat "js/mermaid.bundle.js" | resources.Fingerprint "sha512" }}
-  <script defer type="text/javascript" src="{{ $mermaidJS.RelPermalink }}" integrity="{{ $mermaidJS.Data.Integrity }}"></script>
+  <script defer type="text/javascript" src="{{ $mermaidJS.RelPermalink }}" integrity="{{ $mermaidJS.Data.Integrity }}" crossorigin="anonymous"></script>
 {{ end }}
 {{/* Chart */}}
 {{ if .Page.HasShortcode "chart" }}
@@ -12,7 +12,7 @@
   {{ $chartConfig := resources.Get "js/chart.js" }}
   {{ $chartConfig := $chartConfig | resources.Minify }}
   {{ $chartJS := slice $chartLib $chartConfig | resources.Concat "js/chart.bundle.js" | resources.Fingerprint "sha512" }}
-  <script defer type="text/javascript" src="{{ $chartJS.RelPermalink }}" integrity="{{ $chartJS.Data.Integrity }}"></script>
+  <script defer type="text/javascript" src="{{ $chartJS.RelPermalink }}" integrity="{{ $chartJS.Data.Integrity }}" crossorigin="anonymous"></script>
 {{ end }}
 {{/* Katex */}}
 {{ if .Page.HasShortcode "katex" }}
@@ -22,13 +22,14 @@
     type="text/css" rel="stylesheet"
     href="{{ $katexCSS.RelPermalink }}"
     integrity="{{ $katexCSS.Data.Integrity }}"
+    crossorigin="anonymous"
   />
   {{ $katexJS := resources.Get "lib/katex/katex.min.js" }}
   {{ $katexJS := $katexJS | resources.Fingerprint "sha512" }}
-  <script defer src="{{ $katexJS.RelPermalink }}" integrity="{{ $katexJS.Data.Integrity }}"></script>
+  <script defer src="{{ $katexJS.RelPermalink }}" integrity="{{ $katexJS.Data.Integrity }} crossorigin="anonymous""></script>
   {{ $katexRenderJS := resources.Get "lib/katex/auto-render.min.js" }}
   {{ $katexRenderJS := $katexRenderJS | resources.Fingerprint "sha512" }}
-  <script defer src="{{ $katexRenderJS.RelPermalink }}" integrity="{{ $katexRenderJS.Data.Integrity }}" onload="renderMathInElement(document.body);"></script>
+  <script defer src="{{ $katexRenderJS.RelPermalink }}" integrity="{{ $katexRenderJS.Data.Integrity }}" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
   {{ $katexFonts := resources.Match "lib/katex/fonts/*" }}
   {{ range $katexFonts }}
     {{ .Publish }}
