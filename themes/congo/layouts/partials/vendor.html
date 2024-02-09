@@ -26,7 +26,7 @@
   />
   {{ $katexJS := resources.Get "lib/katex/katex.min.js" }}
   {{ $katexJS := $katexJS | resources.Fingerprint "sha512" }}
-  <script defer src="{{ $katexJS.RelPermalink }}" integrity="{{ $katexJS.Data.Integrity }} crossorigin="anonymous""></script>
+  <script defer src="{{ $katexJS.RelPermalink }}" integrity="{{ $katexJS.Data.Integrity }}" crossorigin="anonymous"></script>
   {{ $katexRenderJS := resources.Get "lib/katex/auto-render.min.js" }}
   {{ $katexRenderJS := $katexRenderJS | resources.Fingerprint "sha512" }}
   <script defer src="{{ $katexRenderJS.RelPermalink }}" integrity="{{ $katexRenderJS.Data.Integrity }}" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
