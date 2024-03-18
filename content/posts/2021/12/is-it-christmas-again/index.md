@@ -15,7 +15,7 @@ As a christian I would say it's a wonderful time indeed, because we are - or at 
 Even though it's highly uncertain that [Jesus was actually born on December 25th](https://en.wikipedia.org/wiki/Date_of_birth_of_Jesus), this is a date that has been observed by christians for centuries. We have records of the birth of Jesus being remembered on this date [as soon as the 4th century](https://en.wikipedia.org/wiki/Chronograph_of_354).
 
 But nevermind all of that. And nevermind the fact that we know dates of death of early christian martyrs but have no idea when they were born. In fact birthday celebrations might have been [completely foreign](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0216%3Abook%3D2%3Awhiston+section%3D26) to early christians.
-Nevermind the fact that Christmas has been highjacked by our capitalist/corporate world to push western consumerism to the max.
+Nevermind the fact that Christmas has been hijacked by our capitalist/corporate world to push western consumerism to the max.
 Nevermind the fact that most of the western world is so secularized that hardly anyone remembers that this was the date that we are supposed to celebrate Jesus' birthday, a strange birthday indeed where everyone else gets the presents...
 
 Regardless of all that, around 2 millennia ago **JESUS WAS BORN**! And we still feel the effects of that today! Let's celebrate that!
