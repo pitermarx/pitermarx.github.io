@@ -1,20 +1,22 @@
 ---
 title: "Belief"
-date: "2020-01-03"
+date: "2024-03-31"
 categories:
   - "longs"
-  - "original"
+  - "shares"
 tags:
   - "christianity"
 ---
 
 On ocasion of this easter, I've been trying to write some words about the resurrection, in particular arguments in favor of believing in it.
 
-Christians believe the physical resurrection of Jesus actually happened, but many do not have rational grounds to believe in it. But should they? Can't they simply take it on the basis of authority? Can't they simply trust God? Trust the witness of the apostles?
+I do think there are a lot of historical evidences that have their best explanation on the claim that Jesus rose from the dead. But why present them? Shouldn't you "just believe"? Is it not better to simply have faith?
 
-While pondering this I've came across a beautiful essay written by one of my favorite authors, C.S.Lewis, "On Obstinacy In Belief.". It says why a christian should believe even on the presence of contrary evidence. Given that one has assented to the truth of Christianity for whatever reasons, then it is praiseworthy to keep believing through the "assaults of reality".
+Christians believe the physical resurrection of Jesus actually happened, but many do not know the rational grounds to hold this belief. But should they? Can't they simply take it on the basis of authority? Can't they simply trust God? Trust the witness of the apostles?
 
-This is the essay
+While pondering this I've came across [a beautiful essay](https://www.fadedpage.com/books/20210322/html.php) written by one of my favorite authors, C.S.Lewis, "On Obstinacy In Belief." - in video form [here](https://www.youtube.com/watch?v=imvy3EXJ5E0). It says why a christian should believe even on the presence of contrary evidence. Given that one has assented to the truth of Christianity for whatever reasons, then it is praiseworthy to keep believing through the "assaults of reality".
+
+This is the essay, reproduced in full as I can't make it better by subtracting from it. 
 
 > Papers have more than once been read to the Socratic Club at Oxford in which a contrast was drawn between a supposedly Christian attitude and a supposedly scientific attitude to belief. We have been told that the scientist thinks it his duty to proportion the strength of his belief exactly to the evidence; to believe less as there is less evidence and to withdraw belief altogether when reliable adverse evidence turns up. We have been told that, on the contrary, the Christian regards it as positively praiseworthy to believe without evidence, or in excess of the evidence, or to maintain his belief unmodified in the teeth of steadily increasing evidence against it. Thus a “faith that has stood firm,” which appears to mean a belief immune from all the assaults of reality, is commended.
 
@@ -51,3 +53,15 @@ This is the essay
 > The saying “Blessed are those that have not seen and have believed” has nothing to do with our original assent to the Christian propositions. It was not addressed to a philosopher enquiring whether God exists. It was addressed to a man who already believed that, who already had long acquaintance with a particular Person, and evidence that that Person could do very odd things, and who then refused to believe one odd thing more, often predicted by that Person and vouched for by all his closest friends. It is a rebuke not to scepticism in the philosophic sense but to the psychological quality of being “suspicious.” It says in effect, “You should have known me better.” There are cases between man and man where we should all, in our different way, bless those who have not seen and have believed. Our relation to those who trusted us only after we were proved innocent in court cannot be the same as our relation to those who trusted us all through.
 
 > Our opponents, then, have a perfect right to dispute with us about the grounds of our original assent. But they must not accuse us of sheer insanity if, after the assent has been given, our adherence to it is no longer proportioned to every fluctuation of the apparent evidence. They cannot of course be expected to know on what our assurance feeds, and how it revives and is always rising from its ashes. They cannot be expected to see how the quality of the object which we think we are beginning to know by acquaintance drives us to the view that if this were a delusion then we should have to say that the universe had produced no real thing of comparable value and that all explanations of the delusion seemed somehow less important than the thing explained. That is knowledge we cannot communicate. But they can see how the assent, of necessity, moves us from the logic of speculative thought into what might perhaps be called the logic of personal relations. What would, up till then, have been variations simply of opinion become variations of conduct by a person to a Person. Credere Deum esse turns into Credere in Deum. And Deum here is this God, the increasingly knowable Lord.
+
+I believe. And my faith is not simply an assessment of the evidence, but rather a trust in a Person. This faith is incommunicable and must be acquired and experienced individually.
+
+However, I can share some ideas that might shift you from someone who says "I don't believe in that" to someone who says "there's a possibility that this is true."
+
+Since it's Easter, I suggest a short presentation titled "The Resurrection: Fact or Fiction?"
+
+{{< youtube fP1ep9GxGlg >}}
+
+And on a lighter note, a depiction of what a meeting might look like where Jesus' disciples decide to lie about his resurrection.
+
+{{< youtube 23UNLLbOS3w >}}
