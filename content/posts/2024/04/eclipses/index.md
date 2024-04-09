@@ -1,5 +1,5 @@
 ---
-title: "The Duck Family Tree"
+title: "Eclipses"
 date: "2024-04-09"
 categories: 
   - "images"
