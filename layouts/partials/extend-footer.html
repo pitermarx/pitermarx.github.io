@@ -31,3 +31,18 @@
     }
   })();
 </script>
+<!-- Fathom - simple website analytics - https://github.com/usefathom/fathom -->
+<script>
+(function(d, w, u, f, s, m){
+	w[f]=w[f]||function(){
+		(w[f].q=w[f].q||[]).push(arguments)
+	};
+	s=d.createElement('script'),
+	m=d.getElementsByTagName('script')[0];
+	s.async=1; s.src=u; s.id='fathom-script';
+	m.parentNode.insertBefore(s,m)
+})(document, window, '//actual.pitermarx.com/tracker.js', 'fathom');
+fathom('set', 'siteId', 'PRPRE');
+fathom('trackPageview');
+</script>
+<!-- / Fathom -->
