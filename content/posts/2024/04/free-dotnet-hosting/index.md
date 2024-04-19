@@ -12,7 +12,7 @@ I've been wanting to test the new features of dotnet, and language syntax, and a
 
 Since I'm cheap, I wanted to find a free host to test this.
 
-# Part 1 - Create Simple API
+## Part 1 - Create Simple API
 In this first part I just want a simple aspnet project running. Nothing fancy, just build and deploy.
 
 My first idea was to use the Azure free tier, but it required a credit card to sign up, so I gave up.
@@ -21,7 +21,7 @@ After searching I ended up choosing [AlwaysData](https://www.alwaysdata.com/en/)
 
 ![](alwaysdata.png)
 
-## Simple minimal Api 
+### Simple minimal Api 
 
 I simply used the `dotnet new web` command to create a new web api project.
 
@@ -60,7 +60,7 @@ The following command creates an "out" directory with all the necessary assets.
 dotnet publish -o out -r linux-x64 
 ```
 
-## AlwaysData setup
+### AlwaysData setup
 
 To setup the website I did the following steps.
 
@@ -72,7 +72,7 @@ Configured all the parameters, I set the app to run on a directory called "out" 
 
 ![](alwaysdata-admin2.png)
 
-## Deploy
+### Deploy
 
 Then after [configuring SSH](https://help.alwaysdata.com/en/remote-access/ssh/use-keys/), I'm ready to deploy
 
@@ -109,7 +109,7 @@ One thing that wasn't obvious for me was finding out this button where you can c
 
 ![](alwaysdata-admin3.png)
 
-# Part 2 - Observability
+## Part 2 - Observability
 
 For hosting my logs, traces and metrics I found that [grafana](https://grafana.com/) gives a very generous free tier as well. So I ended up going with it.
 
@@ -117,7 +117,7 @@ For hosting my logs, traces and metrics I found that [grafana](https://grafana.c
 
 In addition to this, grafana provides a dotnet library that wires up almost everything automatically, [Grafana.OpenTelemetry](https://github.com/grafana/grafana-opentelemetry-dotnet).
 
-## Update App
+### Update App
 
 This is the full source code to wire up everything. The only noteworthy thing is that since the package has lot's of [builtin instrumentations](https://github.com/grafana/grafana-opentelemetry-dotnet/blob/main/docs/supported-instrumentations.md), it was taking several seconds to startup the app, until I removed the ones I will not be using. 
 
@@ -191,7 +191,7 @@ async Task SendNestedGreeting(int nestlevel, ILogger<Program> logger, HttpContex
 }
 ```
 
-## Setup Environment
+### Setup Environment
 
 To make this all work, I just need to create a few environment variables on the alwaysdata admin page for my website. The variables are as follows
 
@@ -205,7 +205,7 @@ The specific values come from your grafana account admin page, which I admit, to
 
 ![](grafana-admin1.png)
 
-## Profit
+### Profit
 
 Now I have a fully instrumented dotnet app. It has Metrics!
 
@@ -219,7 +219,7 @@ It has Logs!
 
 ![](grafana-charts3.png)
 
-# Outro
+## Outro
 
 I've had too much fun with this. But there are still so many interesting things to try!! Databases! Entity Framework! Authentication! [Aspire](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview)! [YARP](https://microsoft.github.io/reverse-proxy/) 
 
