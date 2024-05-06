@@ -360,7 +360,7 @@ When the Lord saw that he had gone over to look, God called to him from within t
 
 In the same text we read that whoever is in the bush is the Angel of the Lord, but whoever speaks from the bush is God. We also read that it is the Lord (יהוה, Jehovah) who sees that Moses is approaching, but that it is God (אלהים, Elohim) who speaks.
 
-## Many divine persons
+### Many divine persons
 
 King David writes in Psalm 110 that the Lord (יהוה, Jehovah), speaks to the Lord (אדן, Adonai) of David and gives him a place of authority, at his “right hand”, indicating a status of equality with God.
 
