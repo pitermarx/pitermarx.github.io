@@ -2,7 +2,7 @@
 title: "What is consciousness?"
 date: "2023-06-27"
 categories:
-  - "music"
+  - "shares"
   - "images"
 ---
 
