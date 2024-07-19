@@ -1,52 +1,94 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>A Esperança</title>
+    <title>EPUB Reader</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.5/jszip.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/epubjs/dist/epub.min.js"></script>
     <style>
-        body, html {
-            margin: 0;
-            padding: 0;
-            height: 100%;
+        body {
             font-family: Arial, sans-serif;
-            background-color: rgb(30, 41, 60);
-            color: white;
             transition: background-color 0.3s, color 0.3s;
-        }
-        #viewer {
+            margin: 0;
             padding: 20px;
-            box-sizing: border-box;
-            max-width: 800px;
-            margin: 0 auto;
         }
-        #menu-toggle {
-            font-size: 24px;
+        body.dark-mode {
+            background-color: #333;
+            color: #fff;
+        }
+        button, select {
             cursor: pointer;
-            position: fixed;
-            top: 10px;
-            left: 10px;
-            z-index: 1001;
+            padding: 10px;
+            background-color: #f0f0f0;
+            border: none;
+            border-radius: 5px;
+            margin-right: 10px;
+        }
+        body.dark-mode button, body.dark-mode select {
+            background-color: #555;
+            color: #fff;
         }
         #side-menu {
             position: fixed;
-            left: -250px;
-            top: 0;
+            top: 55px;
+            left: -290px;
             width: 250px;
             height: 100%;
-            background-color: #333;
-            transition: 0.3s;
-            overflow-y: auto;
-            color: white;
-            padding-top: 60px;
-            z-index: 1000;
+            background-color: #f8f8f8;
+            padding: 20px;
+            box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+            transition: left 0.3s;
+            z-index: 800;
         }
-        #side-menu.active {
+        body.dark-mode #side-menu {
+            background-color: #444;
+        }
+        #viewer {
+            max-width: 800px;
+            margin: 0 auto;
+            padding-top: 50px;
+        }
+        #controls {
+            position: fixed;
+            top: 0;
             left: 0;
+            right: 0;
+            background-color: #f0f0f0;
+            padding: 10px;
+            z-index: 900;
         }
-        #toc {
+        body.dark-mode #controls {
+            background-color: #444;
+        }
+        #settings-toggle {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            font-size: 24px;
+            background: none;
+            border: none;
+            cursor: pointer;
+        }
+        #settings-popup {
+            display: none;
+            position: fixed;
+            top: 50px;
+            right: 10px;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            z-index: 1100;
+        }
+        body.dark-mode #settings-popup {
+            background-color: #555;
+            border-color: #777;
+        }
+        #font-size-slider {
+            width: 200px;
+        }
+                #toc {
             list-style-type: none;
             padding: 0;
             margin: 0;
@@ -82,22 +124,90 @@
     </style>
 </head>
 <body>
-    <div id="menu-toggle">☰</div>
+    <div id="controls">
+        <button id="menu-toggle">☰</button>
+        <button id="settings-toggle">⚙️</button>
+    </div>
+
+
+    <div id="settings-popup">
+        <h3>Settings</h3>
+            <button id="theme-switch">🌓 Toggle Theme</button>
+            <select id="font-select">
+                <option value="Arial">Arial</option>
+                <option value="Georgia">Georgia</option>
+                <option value="Verdana">Verdana</option>
+            </select>
+        <br><br>
+        <label for="font-size-slider">Font Size: <span id="font-size-value">16</span>px</label>
+        <input type="range" id="font-size-slider" min="12" max="24" value="16">
+        <br><br>
+        <input type="file" id="epub-file" accept=".epub">
+        <br><br>
+        <input type="text" id="epub-url" placeholder="Enter EPUB URL">
+        <button id="load-url">Load from URL</button>
+    </div>
+
     <div id="side-menu">
-        <ul id="toc"></ul>
+        <h2>Table of Contents</h2>
+        <div id="toc"></div>
     </div>
+
     <div id="viewer"></div>
-    <div id="nav">
-        <div class="link-nav" onclick="navigate(-1)"><<</div>
-        <div class="link-nav" onclick="navigate(1)">>></div>
-    </div>
 
     <script>
-        var book = ePub("a-esperanca.epub");
-        var currentChapter = 0;
-        var viewer = document.getElementById("viewer");
+        const body = document.body;
+        const menuToggle = document.getElementById('menu-toggle');
+        const sideMenu = document.getElementById('side-menu');
+        const themeSwitch = document.getElementById('theme-switch');
+        const fontSelect = document.getElementById('font-select');
+        const fontSizeSlider = document.getElementById('font-size-slider');
+        const fontSizeValue = document.getElementById('font-size-value');
+        const epubFile = document.getElementById('epub-file');
+        const epubUrl = document.getElementById('epub-url');
+        const loadUrlButton = document.getElementById('load-url');
+        const viewer = document.getElementById('viewer');
+        const toc = document.getElementById('toc');
+        const settingsToggle = document.getElementById('settings-toggle');
+        const settingsPopup = document.getElementById('settings-popup');
 
-        async function reload(book) {
+        let book;
+
+        menuToggle.addEventListener('click', () => {
+            sideMenu.style.left = sideMenu.style.left === '0px' ? '-290px' : '0px';
+        });
+
+        themeSwitch.addEventListener('click', () => {
+            body.classList.toggle('dark-mode');
+            localStorage.setItem('theme', body.classList.contains('dark-mode') ? 'dark' : 'light');
+        });
+
+        fontSelect.addEventListener('change', (e) => {
+            viewer.style.fontFamily = e.target.value;
+        });
+
+        fontSizeSlider.addEventListener('input', (e) => {
+            const size = e.target.value;
+            viewer.style.fontSize = `${size}px`;
+            fontSizeValue.textContent = size;
+        });
+
+        epubFile.addEventListener('change', (e) => {
+            const file = e.target.files[0];
+            if (file) loadEpub(file);
+        });
+
+        loadUrlButton.addEventListener('click', () => {
+            const url = epubUrl.value.trim();
+            if (url) loadEpub(url);
+        });
+
+        settingsToggle.addEventListener('click', () => {
+            settingsPopup.style.display = settingsPopup.style.display === 'block' ? 'none' : 'block';
+        });
+
+        async function loadEpub(bookName) {
+            book = ePub(bookName)
             const resources = await book.loaded.resources;
             for (let url of resources.urls.filter(url => url.endsWith('.css'))) {
                 const css = await book.load(url)
@@ -125,7 +235,7 @@
             }
         }
 
-        function displayChapter(chapterIndex) {
+        function displayChapter(chapterIndex, selectedAnchor) {
             if (chapterIndex < 0 || chapterIndex >= book.spine.length) {
                 console.warn("out of range chapter " + chapterIndex)
                 return;
@@ -138,40 +248,52 @@
                 var serializer = new XMLSerializer();
                 var content = serializer.serializeToString(doc);
                 
-                // Remove existing stylesheet links
-                content = content.replace(/<link[^>]+stylesheet[^>]*>/g, '');
-                viewer.innerHTML = content;
-                window.scrollTo(0, 0);
+                content = content.replace(/<base href[^>]*>/g, '');
+                content = content.replace(/<meta [^>]*>/g, '');
+                content = content.replace(/<link [^>]*>/g, '');
+                content = content.replace(/<title>[^<]*<\/title>/g, '');
+                
+                viewer.innerHTML = content + `
+                <div id="nav">
+                    ${chapterIndex > 0 ? '<button class="link-nav" onclick="navigate(-1)"><<</button>' : ''}
+                    ${chapterIndex < (book.spine.length-1) ? '<button class="link-nav" onclick="navigate(1)">>></button>' : ''}
+                </div>`
+
+                if (!selectedAnchor) {
+                    window.scrollTo(0, 0);
+                }
+                else {
+                    let element = document.querySelector("#" + selectedAnchor)
+                    const topPos = element.getBoundingClientRect().top + window.pageYOffset
+                    window.scrollTo(0, topPos)
+                }
             });
         }
 
-        book.loaded.navigation.then(function(toc) {
-            toc.forEach(append);
-            
-            function append(item) {
-            }            
-        });
-
-        // Hamburger menu toggle
-        var menuToggle = document.getElementById('menu-toggle');
-        var sideMenu = document.getElementById('side-menu');
-
-        function toggleMenu() {
-            sideMenu.classList.toggle('active');
+        // Check for saved theme preference
+        if (localStorage.getItem('theme') === 'dark') {
+            body.classList.add('dark-mode');
         }
-
-        menuToggle.addEventListener('click', toggleMenu);
-
-        // Close menu when clicking outside
         document.addEventListener('click', function(event) {
             var isClickInside = sideMenu.contains(event.target) || menuToggle.contains(event.target);
-            if (!isClickInside && sideMenu.classList.contains('active')) {
-                toggleMenu();
+            if (!isClickInside && sideMenu.style.left === '0px') {
+                sideMenu.style.left = '-290px';
             }
         });
 
-        book.ready.then(() => {
-            reload(book);
+        viewer.addEventListener("click", function(e, a) {
+            if (e.target.classList.contains("endnote-mark")) {
+                e.preventDefault();
+                var anchorSplit = e.target.href.split("#")
+                var parts = anchorSplit[0].split("/")
+                var href = parts[parts.length-1]
+                var index = book.spine.get(href).index
+                displayChapter(index, anchorSplit[1])
+            }
+        });
+
+        // Load default EPUB
+        loadEpub('a-esperanca.epub').then(() => {
             var tocList = document.getElementById("toc");
             book.spine.spineItems.forEach(item=> {
                 if (item.idref === "toc" || item.idref == "content_1_reedsy") {
@@ -184,7 +306,7 @@
                 li.onclick = function(e) {
                     e.stopPropagation();
                     displayChapter(item.index)
-                    toggleMenu();
+                        sideMenu.style.left = '-290px';
                 };
                 
                 tocList.appendChild(li);
@@ -204,6 +326,7 @@
                        ref;
             }
         });
+
     </script>
 </body>
 </html>
