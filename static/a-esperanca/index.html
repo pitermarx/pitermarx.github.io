@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Esperança</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.5/jszip.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/epubjs/dist/epub.min.js"></script>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            font-family: Arial, sans-serif;
+            background-color: rgb(30, 41, 60);
+            color: white;
+            transition: background-color 0.3s, color 0.3s;
+        }
+        #viewer {
+            padding: 20px;
+            box-sizing: border-box;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        #menu-toggle {
+            font-size: 24px;
+            cursor: pointer;
+            position: fixed;
+            top: 10px;
+            left: 10px;
+            z-index: 1001;
+        }
+        #side-menu {
+            position: fixed;
+            left: -250px;
+            top: 0;
+            width: 250px;
+            height: 100%;
+            background-color: #333;
+            transition: 0.3s;
+            overflow-y: auto;
+            color: white;
+            padding-top: 60px;
+            z-index: 1000;
+        }
+        #side-menu.active {
+            left: 0;
+        }
+        #toc {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+        #toc li {
+            padding: 10px;
+            cursor: pointer;
+            border-bottom: 1px solid #444;
+        }
+        #toc li:hover {
+            background-color: #444;
+        }
+        #toc ul {
+            list-style-type: none;
+            padding-left: 20px;
+        }
+        #nav {
+            display: flex;
+            justify-content: space-around;
+            padding: 10px;
+            width: 100%;
+        }
+        .link-nav {
+            display: block;
+            margin: 20px 0;
+            text-align: center;
+            color: #007bff;
+            cursor: pointer;
+        }
+        .link-nav:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div id="menu-toggle">☰</div>
+    <div id="side-menu">
+        <ul id="toc"></ul>
+    </div>
+    <div id="viewer"></div>
+    <div id="nav">
+        <div class="link-nav" onclick="navigate(-1)"><<</div>
+        <div class="link-nav" onclick="navigate(1)">>></div>
+    </div>
+
+    <script>
+        var book = ePub("a-esperanca.epub");
+        var currentChapter = 0;
+        var viewer = document.getElementById("viewer");
+
+        async function reload(book) {
+            const resources = await book.loaded.resources;
+            for (let url of resources.urls.filter(url => url.endsWith('.css'))) {
+                const css = await book.load(url)
+                const style = document.createElement('style');
+                style.textContent = css;
+                document.head.appendChild(style);   
+            }
+
+            displayChapter(0)
+        }
+
+        function navigate(move) {
+            const newChapter = currentChapter + move;
+            if (newChapter < 0 || newChapter >= book.spine.length) {
+                return;
+            }
+
+            currentChapter = newChapter;
+            var chapter = book.spine.get(newChapter);
+
+            if (chapter.idref === "toc" || chapter.idref == "content_1_reedsy") {
+                navigate(move);
+            } else {
+                displayChapter(newChapter)
+            }
+        }
+
+        function displayChapter(chapterIndex) {
+            if (chapterIndex < 0 || chapterIndex >= book.spine.length) {
+                console.warn("out of range chapter " + chapterIndex)
+                return;
+            }
+
+            currentChapter = chapterIndex;
+            var chapter = book.spine.get(chapterIndex);
+
+            chapter.load(book.load.bind(book)).then(function(doc){
+                var serializer = new XMLSerializer();
+                var content = serializer.serializeToString(doc);
+                
+                // Remove existing stylesheet links
+                content = content.replace(/<link[^>]+stylesheet[^>]*>/g, '');
+                viewer.innerHTML = content;
+                window.scrollTo(0, 0);
+            });
+        }
+
+        book.loaded.navigation.then(function(toc) {
+            toc.forEach(append);
+            
+            function append(item) {
+            }            
+        });
+
+        // Hamburger menu toggle
+        var menuToggle = document.getElementById('menu-toggle');
+        var sideMenu = document.getElementById('side-menu');
+
+        function toggleMenu() {
+            sideMenu.classList.toggle('active');
+        }
+
+        menuToggle.addEventListener('click', toggleMenu);
+
+        // Close menu when clicking outside
+        document.addEventListener('click', function(event) {
+            var isClickInside = sideMenu.contains(event.target) || menuToggle.contains(event.target);
+            if (!isClickInside && sideMenu.classList.contains('active')) {
+                toggleMenu();
+            }
+        });
+
+        book.ready.then(() => {
+            reload(book);
+            var tocList = document.getElementById("toc");
+            book.spine.spineItems.forEach(item=> {
+                if (item.idref === "toc" || item.idref == "content_1_reedsy") {
+                    return;
+                }
+
+                var li = document.createElement('li');
+                const tocItem = book.navigation.tocByHref[item.href]
+                li.textContent = tocItem ? book.navigation.toc[tocItem].label : titleFromRef(item.idref);
+                li.onclick = function(e) {
+                    e.stopPropagation();
+                    displayChapter(item.index)
+                    toggleMenu();
+                };
+                
+                tocList.appendChild(li);
+            });
+
+            var dlButton = document.createElement("a");
+            dlButton.href = "a-esperanca.pdf"
+            dlButton.textContent = "Download PDF";
+            var li = document.createElement('li');
+            li.appendChild(dlButton);
+            tocList.appendChild(li);
+
+            function titleFromRef(ref) {
+                return ref == "content_0_title-page" ? "Cover" :
+                       ref == "content_2_reedsy" ? "Dedication" :
+                       ref == "content_3_foreword" ? "Foreword" :
+                       ref;
+            }
+        });
+    </script>
+</body>
+</html>
