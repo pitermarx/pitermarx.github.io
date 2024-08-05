@@ -1,5 +1,5 @@
 ---
-title: "Realism Challenge #3: Playing Card"
+title: "Realism Challenge 3: Playing Card"
 date: "2013-08-28"
 categories:
   - "shares"
