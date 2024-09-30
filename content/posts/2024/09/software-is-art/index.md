@@ -21,7 +21,7 @@ I chose [Oxpecker](https://github.com/Lanayx/Oxpecker/) as my web framework afte
 For me i had the right balance between F# constructs and familiar C# ASP.NET ones.
 The [ViewEngine](https://github.com/Lanayx/Oxpecker/blob/develop/src/Oxpecker.ViewEngine/README.md) library is also a joy to use!
 
-I spent way too much time with this project, tinkering with the components to my liking to get a feel of the language.
+I spent way too much time with [this project](https://github.com/pitermarx/pinger), tinkering with the components to my liking to get a feel of the language.
 In the end, this is what I'm most proud of: An ADO.NET wrapper to access SqLite.
 
 ```fs
