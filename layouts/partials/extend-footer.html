@@ -1,33 +1,28 @@
 <script src="https://getinsights.io/js/insights.js"></script>
 <script>
-  (function (){
-    let doNotTrack = localStorage.getItem("insights") === 'do-not-track'
-    if (!doNotTrack) {
-      insights.init('qv5R8zukglcxKmui');
-      insights.trackPages();
-    }
-
-    document.addEventListener(
-      "DOMContentLoaded",
-      function attachRandomLink() {
-        let rnd = [...document.querySelectorAll("nav li > a")].filter(a => a.innerText == "Random")[0]
-        if (rnd) {
-          rnd.addEventListener(
-            "click",
-            function sendToRandomArticle(e) {
-              e.preventDefault();
-              fetch(window.location.origin + '/index.json')
-                .then(r => r.json())
-                .then(redirectAtRandom)
-                .catch(err => console.log(err));
-            })
-        }
-      });
-
-    function redirectAtRandom(data) {
+  function canTrack() {
+    return localStorage.getItem("insights") != 'do-not-track' && window.insights
+  }
+  
+  function attachRandomLink() {
+    async function sendToRandomArticle(e) {
+      e.preventDefault();
+      let data = await fetch(window.location.origin + '/index.json').then(r => r.json())
+        
       let randIndex = Math.floor(Math.random() * data.length);
-      if (!doNotTrack) insights.track({ id: "random-button" })
+      if (canTrack()) insights.track({ id: "random-button" })
       window.location.href = data[randIndex]['permalink']
     }
-  })();
+  
+    [...document.querySelectorAll("nav li > a")]
+      .filter(a => a.innerText == "Random")
+      .forEach(a => a.addEventListener("click", sendToRandomArticle))
+  }
+  
+  document.addEventListener("DOMContentLoaded", attachRandomLink);
+
+  if (canTrack()) {
+    window.insights.init('qv5R8zukglcxKmui');
+    window.insights.trackPages();
+  }
 </script>
