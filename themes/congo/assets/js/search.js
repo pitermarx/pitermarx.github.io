@@ -65,15 +65,69 @@ document.addEventListener("keydown", function (event) {
   }
 });
 
-// queue an update after each keypress. the last one after 250ms of idle time wins
 input.onkeyup = function (event) {
-  throttle(() => executeQuery(this.value));
+  // queue an update after each keypress. the last one after some idle time wins
+  let isFirstRun = throttle(() => executeQuery(this.value));
+  // on first run, show a spinner
+  if (isFirstRun) {
+    output.innerHTML = `<li class="mb-2">
+      <a class="flex items-center px-3 py-2 rounded-md appearance-none bg-neutral-100 dark:bg-neutral-700 focus:bg-primary-100 hover:bg-primary-100 dark:hover:bg-primary-900 dark:focus:bg-primary-900 focus:outline-dotted focus:outline-transparent focus:outline-2" href="#" tabindex="0">
+        <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+          <g>
+              <circle cx="12" cy="3" r="1" fill="white">
+                <animate id="spnDot0" attributeName="r" begin="0;spnDot2.end-0.5s" calcMode="spline" dur="0.6s" keySplines=".27,.42,.37,.99;.53,0,.61,.73" values="1;2;1"/>
+              </circle>
+              <circle cx="16.5" cy="4.21" r="1" fill="white">
+                <animate id="spnDot1" attributeName="r" begin="spnDot0.begin+0.1s" calcMode="spline" dur="0.6s" keySplines=".27,.42,.37,.99;.53,0,.61,.73" values="1;2;1"/>
+              </circle>
+              <circle cx="7.5" cy="4.21" r="1" fill="white">
+                <animate id="spnDot2" attributeName="r" begin="spnDot4.begin+0.1s" calcMode="spline" dur="0.6s" keySplines=".27,.42,.37,.99;.53,0,.61,.73" values="1;2;1"/>
+              </circle>
+              <circle cx="19.79" cy="7.5" r="1" fill="white">
+                <animate id="spnDot3" attributeName="r" begin="spnDot1.begin+0.1s" calcMode="spline" dur="0.6s" keySplines=".27,.42,.37,.99;.53,0,.61,.73" values="1;2;1"/>
+              </circle>
+              <circle cx="4.21" cy="7.5" r="1" fill="white">
+                <animate id="spnDot4" attributeName="r" begin="spnDot6.begin+0.1s" calcMode="spline" dur="0.6s" keySplines=".27,.42,.37,.99;.53,0,.61,.73" values="1;2;1"/>
+              </circle>
+              <circle cx="21" cy="12" r="1" fill="white">
+                <animate id="spnDot5" attributeName="r" begin="spnDot3.begin+0.1s" calcMode="spline" dur="0.6s" keySplines=".27,.42,.37,.99;.53,0,.61,.73" values="1;2;1"/>
+              </circle>
+              <circle cx="3" cy="12" r="1" fill="white">
+                <animate id="spnDot6" attributeName="r" begin="spnDot8.begin+0.1s" calcMode="spline" dur="0.6s" keySplines=".27,.42,.37,.99;.53,0,.61,.73" values="1;2;1"/>
+              </circle>
+              <circle cx="19.79" cy="16.5" r="1" fill="white">
+                <animate id="spnDot7" attributeName="r" begin="spnDot5.begin+0.1s" calcMode="spline" dur="0.6s" keySplines=".27,.42,.37,.99;.53,0,.61,.73" values="1;2;1"/>
+              </circle>
+              <circle cx="4.21" cy="16.5" r="1" fill="white">
+                <animate id="spnDot8" attributeName="r" begin="spnDota.begin+0.1s" calcMode="spline" dur="0.6s" keySplines=".27,.42,.37,.99;.53,0,.61,.73" values="1;2;1"/>
+              </circle>
+              <circle cx="16.5" cy="19.79" r="1" fill="white">
+                <animate id="spnDot9" attributeName="r" begin="spnDot7.begin+0.1s" calcMode="spline" dur="0.6s" keySplines=".27,.42,.37,.99;.53,0,.61,.73" values="1;2;1"/>
+              </circle>
+              <circle cx="7.5" cy="19.79" r="1" fill="white">
+                <animate id="spnDota" attributeName="r" begin="spnDotb.begin+0.1s" calcMode="spline" dur="0.6s" keySplines=".27,.42,.37,.99;.53,0,.61,.73" values="1;2;1"/>
+              </circle>
+              <circle cx="12" cy="21" r="1" fill="white">
+                <animate id="spnDotb" attributeName="r" begin="spnDot9.begin+0.1s" calcMode="spline" dur="0.6s" keySplines=".27,.42,.37,.99;.53,0,.61,.73" values="1;2;1"/>
+              </circle>
+              <animateTransform attributeName="transform" dur="6s" repeatCount="indefinite" type="rotate" values="360 12 12;0 12 12"/>
+          </g>
+        </svg>
+      </a>
+    </li>`;
+  }
 };
 
-function throttle(func, time = 250) {
-  throttle.nextExec = func;
-  clearTimeout(throttle.timeout)
-  throttle.timeout = setTimeout(() => throttle.nextExec(), time)
+function throttle(func, time = 750) {
+  let isFirstRun = throttle.timeout === undefined
+  if (!isFirstRun) {
+    clearTimeout(throttle.timeout)
+  }
+  throttle.timeout = setTimeout(() => {
+    func()
+    throttle.timeout = undefined
+  }, time)
+  return isFirstRun
 }
 
 function displaySearch() {
@@ -136,32 +190,27 @@ function buildIndex() {
 
 function executeQuery(term) {
   let results = fuse.search(term);
-  let resultsHTML = "";
+  hasResults = results.length > 0;
 
-  if (results.length > 0) {
-    // prettier-ignore
-    resultsHTML = results.map(function (value, key) {
-      return `<li class="mb-2">
-        <a class="flex items-center px-3 py-2 rounded-md appearance-none bg-neutral-100 dark:bg-neutral-700 focus:bg-primary-100 hover:bg-primary-100 dark:hover:bg-primary-900 dark:focus:bg-primary-900 focus:outline-dotted focus:outline-transparent focus:outline-2" href="${value.item.permalink}" tabindex="0">
-          <div class="grow">
-            <div class="-mb-1 text-lg font-bold">${value.item.title}</div>
-            <div class="text-sm text-neutral-500 dark:text-neutral-400">${value.item.section}${value.item.date == null ? '' : `<span class="px-2 text-primary-500">&middot;</span>${value.item.date}</span>`}</div>
-            <div class="text-sm italic">${value.item.summary}</div>
-          </div>
-          <div class="ml-2 ltr:block rtl:hidden text-neutral-500">&rarr;</div>
-          <div class="mr-2 ltr:hidden rtl:block text-neutral-500">&larr;</div>
-        </a>
-      </li>`;
-    }).join("");
-    hasResults = true;
-  } else {
-    resultsHTML = "";
-    hasResults = false;
+  if (!hasResults) {
+    output.innerHTML = ""
+    return
   }
 
-  output.innerHTML = resultsHTML;
-  if (results.length > 0) {
-    first = output.firstChild.firstElementChild;
-    last = output.lastChild.firstElementChild;
-  }
+  output.innerHTML = results.map(function (value) {
+    return `<li class="mb-2">
+      <a class="flex items-center px-3 py-2 rounded-md appearance-none bg-neutral-100 dark:bg-neutral-700 focus:bg-primary-100 hover:bg-primary-100 dark:hover:bg-primary-900 dark:focus:bg-primary-900 focus:outline-dotted focus:outline-transparent focus:outline-2" href="${value.item.permalink}" tabindex="0">
+        <div class="grow">
+          <div class="-mb-1 text-lg font-bold">${value.item.title}</div>
+          <div class="text-sm text-neutral-500 dark:text-neutral-400">${value.item.section}${value.item.date == null ? '' : `<span class="px-2 text-primary-500">&middot;</span>${value.item.date}</span>`}</div>
+          <div class="text-sm italic">${value.item.summary}</div>
+        </div>
+        <div class="ml-2 ltr:block rtl:hidden text-neutral-500">&rarr;</div>
+        <div class="mr-2 ltr:hidden rtl:block text-neutral-500">&larr;</div>
+      </a>
+    </li>`;
+  }).join("");
+
+  first = output.firstChild.firstElementChild;
+  last = output.lastChild.firstElementChild;
 }
