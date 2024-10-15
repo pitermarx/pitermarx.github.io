@@ -1,9 +1,9 @@
 ---
 title: "Kung Fu Panda Trailer"
 date: "2008-03-11"
-categories: 
+categories:
   - "shares"
   - "videos"
 ---
 
-https://dailymotion.com/video/x4m1zj
+{{ dailymotion x4m1zj }}
