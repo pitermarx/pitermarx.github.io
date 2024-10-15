@@ -6,4 +6,4 @@ categories:
   - "shares"
 ---
 
-{{ dailymotion x1nadp }}
+{{< dailymotion x1nadp >}}

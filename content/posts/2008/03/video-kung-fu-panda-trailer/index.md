@@ -6,4 +6,4 @@ categories:
   - "videos"
 ---
 
-{{ dailymotion x4m1zj }}
+{{< dailymotion x4m1zj >}}
