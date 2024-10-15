@@ -65,10 +65,16 @@ document.addEventListener("keydown", function (event) {
   }
 });
 
-// Update search on each keypress
+// queue an update after each keypress. the last one after 250ms of idle time wins
 input.onkeyup = function (event) {
-  executeQuery(this.value);
+  throttle(() => executeQuery(this.value));
 };
+
+function throttle(func, time = 250) {
+  throttle.nextExec = func;
+  clearTimeout(throttle.timeout)
+  throttle.timeout = setTimeout(() => throttle.nextExec(), time)
+}
 
 function displaySearch() {
   if (!indexed) {
