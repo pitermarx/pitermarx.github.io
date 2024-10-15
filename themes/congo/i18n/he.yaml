@@ -51,6 +51,11 @@ sharing:
   pinterest: "שיתוף בפינטרסט"
   reddit: "שליחה לרדיט"
   twitter: "ציוץ בטוויטר"
+  # threads: "Post on Threads"
+  telegram: "שיתוף בטלגרם"
+  line: "שיתוף בליין"
+  # weibo: "Share on Weibo"
+  # x-twitter: "Post on X"
 
 shortcode:
   recent_articles: "חדשים"

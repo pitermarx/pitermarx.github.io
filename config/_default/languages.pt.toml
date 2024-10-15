@@ -9,7 +9,7 @@ title = "ριтєя мαяχ"
   dateFormat = "2 January 2006"
   description = "Once I was born and now I'm alive!"
 
-[author]
+[params.author]
   name = "ριтєя мαяχ"
   image = "img/pitermarx.jpg"
   headline = "Once I was born and now I'm alive!"
@@ -25,6 +25,6 @@ title = "ριтєя мαяχ"
      { mastodon = "https://masto.pt/@pitermarx" },
      { soundcloud = "https://soundcloud.com/pitermarx" },
      { stack-overflow = "https://stackoverflow.com/users/2633434/pitermarx" },
-     { twitter = "https://twitter.com/pitermarx" }
+     { x-twitter = "https://twitter.com/pitermarx" }
   ]
 
