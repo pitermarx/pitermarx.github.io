@@ -29,18 +29,27 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
+    env:
+      HUGO_CACHEDIR: /tmp/hugo_cache
     steps:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-      - name: Run Hugo
-        uses: crazy-max/ghaction-hugo@v2
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
         with:
-          version: v0.118.2
-          extended: false
-          args: --cleanDestinationDir --minify --verbose
+          hugo-version: '0.119.0'
+          extended: true
+      - uses: actions/cache@v4
+        with:
+          path: ${{ env.HUGO_CACHEDIR }} # <- Use the same env variable just right here
+          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-hugomod-
+      - name: Build
+        run: hugo --minify --verbose
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
