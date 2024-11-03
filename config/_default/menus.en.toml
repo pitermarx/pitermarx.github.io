@@ -11,6 +11,11 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "Gospel"
+  url = "https://gospel.pitermarx.com/en"
+  weight = 5
+
+[[main]]
   name = "Posts"
   pageRef = "posts"
   weight = 10
