@@ -1,6 +1,6 @@
 ---
 title: "My favourite christmas carol - v4"
-date: "2024-12-7"
+date: "2024-12-07"
 categories:
   - "music"
   - "shares"
