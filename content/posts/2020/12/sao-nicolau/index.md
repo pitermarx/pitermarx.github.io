@@ -1,11 +1,12 @@
 ---
 title: "Saint Nicholas"
 date: "2020-12-23"
-categories: 
+categories:
   - "original"
   - "shorts"
-tags: 
+tags:
   - "christianity"
+  - "christmas"
 ---
 
 As is common knowledge, the idea of [Santa Claus](https://en.wikipedia.org/wiki/Santa_Claus) is built from a historical figure, [Saint Nicholas](https://www.stnicholascenter.org/) .
@@ -19,9 +20,9 @@ The story [featured on the Saint Nicholas website](https://www.stnicholascenter.
 The story was later changed to a punch instead of a slap. It's possibly made up, but fun, and has given rise to some funny memes...
 
 - ![](images/WhatsApp-Image-2020-12-02-at-11.20.00.jpeg)
-    
+
 - ![](images/WhatsApp-Image-2020-12-02-at-11.19.06.jpeg)
-    
+
 - ![](images/WhatsApp-Image-2020-12-02-at-11.19.44.jpeg)
-    
+
 - ![](images/WhatsApp-Image-2020-12-02-at-11.19.25-1024x927.jpeg)

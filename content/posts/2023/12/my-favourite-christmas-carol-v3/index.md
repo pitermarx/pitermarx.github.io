@@ -6,6 +6,7 @@ categories:
   - "shares"
 tags:
   - "christianity"
+  - "christmas"
 ---
 
 Yet [another version](/2020/12/my-favourite-christmas-carol) of [my favourite christmas carol](/2021/12/my-favourite-christmas-carol-v2)

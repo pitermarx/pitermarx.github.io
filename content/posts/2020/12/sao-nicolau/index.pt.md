@@ -1,11 +1,12 @@
 ---
 title: "São Nicolau"
 date: "2020-12-23"
-categories: 
+categories:
   - "original"
   - "shorts"
-tags: 
+tags:
   - "christianity"
+  - "christmas"
 ---
 
 Como é de conhecimento geral, a ideia do [Pai Natal](https://en.wikipedia.org/wiki/Saint_Nicholas) é construída a partir de uma figura histórica, o [São Nicolau.](https://www.stnicholascenter.org/) O que nem todos sabem é que há uma história sobre o São Nicolau e o [primeiro concílio ecuménico](https://pt.wikipedia.org/wiki/Primeiro_Conc%C3%ADlio_de_Niceia).
@@ -17,9 +18,9 @@ A história [apresentada no site do São Nicolau](https://www.stnicholascenter.o
 A história mais tarde foi alterada para um murro em vez da bofetada. É possivelmente inventada, mas divertida, e deu origem a uns memes engraçados...
 
 - ![](images/WhatsApp-Image-2020-12-02-at-11.20.00.jpeg)
-    
+
 - ![](images/WhatsApp-Image-2020-12-02-at-11.19.06.jpeg)
-    
+
 - ![](images/WhatsApp-Image-2020-12-02-at-11.19.44.jpeg)
-    
+
 - ![](images/WhatsApp-Image-2020-12-02-at-11.19.25-1024x927.jpeg)

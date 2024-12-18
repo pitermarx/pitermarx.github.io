@@ -6,6 +6,7 @@ categories:
   - "original"
 tags:
   - "christianity"
+  - "christmas"
 ---
 
 <small>Traduzido automaticamente da [versão em inglês](/2021/12/is-it-christmas-again/)</small>

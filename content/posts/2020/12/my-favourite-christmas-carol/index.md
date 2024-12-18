@@ -6,6 +6,7 @@ categories:
   - "shares"
 tags:
   - "christianity"
+  - "christmas"
 ---
 
 {{< spotify type="track" id="5cARYX1aiptjqYZ4O94j8r" >}}

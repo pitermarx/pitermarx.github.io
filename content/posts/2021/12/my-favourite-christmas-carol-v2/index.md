@@ -4,6 +4,8 @@ date: "2021-12-17"
 categories:
   - "music"
   - "shares"
+tags:
+  - "christmas"
 ---
 
 Another version of [my favourite christmas carol]({{< ref "/posts/2020/12/my-favourite-christmas-carol" >}})

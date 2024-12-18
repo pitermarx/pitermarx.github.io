@@ -4,6 +4,8 @@ date: "2024-12-07"
 categories:
   - "music"
   - "shares"
+tags:
+  - "christmas"
 ---
 
 Yet [another version](/2020/12/my-favourite-christmas-carol) of [my favourite](/2021/12/my-favourite-christmas-carol-v2) christmas [carol](/2023/12/my-favourite-christmas-carol-v3)

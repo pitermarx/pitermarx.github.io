@@ -6,6 +6,7 @@ categories:
   - "original"
 tags:
   - "christianity"
+  - "christmas"
 ---
 
 [Christmas time is here](https://open.spotify.com/track/299lFlaAsNQdgbIZNPmIA0?si=32931844c37a4807), [it's the most wonderful time of the year](https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN?si=332ad834e00d48f3) or so they say. But why is it?
@@ -23,7 +24,7 @@ Regardless of all that, around 2 millennia ago **JESUS WAS BORN**! And we still 
 Why is Jesus such an unique figure in history? Let me share some ideas I read [here](https://www.challies.com/quotes/the-incomparable-christ/), expressed in a more eloquent manner than I ever could.
 
 > More than nineteen hundred years ago, there was a Man born contrary to the laws of life. This Man lived in poverty and was reared in obscurity. He did not travel extensively. Only once did He cross the boundary of the country in which He lived; that was during His exile in childhood.
-> 
+>
 > He possessed neither wealth nor influence. His relatives were inconspicuous and had neither training nor formal education.
 >
 > In infancy He startled a king; in childhood He puzzled doctors; in manhood He ruled the course of nature, walked upon the waves as pavement, and hushed the sea to sleep.
@@ -35,7 +36,7 @@ Why is Jesus such an unique figure in history? Let me share some ideas I read [h
 > He never wrote a song, and yet He has furnished the theme for more songs than all the songwriters combined.
 >
 > He never founded a college, but all the schools put together cannot boast of having as many students.
-> 
+>
 > He never marshaled an army, nor drafted a soldier, nor fired a gun; and yet no leader ever had more volunteers who have, under His orders, made more rebels stack arms and surrender without a shot fired.
 >
 > He never practiced psychiatry, and yet He has healed more broken hearts than all the doctors far and near.
