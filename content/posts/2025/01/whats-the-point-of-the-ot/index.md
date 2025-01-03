@@ -71,7 +71,6 @@ The scepter will not depart from Judah,
 nor the ruler’s staff from between his feet,
 until he to whom it belongs shall come
 and the obedience of the nations shall be his.
-{{< /bible >}}
 
 Jacob says about Judah that he will rule over his brothers. It's in Judah that the true royal dynasty of Israel will be found. But this prophecy extends beyond a mere local kingdom. One day, the one to whom the scepter truly belongs will come, and all nations will obey him. The lens of biblical witness is now focusing again, narrowing the origin of the ***seed*** in Judah. This Savior is a king that will not only end evil and reverse the curse, but also rule over the nations.
 
@@ -79,21 +78,22 @@ Centuries pass, and now the descendants of Abraham, Isaac and Jacob are enslaved
 
 ## Shadows of the Messiah
 
-After Moses led the people out of Egypt, he warned them that they would need another prophet like him in the future ({{< biblink "Deut 18:15" "NIV" >}}). The promised seed would need to be a greater conqueror, one who could achieve a complete and lasting victory.
-
-When Joshua died, Israel forsook God and served other gods ({{< biblink "Judges 2:12" "NIV" >}}), without a King-Messiah who could lead them in God's ways.
+After Moses led the people out of Egypt, he warned them that they would need another prophet like him in the future ({{< biblink "Deut 18:15" "NIV" >}}). Joshua succeeded Moses and led the Israelites in a military conquest into the promised land, but even his victory was not total. The promised seed would need to be a greater conqueror, one who could achieve a complete and lasting victory. When Joshua died, Israel forsook God and served other gods ({{< biblink "Judges 2:12" "NIV" >}}), without a King-Messiah who could lead them in God's ways.
 
 Then came David, a shepherd boy from Bethlehem, from the tribe of Judah. God ***chose*** him to be king over Israel, and made him an astounding promise. Not only would David's son build God's house, but God would establish David's house forever:
 
-> When your days are over and you rest with your ancestors,
-> **I will** raise up your offspring to succeed you, your own flesh and blood,
-> and **I will** establish his kingdom.
-> He is the one who will build a house for my Name,
-> and **I will** establish the throne of his kingdom forever.
-> **I will** be his father, and he will be my son. When he does wrong, I will punish him with a rod wielded by men, with floggings inflicted by human hands.But my love will never be taken away from him, as I took it away from Saul, whom I removed from before you.
-> Your house and your kingdom will endure forever before me;
-> ***Your throne will be established forever***.
-> - 2 Sam 7:12-16
+
+{{< bible "2 Sam 7:12-16" "NIV" >}}
+When your days are over and you rest with your ancestors,
+**I will** raise up your offspring to succeed you, your own flesh and blood,
+and **I will** establish his kingdom.
+He is the one who will build a house for my Name,
+and **I will** establish the throne of his kingdom forever.
+**I will** be his father, and he will be my son. When he does wrong, I will punish him with a rod wielded by men, with floggings inflicted by human hands.
+But my love will never be taken away from him, as I took it away from Saul, whom I removed from before you.
+Your house and your kingdom will endure forever before me;
+***Your throne will be established forever***.
+{{< /bible >}}
 
 The lens of biblical witness now focused even more sharply: the promised seed would come from David's line and his kingdom would never end. The promise to David became Israel's great hope. Even when David's descendants failed and the kingdom split, even when foreign nations conquered them and sent them into exile, the people clung to God's promise. Through the prophets, God kept reminding them: a son of David would come, and his kingdom would never end.
 
