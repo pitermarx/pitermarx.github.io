@@ -159,44 +159,41 @@
   }
 
   // Create and manage tooltip element
-  const tooltipManager = {
+  const tip = {
     tooltipEl: null,
 
-    init() {
-      if (!this.tooltipEl) {
-        this.tooltipEl = document.createElement('div');
-        this.tooltipEl.style.cssText = `
+    show(content, element) {
+      // create
+      if (!tip.tooltipEl) {
+        tip.tooltipEl = document.createElement('div');
+        tip.tooltipEl.classList.add("bible-tooltip")
+        tip.tooltipEl.style.cssText = `
           position: absolute;
           display: none;
           z-index: 1000;
-
-          opacity: 0;
         `;
-        document.body.appendChild(this.tooltipEl);
+        document.body.appendChild(tip.tooltipEl);
       }
-    },
 
-    position(element) {
+      // set content and show
+      tip.tooltipEl.innerHTML = `
+        <p>${content.reference_display} (${content.version})</p>
+        <p>${content.text}</p>
+      `;
+      tip.tooltipEl.style.display = 'block';
+
+      // position
       const rect = element.getBoundingClientRect();
       const scrollLeft = window.pageXOffset || document.documentElement.scrollLeft;
       const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
 
-      this.tooltipEl.style.left = `${rect.left + scrollLeft}px`;
-      this.tooltipEl.style.top = `${rect.bottom + scrollTop + 5}px`;
-    },
-
-    show(content, element) {
-      this.tooltipEl.innerHTML = `
-        <p>${content.reference_display} (${content.version})</p>
-        <p>${content.text}</p>
-      `;
-      this.tooltipEl.classList.add("bible-tooltip")
-      this.position(element);
+      tip.tooltipEl.style.left = `${rect.left + scrollLeft}px`;
+      tip.tooltipEl.style.top = `${rect.bottom + scrollTop + 5}px`;
     },
 
     hide() {
-      if (this.tooltipEl) {
-        this.tooltipEl.classList.remove("bible-tooltip")
+      if (tip.tooltipEl) {
+        tip.tooltipEl.style.display = 'none';
       }
     }
   };
@@ -211,7 +208,7 @@
 
     // Create one-time callback function
     window[callbackName] = (content) => {
-      tooltipManager.show(content, element);
+      tip.show(content, element);
       delete window[callbackName];
       scriptEl.parentNode.removeChild(scriptEl);
     };
@@ -221,21 +218,13 @@
     document.body.appendChild(scriptEl);
   }
 
-  // Initialize tooltip system
   document.addEventListener('DOMContentLoaded', () => {
-    tooltipManager.init();
-
     // Add tooltips to all Bible Gateway links
     [...document.querySelectorAll('a')]
       .filter(a => a.href.includes('biblegateway'))
       .forEach(a => {
-        a.addEventListener('mouseover', (e) => {
-          requestTooltip(a.href, a);
-        });
-
-        a.addEventListener('mouseout', () => {
-          tooltipManager.hide();
-        });
+        a.addEventListener('mouseover', () => requestTooltip(a.href, a));
+        a.addEventListener('mouseout', () => tip.hide());
       });
   });
 </script>
