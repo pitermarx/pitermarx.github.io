@@ -142,4 +142,107 @@
     customElements.define("snow-fall", Snow);
     document.body.innerHTML += "<snow-fall></snow-fall>"
   }
+
+  // Helper to parse Bible Gateway URLs
+  function parseBibleUrl(url) {
+    try {
+      const urlObj = new URL(url);
+      const searchParams = new URLSearchParams(urlObj.search);
+      return {
+        search: searchParams.get('search') || '',
+        version: searchParams.get('version') || 'NIV'
+      };
+    } catch (e) {
+      console.error('Invalid URL:', e);
+      return { search: '', version: 'NIV' };
+    }
+  }
+
+  // Create and manage tooltip element
+  const tooltipManager = {
+    tooltipEl: null,
+
+    init() {
+      if (!this.tooltipEl) {
+        this.tooltipEl = document.createElement('div');
+        this.tooltipEl.className = 'bible-tooltip';
+        this.tooltipEl.style.cssText = `
+          position: absolute;
+          background: var(--fbc-light-gray);
+          border: 1px solid rgb(204, 204, 204);
+          border: 1px solid #ccc;
+          padding: 10px;
+          border-radius: 4px;
+          box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+          max-width: 300px;
+          z-index: 1000;
+          display: none;
+        `;
+        document.body.appendChild(this.tooltipEl);
+      }
+    },
+
+    position(element) {
+      const rect = element.getBoundingClientRect();
+      const scrollLeft = window.pageXOffset || document.documentElement.scrollLeft;
+      const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+
+      this.tooltipEl.style.left = `${rect.left + scrollLeft}px`;
+      this.tooltipEl.style.top = `${rect.bottom + scrollTop + 5}px`;
+    },
+
+    show(content, element) {
+      this.tooltipEl.innerHTML = `
+        <div class="tooltip-reference">${content.reference_display}</div>
+        <div class="tooltip-text">${content.text}</div>
+        <div class="tooltip-version">${content.version}</div>
+      `;
+      this.tooltipEl.style.display = 'block';
+      this.position(element);
+    },
+
+    hide() {
+      if (this.tooltipEl) {
+        this.tooltipEl.style.display = 'none';
+      }
+    }
+  };
+
+  // Request tooltip content
+  function requestTooltip(url, element) {
+    const { search, version } = parseBibleUrl(url);
+    if (!search) return;
+
+    const callbackName = `updateTooltip_${Date.now()}`;
+    const scriptEl = document.createElement('script');
+
+    // Create one-time callback function
+    window[callbackName] = (content) => {
+      tooltipManager.show(content, element);
+      delete window[callbackName];
+      scriptEl.parentNode.removeChild(scriptEl);
+    };
+
+    scriptEl.src = `https://www.biblegateway.com/share/tooltips/data?search=${encodeURIComponent(search)}&version=${encodeURIComponent(version)}&callback=${callbackName}`;
+    scriptEl.type = 'text/javascript';
+    document.body.appendChild(scriptEl);
+  }
+
+  // Initialize tooltip system
+  document.addEventListener('DOMContentLoaded', () => {
+    tooltipManager.init();
+
+    // Add tooltips to all Bible Gateway links
+    [...document.querySelectorAll('a')]
+      .filter(a => a.href.includes('biblegateway'))
+      .forEach(a => {
+        a.addEventListener('mouseover', (e) => {
+          requestTooltip(a.href, a);
+        });
+
+        a.addEventListener('mouseout', () => {
+          //tooltipManager.hide();
+        });
+      });
+  });
 </script>

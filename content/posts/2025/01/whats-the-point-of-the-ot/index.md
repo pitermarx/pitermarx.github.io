@@ -43,11 +43,11 @@ Deceived by the serpent, the first couple disobeyed God ({{< biblink "Gen 3:6" "
 Even so, God made a promise to the serpent. A promise of hope of a savior for mankind, a _seed_ from the woman, a man (with a heel) that would once and for all "crush the head" of the serpent.
 
 {{< bible "Gen 3:15" "NKJV" >}}
-> And I will put enmity
-> Between you and the woman,
-> And between your seed and **_her Seed_**;
-> He shall bruise your head,
-> And you shall bruise His heel.
+And I will put enmity
+Between you and the woman,
+And between your seed and **_her Seed_**;
+He shall bruise your head,
+And you shall bruise His heel.
 {{< /bible >}}
 
 The effects of the fall were felt hard in this first family. Cain, the first son of Adam and Eve, murdered his brother ({{< biblink "Gen 4:8" "NIV" >}}). Man was now mortal ({{< biblink "Genesis 5" "NIV" >}}) and evil was in his heart all the time ({{< biblink "Gen 6:5" "NIV" >}}), so God decided to wipe the human race from the face of the earth ({{< biblink "Gen 6:13" "NIV" >}}).
