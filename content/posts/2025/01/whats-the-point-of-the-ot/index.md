@@ -71,6 +71,7 @@ The scepter will not depart from Judah,
 nor the ruler’s staff from between his feet,
 until he to whom it belongs shall come
 and the obedience of the nations shall be his.
+{{< /bible >}}
 
 Jacob says about Judah that he will rule over his brothers. It's in Judah that the true royal dynasty of Israel will be found. But this prophecy extends beyond a mere local kingdom. One day, the one to whom the scepter truly belongs will come, and all nations will obey him. The lens of biblical witness is now focusing again, narrowing the origin of the ***seed*** in Judah. This Savior is a king that will not only end evil and reverse the curse, but also rule over the nations.
 
@@ -78,7 +79,7 @@ Centuries pass, and now the descendants of Abraham, Isaac and Jacob are enslaved
 
 ## Shadows of the Messiah
 
-After Moses led the people out of Egypt, he warned them that they would need another prophet like him in the future ({{< biblink "Deut 18:15" "NIV" >}}). Joshua succeeded Moses and led the Israelites in a military conquest into the promised land, but even his victory was not total. The promised seed would need to be a greater conqueror, one who could achieve a complete and lasting victory. When Joshua died, Israel forsook God and served other gods ({{< biblink "Judges 2:12" "NIV" >}}), without a King-Messiah who could lead them in God's ways.
+After Moses led the people out of Egypt, he warned them they would need another prophet like him in the future ({{< biblink "Deut 18:15" "NIV" >}}). Joshua succeeded Moses and led the Israelites in a military conquest into the promised land, but even his victory wasn't total. The promised seed would need to be a greater conqueror, one who could achieve a complete and lasting victory. When Joshua died, Israel forsook God and served other gods ({{< biblink "Judges 2:12" "NIV" >}}), without a King-Messiah to lead them in God's ways.
 
 Then came David, a shepherd boy from Bethlehem, from the tribe of Judah. God ***chose*** him to be king over Israel, and made him an astounding promise. Not only would David's son build God's house, but God would establish David's house forever:
 
