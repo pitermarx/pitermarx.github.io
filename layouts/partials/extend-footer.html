@@ -165,18 +165,12 @@
     init() {
       if (!this.tooltipEl) {
         this.tooltipEl = document.createElement('div');
-        this.tooltipEl.className = 'bible-tooltip';
         this.tooltipEl.style.cssText = `
           position: absolute;
-          background: rgba(var(--color-neutral-600),1);
-          color: var(--tw-prose-body);
-          border: 1px solid var(--tw-prose-body);
-          padding: 10px;
-          border-radius: 4px;
-          box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-          max-width: 300px;
-          z-index: 1000;
           display: none;
+          z-index: 1000;
+
+          opacity: 0;
         `;
         document.body.appendChild(this.tooltipEl);
       }
@@ -193,17 +187,16 @@
 
     show(content, element) {
       this.tooltipEl.innerHTML = `
-        <div class="tooltip-reference">${content.reference_display}</div>
-        <div class="tooltip-text">${content.text}</div>
-        <div class="tooltip-version">${content.version}</div>
+        <p>${content.reference_display} (${content.version})</p>
+        <p>${content.text}</p>
       `;
-      this.tooltipEl.style.display = 'block';
+      this.tooltipEl.classList.add("bible-tooltip")
       this.position(element);
     },
 
     hide() {
       if (this.tooltipEl) {
-        this.tooltipEl.style.display = 'none';
+        this.tooltipEl.classList.remove("bible-tooltip")
       }
     }
   };

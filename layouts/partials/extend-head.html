@@ -5,4 +5,26 @@
     .prose :where(blockquote):not(:where([class~=not-prose] *)) {
         font-weight: unset;
     }
+
+    /* keep break lines in bible quotes */
+    .bible-quote {
+        white-space: pre;
+    }
+
+    .bible-tooltip {
+        display: block !important;
+
+        transition-property: display, opacity;
+        transition-duration: 2s;
+        transition-behavior: allow-discrete;
+
+        background: rgba(23, 23, 23, 0.98);
+        color: #e5e5e5;
+        padding: 1rem;
+        border-radius: 8px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.1);
+        max-width: 300px;
+        font-size: 0.875rem;
+        line-height: 1.5;
+    }
 </style>
