@@ -83,7 +83,6 @@ After Moses led the people out of Egypt, he warned them they would need another 
 
 Then came David, a shepherd boy from Bethlehem, from the tribe of Judah. God ***chose*** him to be king over Israel, and made him an astounding promise. Not only would David's son build God's house, but God would establish David's house forever:
 
-
 {{< bible "2 Sam 7:12-16" "NIV" >}}
 When your days are over and you rest with your ancestors,
 **I will** raise up your offspring to succeed you, your own flesh and blood,
@@ -102,49 +101,64 @@ The lens of biblical witness now focused even more sharply: the promised seed wo
 
 Entire libraries could be written about how the rest of the Tanach points to the "Son of David" as the Messiah that would deliver Israel, reverse the curse, and establish an everlasting kingdom. Let's just reference a few passages.
 
-### Ezekiel 37:24-28
-
-> My servant David will be king over them, and they will all have one shepherd. They will follow my laws and be careful to keep my decrees. They will live ***in the land*** I gave to my servant Jacob, the land where your ancestors lived. They and their children and their children’s children ***will live there forever***, and David my servant will be their prince forever. I will make a covenant of peace with them; it will be an everlasting covenant. I will establish them and increase their numbers, and I will put my sanctuary among them forever. ***My dwelling place will be with them***; I will be their God, and they will be my people. Then the nations will know that I the Lord make Israel holy, when my sanctuary is among them forever
+{{< bible "Ezekiel 37:24-28" "NIV" >}}
+***My servant David*** will be king over them, and they will all have one shepherd.
+They will follow my laws and be careful to keep my decrees.
+They will live ***in the land*** I gave to my servant Jacob, the land where your ancestors lived.
+They and their children and their children’s children ***will live there forever***, and David my servant will be their prince forever.
+I will make a covenant of peace with them; it will be an everlasting covenant.
+I will establish them and increase their numbers, and I will put my sanctuary among them forever.
+***My dwelling place will be with them***;
+I will be their God, and they will be my people.
+Then the nations will know that I the Lord make Israel holy, when my sanctuary is among them forever
+{{< /bible >}}
 
 The promise of a king from the line of David is tied to the promise of the land to the Patriarchs. In addition to this, just like it was in Eden, God will live among his people.
 
-### Jeremiah 23:5-6
-
-> “The days are coming,” declares the Lord, “when I will raise up for David a righteous Branch, a King who will reign wisely and do what is just and right in the land.
-
-> In his days Judah will be saved and Israel will live in safety. This is the name by which he will be called: The Lord Our Righteous Savior."
+{{< bible "Jeremiah 23:5-6" "NIV" >}}
+The days are coming, declares the Lord,
+when I will raise up for David a righteous Branch, a King who will reign wisely and do what is just and right in the land.
+In his days Judah will be saved and Israel will live in safety.
+This is the name by which he will be called: The Lord Our Righteous Savior.
+{{< /bible >}}
 
 This King, will "save Judah" and make Israel to live in safety. This points to the idea that there will be persecution and danger to God's people until the end.
 
-### Daniel 7:13-14
-
->  In my vision at night I looked, and there before me was one like a son of man, coming with the clouds of heaven. He approached the Ancient of Days and was led into his presence. He was given authority, glory and sovereign power; all nations and peoples of every language worshiped him. His dominion is an everlasting dominion that will not pass away, and ***his kingdom is one that will never be destroyed***.
+{{< bible "Daniel 7:13-14" "NIV" >}}
+In my vision at night I looked, and there before me was one like a son of man, coming with the clouds of heaven.
+He approached the Ancient of Days and was led into his presence.
+He was given authority, glory and sovereign power; all nations and peoples of every language worshiped him.
+His dominion is an everlasting dominion that will not pass away, and ***his kingdom is one that will never be destroyed***.
+{{< /bible >}}
 
 This "son of man" receives an everlasting kingdom, authority, glory and worship from all nations. His authority comes directly from God - the Ancient of Days.
 
-### Hosea 3:4-5
-
->   For the Israelites will live many days without king or prince, without sacrifice or sacred stones, without ephod or household gods. Afterward the Israelites will return and seek the Lord their God and ***David their king***. They will come trembling to the Lord and to his blessings in the last days.
+{{< bible "Hosea 3:4-5" "NIV" >}}
+For the Israelites will live many days without king or prince, without sacrifice or sacred stones, without ephod or household gods.
+Afterward the Israelites will return and seek the Lord their God and ***David their king***.
+They will come trembling to the Lord and to his blessings in the last days.
+{{< /bible >}}
 
 Israel will come to their King "in the last days", after a prolonged time without rulers and sacrifice.
 
-### Isaiah 9:6-7
-
->  For to us a child is born, to us a son is given, and the government will be on his shoulders. And he will be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace. Of the greatness of his government and peace there will be no end.
-
->  He will reign on ***David’s throne*** and over his kingdom, establishing and upholding it with justice and righteousness from that time on and ***forever***.
-
->  The zeal of the Lord Almighty will accomplish this.
+{{< bible "Isaiah 9:6-7" "NIV" >}}
+For to us a child is born, to us a son is given, and the government will be on his shoulders.
+And he will be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace. Of the greatness of his government and peace there will be no end.
+He will reign on ***David’s throne*** and over his kingdom, establishing and upholding it with justice and righteousness from that time on and ***forever***.
+The zeal of the Lord Almighty will accomplish this.
+{{< /bible >}}
 
 The ***seed*** promised in genesis is a human. It's a child, but with many amazing titles. He will be an eternal King that will sit on David's throne.
 
-### Isaiah 11:10-11
-
->  In that day the ***Root of Jesse*** will stand as a banner for the peoples; the nations will rally to him, and his resting place will be glorious. In that day the Lord will reach out his hand a second time to reclaim the surviving remnant of his people
+{{< bible "11:10-11" "NIV" >}}
+In that day the ***Root of Jesse*** will stand as a banner for the peoples;
+the nations will rally to him, and his resting place will be glorious.
+In that day the Lord will reach out his hand a second time to reclaim the surviving remnant of his people
+{{< /bible >}}
 
 Jesse is the father of David, and the Root of Jesse is the King-Messiah to whom all nations will rally.
 
-The book of Isaiah is particularly rich on prophecies about the last days and the coming of the messiah, written in the 8th century BCE. It is amazing that since 1946, with the discovery of the dead sea scrolls. we have a physical copy of this book dating from over 2000 years ago.
+The book of Isaiah is particularly rich on prophecies about the last days and the coming of the Messiah, written in the 8th century BCE. It is amazing that since 1946, with the discovery of the dead sea scrolls, we have a physical copy of this book dating from roughly 2000 years ago.
 
 ## The day of the Lord
 
