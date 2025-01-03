@@ -1,10 +1,11 @@
 ---
 title: "C.S.Lewis on theology"
 date: "2020-04-13"
-categories: 
+categories:
   - "quotes"
   - "shares"
-tags: 
+tags:
+  - "c.s. lewis"
   - "christianity"
 ---
 

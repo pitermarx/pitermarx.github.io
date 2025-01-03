@@ -5,6 +5,7 @@ categories:
   - "longs"
   - "shares"
 tags:
+  - "c.s. lewis"
   - "christianity"
 ---
 
@@ -16,7 +17,7 @@ Christians believe the physical resurrection of Jesus actually happened, but man
 
 While pondering this I've came across [a beautiful essay](https://www.fadedpage.com/books/20210322/html.php) written by one of my favorite authors, C.S.Lewis, "On Obstinacy In Belief." - in video form [here](https://www.youtube.com/watch?v=imvy3EXJ5E0). It says why a christian should believe even on the presence of contrary evidence. Given that one has assented to the truth of Christianity for whatever reasons, then it is praiseworthy to keep believing through the "assaults of reality".
 
-This is the essay, reproduced in full as I can't make it better by subtracting from it. 
+This is the essay, reproduced in full as I can't make it better by subtracting from it.
 
 > Papers have more than once been read to the Socratic Club at Oxford in which a contrast was drawn between a supposedly Christian attitude and a supposedly scientific attitude to belief. We have been told that the scientist thinks it his duty to proportion the strength of his belief exactly to the evidence; to believe less as there is less evidence and to withdraw belief altogether when reliable adverse evidence turns up. We have been told that, on the contrary, the Christian regards it as positively praiseworthy to believe without evidence, or in excess of the evidence, or to maintain his belief unmodified in the teeth of steadily increasing evidence against it. Thus a “faith that has stood firm,” which appears to mean a belief immune from all the assaults of reality, is commended.
 

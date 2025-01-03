@@ -1,12 +1,14 @@
 ---
 title: "C.S.Lewis on Coronavirus"
 date: "2020-08-03"
-categories: 
+categories:
   - "quotes"
   - "shares"
+tags:
+  - "c.s. lewis"
 ---
 
-C. S. Lewis escreveu isto em 1948  
+C. S. Lewis escreveu isto em 1948
 Substituindo a palavras "atomic bomb" por coronavirus parece bastante actual.
 
 In one way we think a great deal too much of the atomic bomb. “How are we to live in an atomic age?” I am tempted to reply: “Why, as you would have lived in the sixteenth century when the plague visited London almost every year, or as you would have lived in a Viking age when raiders from Scandinavia might land and cut your throat any night; or indeed, as you are already living in an age of cancer, an age of syphilis, an age of paralysis, an age of air raids, an age of railway accidents, an age of motor accidents.”
