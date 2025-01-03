@@ -168,9 +168,9 @@
         this.tooltipEl.className = 'bible-tooltip';
         this.tooltipEl.style.cssText = `
           position: absolute;
-          background: var(--fbc-light-gray);
-          border: 1px solid rgb(204, 204, 204);
-          border: 1px solid #ccc;
+          background: rgba(var(--color-neutral-600),1);
+          color: var(--tw-prose-body);
+          border: 1px solid var(--tw-prose-body);
           padding: 10px;
           border-radius: 4px;
           box-shadow: 0 2px 4px rgba(0,0,0,0.1);
@@ -241,7 +241,7 @@
         });
 
         a.addEventListener('mouseout', () => {
-          //tooltipManager.hide();
+          tooltipManager.hide();
         });
       });
   });
