@@ -60,21 +60,17 @@ Scriptures tell us how history began: God creates, man rebels, and a war between
 
 ## From Abraham to Moses
 
-Abraham is a unique figure in the Bible. He is promised again and again that he will be a great nation, be a blessing to all people ({{< biblink "Gen 12:2-3" "NIV" >}}) and receive land ({{< biblink "Gen 15:18" "NIV" >}}) for his **_seed_** ({{< biblink "Gen 13:15" "NIV" >}}), which would be as countless as the stars ({{< biblink "Gen 15:5" "NIV" >}}). God makes an "everlasting covenant" ({{< biblink "Gen 17:7" "NIV" >}}).
+Abraham is a unique figure in the Bible. He is promised again and again that he will be a great nation, be a blessing to all people ({{< biblink "Gen 12:2-3" "NIV" >}}) and receive land ({{< biblink "Gen 15:18" "NIV" >}}) for his **_seed_** ({{< biblink "Gen 13:15" "KJV" >}}), which would be as countless as the stars ({{< biblink "Gen 15:5" "NIV" >}}). God makes an "everlasting covenant" ({{< biblink "Gen 17:7" "NIV" >}}).
 
 God's plans to end evil and reverse the curse through the ***seed of the woman*** are now gaining focus on a man and his family. It is through Abraham that God is going to bless all nations ({{< biblink "Gen 22:17-18" "NIV" >}}) and blessings that will overflow to everyone.
 
 Jacob and his twelve sons end up in Egypt, where the last patriarch dies. Just before his death, he blesses each one of his sons, making prophetic statements about each one. The prophecy about Judah is hard to interpret, but there is some agreement between the Christian and the Jewish tradition that the following sentence refers to the Messiah. Let's focus in on it.
 
-{{< bible "Gen 49:10" "NKJV" >}}
+{{< bible "Gen 49:10" "NIV" >}}
 The scepter will not depart from Judah,
-
 nor the ruler’s staff from between his feet,
-
 until he to whom it belongs shall come
-
 and the obedience of the nations shall be his.
-
 {{< /bible >}}
 
 Jacob says about Judah that he will rule over his brothers. It's in Judah that the true royal dynasty of Israel will be found. But this prophecy extends beyond a mere local kingdom. One day, the one to whom the scepter truly belongs will come, and all nations will obey him. The lens of biblical witness is now focusing again, narrowing the origin of the ***seed*** in Judah. This Savior is a king that will not only end evil and reverse the curse, but also rule over the nations.
