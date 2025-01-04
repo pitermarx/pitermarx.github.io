@@ -150,7 +150,7 @@ The zeal of the Lord Almighty will accomplish this.
 
 The ***seed*** promised in genesis is a human. It's a child, but with many amazing titles. He will be an eternal King that will sit on David's throne.
 
-{{< bible "11:10-11" "NIV" >}}
+{{< bible "Isaiah 11:10-11" "NIV" >}}
 In that day the ***Root of Jesse*** will stand as a banner for the peoples;
 the nations will rally to him, and his resting place will be glorious.
 In that day the Lord will reach out his hand a second time to reclaim the surviving remnant of his people
@@ -160,104 +160,206 @@ Jesse is the father of David, and the Root of Jesse is the King-Messiah to whom 
 
 The book of Isaiah is particularly rich on prophecies about the last days and the coming of the Messiah, written in the 8th century BCE. It is amazing that since 1946, with the discovery of the dead sea scrolls, we have a physical copy of this book dating from roughly 2000 years ago.
 
-## The day of the Lord
+## The Day of the Lord
 
-From our brief survey of the Tanakh, we've established that the Jewish hope was a Messiah figure, a king. He would be the seed of the woman, the prophet like Moses, a descendant of Abraham from the tribe of Judah, a Son of David. Promises were made through the prophets again and again that the day would come where this king would come. The prophets also gave some details about that day: The Day of the Lord.
+From our brief survey of the Tanakh, we've established that the Jewish hope was a Messiah figure, a king. He would be the seed of the woman, the prophet like Moses, a descendant of Abraham from the tribe of Judah, a Son of David. Promises were made through the prophets again and again that the day would arrive when this king would come. The prophets also gave some details about that day: The ***Day of the Lord***.
 
-### Isaiah 2:12,17-19
+{{< bible "Isaiah 2:12,17-19" "NIV" >}}
+The Lord Almighty has a day in store for all the proud and lofty,
+for all that is exalted (and they will be humbled)...
 
->  The Lord Almighty has a day in store for all the proud and lofty, for all that is exalted (and they will be humbled)... The arrogance of man will be brought low and human pride humbled; the Lord alone will be exalted in that day, and the idols will totally disappear. People will flee to caves in the rocks and to holes in the ground from the fearful presence of the Lord and the splendor of his majesty, when he rises to shake the earth.
+The arrogance of man will be brought low and human pride humbled;
+the Lord alone will be exalted in that day, and the idols will totally disappear.
+People will flee to caves in the rocks and to holes in the ground
+From the fearful presence of the Lord and the splendor of his majesty, when he rises to shake the earth.
+{{< /bible >}}
 
 The Day of the Lord is a time of judgment on pride and exaltation of God.
 
-### Isaiah 13:6-13
+{{< bible "Isaiah 13:6-13" "NIV" >}}
+Wail, for the day of the Lord is near; it will come like destruction from the Almighty...
+See, the day of the Lord is coming — a cruel day, with wrath and fierce anger — to make the land desolate and destroy the sinners within it.
+The stars of heaven and their constellations will not show their light.
+The rising sun will be darkened and the moon will not give its light...
 
->  Wail, for the day of the Lord is near; it will come like destruction from the Almighty... See, the day of the Lord is coming —a cruel day, with wrath and fierce anger— to make the land desolate and destroy the sinners within it. The stars of heaven and their constellations will not show their light. The rising sun will be darkened and the moon will not give its light... Therefore I will make the heavens tremble; and the earth will shake from its place at the wrath of the Lord Almighty, in the day of his burning anger
+Therefore I will make the heavens tremble; and the earth will shake from its place at the wrath of the Lord Almighty, in the day of his burning anger
+{{< /bible >}}
 
 The Day of the Lord is a time of cosmic upheaval and divine wrath.
 
-### Ezekiel 30:2-3
-
->  Son of man, prophesy and say: 'This is what the Sovereign Lord says: Wail and say, "Alas for that day!" For the day is near, the day of the Lord is near— a day of clouds, a time of doom for the nations.
+{{< bible "Ezekiel 30:2-3" "NIV" >}}
+Son of man, prophesy and say:
+This is what the Sovereign Lord says: Wail and say, "Alas for that day!"
+For the day is near, the day of the Lord is near — a day of clouds, a time of doom for the nations.
+{{< /bible >}}
 
 The Day of the Lord is a time of judgment on nations.
 
-### Joel 2:1-2,11,30-32
+{{< bible "Joel 2:1-2,11,30-32" "NIV" >}}
+Blow the trumpet in Zion; sound the alarm on my holy hill.
+Let all who live in the land tremble, for the day of the Lord is coming.
+It is close at hand— a day of darkness and gloom, a day of clouds and blackness...
 
->  Blow the trumpet in Zion; sound the alarm on my holy hill. Let all who live in the land tremble, for the day of the Lord is coming. It is close at hand— a day of darkness and gloom, a day of clouds and blackness... The day of the Lord is great; it is dreadful. Who can endure it? ...
+The day of the Lord is great; it is dreadful. Who can endure it? ...
 
->  I will show wonders in the heavens and on the earth, blood and fire and billows of smoke. The sun will be turned to darkness and the moon to blood before the coming of the great and dreadful day of the Lord. And everyone who calls on the name of the Lord will be saved
+I will show wonders in the heavens and on the earth, blood and fire and billows of smoke.
+The sun will be turned to darkness and the moon to blood before the coming of the great and dreadful day of the Lord.
+And everyone who calls on the name of the Lord will be saved
+{{< /bible >}}
 
 The Day of the Lord is coming and it's close at hand! While it has terrible cosmic signs, it also offers hope of salvation.
 
-### Joel 3:14-16
-
->  Multitudes, multitudes in the valley of decision! For the day of the Lord is near in the valley of decision. The sun and moon will be darkened, and the stars no longer shine. The Lord will roar from Zion and thunder from Jerusalem; the earth and the heavens will tremble. But the Lord will be a refuge for his people, a stronghold for the people of Israel
+{{< bible "Joel 3:14-16" "NIV" >}}
+Multitudes, multitudes in the valley of decision!
+For the day of the Lord is near in the valley of decision.
+The sun and moon will be darkened, and the stars no longer shine.
+The Lord will roar from Zion and thunder from Jerusalem; the earth and the heavens will tremble.
+But the Lord will be a refuge for his people, a stronghold for the people of Israel
+{{< /bible >}}
 
 In the Day of the Lord there will be protection for God's people.
 
-### Amos 5:18-20
-
->  Woe to you who long for the day of the Lord! Why do you long for the day of the Lord? That day will be darkness, not light. It will be as though a man fled from a lion only to meet a bear, as though he entered his house and rested his hand on the wall only to have a snake bite him. Will not the day of the Lord be darkness, not light— pitch-dark, without a ray of brightness?
+{{< bible "Amos 5:18-20" "NIV" >}}
+Woe to you who long for the day of the Lord!
+Why do you long for the day of the Lord? That day will be darkness, not light.
+It will be as though a man fled from a lion only to meet a bear,
+as though he entered his house and rested his hand on the wall only to have a snake bite him.
+Will not the day of the Lord be darkness, not light — pitch-dark, without a ray of brightness?
+{{< /bible >}}
 
 The prophet Amos warns against misunderstanding the nature of the Day of the Lord, emphasizing its judgment aspect.
 
-### Zephaniah 1:14-16
-
->  The great day of the Lord is near— near and coming quickly. The cry on the day of the Lord is bitter; the Mighty Warrior shouts his battle cry. That day will be a day of wrath — a day of distress and anguish, a day of trouble and ruin, a day of darkness and gloom, a day of clouds and blackness — a day of trumpet and battle cry against the fortified cities and against the corner towers.
+{{< bible "Zephaniah 1:14-16" "NIV" >}}
+The great day of the Lord is near— near and coming quickly.
+The cry on the day of the Lord is bitter; the Mighty Warrior shouts his battle cry.
+That day will be a day of wrath — a day of distress and anguish,
+a day of trouble and ruin, a day of darkness and gloom, a day of clouds and blackness
+a day of trumpet and battle cry against the fortified cities and against the corner towers.
+{{< /bible >}}
 
 This brief survey does not cover at all the full breadth of information about the Day that the prophets bring. But it makes it clear that this is part of the hope of the Jews. This is the Apocalyptic nature of that hope. The way that God has setup to bring about the messianic age is through the "Day of the Lord", when he will pour judgement over the nations, and deliver his people from oppression.
 
 ## The Gospel of the Kingdom
 
-We now need to tackle the question of how did the first followers of Jesus understand his message, his mission and his identity. They were Jews, with the Messianic Apocalyptic hope that we just laid out. How did they portray Jesus in the books they left us?
+We now need to tackle the question of how did the first followers of Jesus understand his message, his mission and his identity. They were Jews, with the Messianic Apocalyptic hope that we just laid out: the hope of a King, from David's line, who would restore Israel, rule all nations, reverse the curse, and establish God's kingdom forever through a time of judgment called "the Day of the Lord. How did they portray Jesus in the books they left us?
 
 The opening of the first book of the New Testament leaves room for no doubts. This is a Jewish book, written to a Jewish audience, who is waiting for the Messiah.
 
->  This is the genealogy of Jesus the Messiah the son of David, the son of Abraham
-
->  - Mathew 1:1
+{{< bible "Mathew 1:1" "NIV" >}}
+This is the genealogy of Jesus the Messiah the son of David, the son of Abraham
+{{< /bible >}}
 
 When the angel Gabriel announced to Mary that she would miraculously give birth, the identity of her son was very clear. This would be the promised seed. This would be the Davidic King. This would be the Messiah
 
->  Do not be afraid, Mary; you have found favor with God. You will conceive and give birth to a son, and you are to call him Jesus. He will be great and will be called the Son of the Most High. The Lord God will give him the throne of his father David, and he will reign over Jacob’s descendants forever; his kingdom will never end.
-
->  - Luke 1:30-33
+{{< bible "Luke 1:30-33" "NIV" >}}
+Do not be afraid, Mary; you have found favor with God.
+You will conceive and give birth to a son, and you are to call him Jesus.
+He will be great and will be called the Son of the Most High.
+The Lord God will give him the throne of his father David, and he will reign over Jacob’s descendants forever; his kingdom will never end.
+{{< /bible >}}
 
 The Gospels paint a vivid picture of a Jewish hope fulfilled: the coming of the Messiah and the kingdom of God. Jesus’ ministry continually emphasizes the nearness of this kingdom. From the opening of Mark's Gospel, Jesus declares:
 
->  “The time has come,” he said. “The kingdom of God has come near. Repent and believe the good news!”
+{{< bible "Mark 1:15" "NIV" >}}
+“The time has come,” he said. “The kingdom of God has come near. Repent and believe the good news!”
+{{< /bible >}}
 
->  — Mark 1:15
+This kingdom hope aligns with the promises of the Old Testament. Jesus, born in Bethlehem, is presented as the descendant of David, fulfilling the Messianic prophecies ({{< biblink "Luke 2:4-11" "NIV" >}}). His genealogy in both Matthew and Luke underscores his connection to Abraham and David, anchoring him as the promised seed.
 
-This kingdom hope aligns with the promises of the Old Testament. Jesus, born in Bethlehem, is presented as the descendant of David, fulfilling the Messianic prophecies (Luke 2:4-11). His genealogy in both Matthew and Luke underscores his connection to Abraham and David, anchoring him as the promised seed.
+The hope of a restored Jewish kingdom was central to Jesus' message. Jesus’ miracles — healing the sick, casting out demons, raising the dead — were not just acts of compassion but signs that the Messianic age had begun ({{< biblink "Isaiah 35:5-6" "NIV" >}}, {{< biblink "Matthew 11:4-5" "NIV" >}}).
 
-The hope of a restored Jewish kingdom was central to Jesus' message. Jesus’ miracles—healing the sick, casting out demons, and raising the dead — were not just acts of compassion but signs that the Messianic age had begun (Isaiah 35:5-6, Matthew 11:4-5).
-
-Even in his triumphal entry into Jerusalem, Jesus fulfills the prophecy of Zechariah 9:9, entering the city as a humble king. The crowds proclaim him the "Son of David," acknowledging their hope that he would bring the long-awaited kingdom.
+Even in his triumphal entry into Jerusalem, Jesus fulfills the prophecy of {{< biblink "Zechariah 9:9" "NIV" >}}, entering the city as a humble king. The crowds proclaim him the "Son of David," ({{< biblink "Mark 11:8-10" "NIV" >}}) acknowledging their hope that he would bring the long-awaited kingdom.
 
 ## The Second Coming and the Day of the Lord
 
-The religious leaders of Jesus' time rejected his message and authority. This rejection led to his crucifixion, shattering the disciples' Messianic hopes. However, three days later, Jesus rose from the dead, vindicating his Messianic claims. He ascended to heaven, but promised his disciples he would return, transforming their understanding of the kingdom's arrival into a two-stage event: His first coming to deal with sin through His death and resurrection, and a future day when He would return to establish his kingdom.
+Unfortunately, the religious leaders of Jesus' time rejected his message and authority. This rejection led to his crucifixion ({{< biblink "Mark 14:60-64" "NIV" >}}), shattering the disciples' Messianic hopes ({{< biblink "Luke 24:20-21" "NIV" >}}). However, three days later, Jesus rose from the dead ({{< biblink "Matthew 28:5-6" "NIV" >}}), vindicating his Messianic claims. He ascended to heaven ({{< biblink "Acts 1:9" "NIV" >}}), but promised his disciples he would return ({{< biblink "Acts 1:11" "NIV" >}}), transforming their understanding of the kingdom's arrival into a two-stage event: His first coming to deal with sin through His death and resurrection, and a future day when He would return to establish his kingdom ({{< biblink "Hebrews 9:27-28" "NIV" >}}).
 
-Jesus taught about the Day of the Lord, a time of final judgment and restoration that aligns with the apocalyptic visions of the prophets. In Matthew 24-25, He speaks extensively about this future day. He warns of wars, natural disasters, and persecution, all precursors to His return. He describes his coming as sudden and visible, like lightning flashing across the sky (Matthew 24:27). The imagery mirrors Old Testament depictions of cosmic upheaval and divine intervention (Joel 2:30-32).
+Jesus taught about the Day of the Lord, a time of final judgment and restoration that aligns with the apocalyptic visions of the prophets. In {{< biblink "Matthew 24-25" "NIV" >}}, He speaks extensively about this future day. He warns of wars, natural disasters, and persecution: all precursors to His return. He describes his coming as sudden and visible, like lightning flashing across the sky ({{< biblink "Matthew 24:27" "NIV" >}}). The imagery mirrors Old Testament depictions of cosmic upheaval and divine intervention ({{< biblink "Joel 2:30-32" "NIV" >}}).
 
 The book of Revelation expands on this vision, portraying Jesus as the victorious warrior and the conquering King who will judge the nations and inaugurate the New Jerusalem. This finally fulfills the hope expressed in the prophets: an eternal kingdom where God dwells with his people, and the curse of sin is reversed.
 
-## Conclusion: Jesus' Self-Understanding in Luke 4:16-20
+{{< bible "Revelation 21:3" "NIV" >}}
+And I heard a loud voice from the throne saying, “Look! God’s dwelling place is now among the people, and he will dwell with them. They will be his people, and God himself will be with them and be their God.
+{{< /bible >}}
+
+{{< bible "Revelation 22:3" "NIV" >}}
+"No longer will there be any curse. The throne of God and of the Lamb will be in the city, and his servants will serve him." ()
+{{< /bible >}}
+
+{{< bible "Revelation 11:15" "NIV" >}}
+The kingdom of the world has become
+  the kingdom of our Lord and of his Messiah,
+  and he will reign for ever and ever
+{{< /bible >}}
+
+## Jesus' Self-Understanding in Luke 4:16-20
 
 In Luke 4:16-20, Jesus reveals his identity and mission with profound clarity. Reading from Isaiah 61, he declares:
 
->  “The Spirit of the Lord is on me, because he has anointed me to proclaim good news to the poor. He has sent me to proclaim freedom for the prisoners and recovery of sight for the blind, to set the oppressed free, to proclaim the year of the Lord’s favor.”
+{{< bible "Luke 4:16-20" "NIV" >}}
+The Spirit of the Lord is on me, because he has anointed me to proclaim good news to the poor.
+He has sent me to proclaim freedom for the prisoners and recovery of sight for the blind,
+to set the oppressed free, to proclaim the year of the Lord’s favor.
+{{< /bible >}}
 
-After reading, he boldly announces, _“Today this scripture is fulfilled in your hearing.”_
+After reading, he boldly announces, ***“Today this scripture is fulfilled in your hearing.”***
 
 This moment encapsulates Jesus' self-understanding as the fulfillment of Old Testament prophecy. He sees himself as the anointed one, the Messiah, inaugurating the long-awaited kingdom. Jesus’ life, death, and resurrection demonstrate his role as the promised seed who crushes the serpent's head, reversing the curse of the Fall. In his first coming, he fulfilled the role of the suffering servant (Isaiah 53), bringing salvation to humanity.
 
-It is very interesting to note what Jesus did not read in Isaiah 61:2.
+It's interesting to note what Jesus did not read in {{< biblink "Isaiah 61:2" "NIV" >}}.
 
->  ...to proclaim the year of the Lord's favor and **the day of vengeance of our God**
+>  ...to proclaim the year of the Lord's favor and the day of vengeance of our God
 
-In his second coming, he will return as the conquering King, completing the restoration of all things, eradicating all evil from the earth. There is still time to become part of his kingdom. Repent from your sins and trust in Jesus as Lord!
+In his second coming, he will return as the conquering King, restoring all things and eradicating all evil from the earth. There is still time to join his kingdom. Repent from your sins and trust in Jesus as Lord!
 
-The Bible’s narrative, from Genesis to Revelation, centers on Jesus. He is the seed of the woman, the Son of David, and the Son of God. The Old and New Testaments together reveal the unfolding story of God’s plan, culminating in Jesus' reign. Through him, the Jewish hope for a Messiah, the Christian expectation for the second coming, and the apocalyptic vision of the Day of the Lord find their ultimate realization.
+The Bible’s narrative, from Genesis to Revelation, centers on Jesus. He is the seed of the woman, the Son of David, and the Son of God. The Old and New Testaments together reveal God’s plan, culminating in Jesus' reign. Through him, the Jewish hope for a Messiah, the Christian expectation for the second coming, and the apocalyptic vision of the Day of the Lord find their ultimate realization.
+
+## Conclusion
+
+With this piece, I wanted to show that the Old Testament is an integral part of the Christian message.
+
+I'm not claiming that this is the *only* thing that glues both Testaments together, nor that this is the most important thing (although I believe it to be).
+I am claiming that it is impossible to understand the New Testament without it. Without the Messianic, Jewish-Apocalyptic hope, the Christian message is incomplete.
+
+My survey of the Tanach, and brief explanation of it's connection to the New Testament barely scratches the surface of what can be found once you're looking for it.
+
+Even in the Psalter is full of the Messianic hope.
+
+
+{{< bible "Psalm 2" "NIV" >}}
+Why do the nations conspire
+    and the peoples plot in vain?
+The kings of the earth rise up
+    and the rulers band together
+    against the Lord and against his anointed, saying,
+
+“Let us break their chains
+    and throw off their shackles.”
+
+The One enthroned in heaven laughs;
+    the Lord scoffs at them.
+He rebukes them in his anger
+    and terrifies them in his wrath, saying,
+
+“I have installed my king
+    on Zion, my holy mountain.”
+
+I will proclaim the Lord’s decree:
+
+He said to me, “You are my son;
+    today I have become your father.
+Ask me,
+    and I will make the nations your inheritance,
+    the ends of the earth your possession.
+You will break them with a rod of iron;
+    you will dash them to pieces like pottery.”
+
+Therefore, you kings, be wise;
+    be warned, you rulers of the earth.
+Serve the Lord with fear
+    and celebrate his rule with trembling.
+Kiss his son, or he will be angry
+    and your way will lead to your destruction,
+for his wrath can flare up in a moment.
+    Blessed are all who take refuge in him.
+{{< /bible >}}
