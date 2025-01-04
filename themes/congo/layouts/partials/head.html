@@ -19,6 +19,7 @@
     type="text/javascript"
     src="{{ $jsAppearance.RelPermalink }}"
     integrity="{{ $jsAppearance.Data.Integrity }}"
+    crossorigin="anonymous"
   ></script>
   {{ $cssScheme := resources.Get (printf "css/schemes/%s.css" (lower .Site.Params.colorScheme | default "congo")) }}
   {{ if not $cssScheme }}
@@ -37,6 +38,7 @@
     rel="stylesheet"
     href="{{ $bundleCSS.RelPermalink }}"
     integrity="{{ $bundleCSS.Data.Integrity }}"
+    crossorigin="anonymous"
   />
   {{ if .Site.Params.enableSearch | default false }}
     {{ $jsFuse := resources.Get "lib/fuse/fuse.min.js" }}
@@ -68,6 +70,7 @@
       id="script-bundle"
       src="{{ $bundleJS.RelPermalink }}"
       integrity="{{ $bundleJS.Data.Integrity }}"
+      crossorigin="anonymous"
       data-copy="{{ i18n "code.copy" }}"
       data-copied="{{ i18n "code.copied" }}"
     ></script>

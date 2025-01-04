@@ -270,13 +270,19 @@ The hope of a restored Jewish kingdom was central to Jesus' message. Jesus’ mi
 
 Even in his triumphal entry into Jerusalem, Jesus fulfills the prophecy of {{< biblink "Zechariah 9:9" "NIV" >}}, entering the city as a humble king. The crowds proclaim him the "Son of David," ({{< biblink "Mark 11:8-10" "NIV" >}}) acknowledging their hope that he would bring the long-awaited kingdom.
 
-## The Second Coming and the Day of the Lord
+## The Second Coming
 
 Unfortunately, the religious leaders of Jesus' time rejected his message and authority. This rejection led to his crucifixion ({{< biblink "Mark 14:60-64" "NIV" >}}), shattering the disciples' Messianic hopes ({{< biblink "Luke 24:20-21" "NIV" >}}). However, three days later, Jesus rose from the dead ({{< biblink "Matthew 28:5-6" "NIV" >}}), vindicating his Messianic claims. He ascended to heaven ({{< biblink "Acts 1:9" "NIV" >}}), but promised his disciples he would return ({{< biblink "Acts 1:11" "NIV" >}}), transforming their understanding of the kingdom's arrival into a two-stage event: His first coming to deal with sin through His death and resurrection, and a future day when He would return to establish his kingdom ({{< biblink "Hebrews 9:27-28" "NIV" >}}).
 
-Jesus taught about the Day of the Lord, a time of final judgment and restoration that aligns with the apocalyptic visions of the prophets. In {{< biblink "Matthew 24-25" "NIV" >}}, He speaks extensively about this future day. He warns of wars, natural disasters, and persecution: all precursors to His return. He describes his coming as sudden and visible, like lightning flashing across the sky ({{< biblink "Matthew 24:27" "NIV" >}}). The imagery mirrors Old Testament depictions of cosmic upheaval and divine intervention ({{< biblink "Joel 2:30-32" "NIV" >}}).
+Jesus taught about his return, the Day of the Lord, a time of final judgment and restoration that aligns with the apocalyptic visions of the prophets. In {{< biblink "Matthew 24-25" "NIV" >}}, He speaks extensively about this future day. He warns of wars, natural disasters, and persecution: all precursors to His return. He describes his coming as sudden and visible, like lightning flashing across the sky ({{< biblink "Matthew 24:27" "NIV" >}}). The imagery mirrors Old Testament depictions of cosmic upheaval and divine intervention ({{< biblink "Joel 2:30-32" "NIV" >}}).
 
-The book of Revelation expands on this vision, portraying Jesus as the victorious warrior and the conquering King who will judge the nations and inaugurate the New Jerusalem. This finally fulfills the hope expressed in the prophets: an eternal kingdom where God dwells with his people, and the curse of sin is reversed.
+The book of Revelation expands on this topic, portraying Jesus as the victorious warrior and the conquering King who will judge the nations and inaugurate the New Jerusalem. This finally fulfills the hope expressed in the prophets: an eternal kingdom where God dwells with his people, and the curse of sin is reversed.
+
+{{< bible "Revelation 11:15" "NIV" >}}
+The kingdom of the world has become
+  the kingdom of our Lord and of his Messiah,
+  and he will reign for ever and ever
+{{< /bible >}}
 
 {{< bible "Revelation 21:3" "NIV" >}}
 And I heard a loud voice from the throne saying, “Look! God’s dwelling place is now among the people, and he will dwell with them. They will be his people, and God himself will be with them and be their God.
@@ -286,13 +292,7 @@ And I heard a loud voice from the throne saying, “Look! God’s dwelling place
 "No longer will there be any curse. The throne of God and of the Lamb will be in the city, and his servants will serve him." ()
 {{< /bible >}}
 
-{{< bible "Revelation 11:15" "NIV" >}}
-The kingdom of the world has become
-  the kingdom of our Lord and of his Messiah,
-  and he will reign for ever and ever
-{{< /bible >}}
-
-## Jesus' Self-Understanding in Luke 4:16-20
+## Jesus' Self-Understanding
 
 In Luke 4:16-20, Jesus reveals his identity and mission with profound clarity. Reading from Isaiah 61, he declares:
 

@@ -9,6 +9,7 @@
     type="text/javascript"
     src="{{ $mermaidJS.RelPermalink }}"
     integrity="{{ $mermaidJS.Data.Integrity }}"
+    crossorigin="anonymous"
   ></script>
 {{ end }}
 {{/* Chart */}}
@@ -22,6 +23,7 @@
     type="text/javascript"
     src="{{ $chartJS.RelPermalink }}"
     integrity="{{ $chartJS.Data.Integrity }}"
+    crossorigin="anonymous"
   ></script>
 {{ end }}
 {{/* Katex */}}
@@ -33,6 +35,7 @@
     rel="stylesheet"
     href="{{ $katexCSS.RelPermalink }}"
     integrity="{{ $katexCSS.Data.Integrity }}"
+    crossorigin="anonymous"
   />
   {{ $katexJS := resources.Get "lib/katex/katex.min.js" }}
   {{ $katexJS := $katexJS | resources.Fingerprint "sha512" }}
@@ -40,6 +43,7 @@
     defer
     src="{{ $katexJS.RelPermalink }}"
     integrity="{{ $katexJS.Data.Integrity }}"
+    crossorigin="anonymous"
   ></script>
   {{ $katexRenderJS := resources.Get "lib/katex/auto-render.min.js" }}
   {{ $katexRenderJS := $katexRenderJS | resources.Fingerprint "sha512" }}
@@ -47,6 +51,7 @@
     defer
     src="{{ $katexRenderJS.RelPermalink }}"
     integrity="{{ $katexRenderJS.Data.Integrity }}"
+    crossorigin="anonymous"
     onload="renderMathInElement(document.body);"
   ></script>
   {{ $katexFonts := resources.Match "lib/katex/fonts/*" }}
