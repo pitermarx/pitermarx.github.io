@@ -278,8 +278,6 @@ Jesus ensinou sobre o seu regresso, o Dia do Senhor, um tempo de julgamento fina
 
 O livro do Apocalipse expande este tema, retratando Jesus como o guerreiro vitorioso e o Rei conquistador que julgará as nações e inaugurará a Nova Jerusalém. Isto cumpre finalmente a esperança expressa nos profetas: um reino eterno onde Deus habita com o seu povo, e a maldição do pecado é revertida.
 
-The book of Revelation expands on this topic, portraying Jesus as the victorious warrior and the conquering King who will judge the nations and inaugurate the New Jerusalem. This finally fulfills the hope expressed in the prophets: an eternal kingdom where God dwells with his people, and the curse of sin is reversed.
-
 {{< bible "Apocalipse 11:15" "ARC" >}}
 Os reinos deste mundo tornaram-se o reino do nosso Senhor e do seu Messias, e ele reinará pelos séculos dos séculos
 {{< /bible >}}
