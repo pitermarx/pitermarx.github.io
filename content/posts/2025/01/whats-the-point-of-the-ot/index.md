@@ -1,6 +1,6 @@
 ---
 title: "What’s the Point of the Old Testament?"
-date: "2014-12-20"
+date: "2025-01-04"
 categories:
   - "longs"
   - "original"
@@ -60,9 +60,9 @@ Scriptures tell us how history began: God creates, man rebels, and a war between
 
 ## From Abraham to Moses
 
-Abraham is a unique figure in the Bible. He is promised again and again that he will be a great nation, be a blessing to all people ({{< biblink "Gen 12:2-3" "NIV" >}}) and receive land ({{< biblink "Gen 15:18" "NIV" >}}) for his **_seed_** ({{< biblink "Gen 13:15" "KJV" >}}), which would be as countless as the stars ({{< biblink "Gen 15:5" "NIV" >}}). God makes an "everlasting covenant" ({{< biblink "Gen 17:7" "NIV" >}}).
+Abraham is a unique figure in the Bible. He is promised again and again that he will be a great nation, be a blessing to all people ({{< biblink "Gen 12:2-3" "NIV" >}}) and receive land ({{< biblink "Gen 15:18" "NIV" >}}) for his **_seed_** ({{< biblink "Gen 13:15" "KJV" >}}), which would be as countless as the stars ({{< biblink "Gen 15:5" "NIV" >}}). God makes with him an "everlasting covenant" ({{< biblink "Gen 17:7" "NIV" >}}).
 
-God's plans to end evil and reverse the curse through the ***seed of the woman*** are now gaining focus on a man and his family. It is through Abraham that God is going to bless all nations ({{< biblink "Gen 22:17-18" "NIV" >}}) and blessings that will overflow to everyone.
+God's plans to end evil and reverse the curse through the ***seed of the woman*** are now gaining focus on a man and his family. It is through Abraham that God is going to bless all nations ({{< biblink "Gen 22:17-18" "NIV" >}}) and blessings will overflow to everyone.
 
 Jacob and his twelve sons end up in Egypt, where the last patriarch dies. Just before his death, he blesses each one of his sons, making prophetic statements about each one. The prophecy about Judah is hard to interpret, but there is some agreement between the Christian and the Jewish tradition that the following sentence refers to the Messiah. Let's focus in on it.
 
@@ -289,7 +289,7 @@ And I heard a loud voice from the throne saying, “Look! God’s dwelling place
 {{< /bible >}}
 
 {{< bible "Revelation 22:3" "NIV" >}}
-"No longer will there be any curse. The throne of God and of the Lamb will be in the city, and his servants will serve him." ()
+"No longer will there be any curse. The throne of God and of the Lamb will be in the city, and his servants will serve him."
 {{< /bible >}}
 
 ## Jesus' Self-Understanding
