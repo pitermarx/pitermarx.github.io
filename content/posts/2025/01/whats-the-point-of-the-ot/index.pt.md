@@ -93,7 +93,7 @@ Eu lhe serei por pai, e ele me será por filho;
 e, se vier a transgredir, castigá-lo-ei com vara de homens e com açoites de filhos de homens.
 Mas a minha benignidade se não apartará dele, como a tirei de Saul, a quem tirei de diante de ti.
 Porém a tua casa e o teu reino serão firmados para sempre diante de ti;
-***teu trono será firme para sempre. ***
+***teu trono será firme para sempre***
 {{< /bible >}}
 
 As lentes do testemunho bíblico focavam agora ainda mais nitidamente: a semente prometida viria da linhagem de David e o seu reino nunca teria fim. A promessa a David tornou-se a grande esperança de Israel. Mesmo quando os descendentes de David falharam e o reino se dividiu, mesmo quando as nações estrangeiras os conquistaram e enviaram para o exílio, o povo agarrou-se à promessa de Deus. Através dos profetas, Deus continuou a recordá-los: viria um filho de David e o seu reino nunca teria fim.
@@ -148,7 +148,7 @@ Do incremento deste principado e da paz, não haverá fim, ***sobre o trono de D
 para o firmar e o fortificar em juízo e em justiça, desde agora e para sempre; o zelo do Senhor dos Exércitos fará isto.
 {{< /bible >}}
 
-A ***semente*** prometida no Génesis é um ser humano. É infantil, mas com muitos títulos incríveis. Será um Rei eterno que se sentará no trono de David.
+A ***semente*** prometida no Génesis é um ser humano. É um menino, mas com muitos títulos incríveis. Será um Rei eterno que se sentará no trono de David.
 
 {{< bible "Isaias 11:10-11" "ARC" >}}
 E acontecerá, naquele dia, que as nações perguntarão pela ***raiz de Jessé***, posta por pendão dos povos, e o lugar do seu repouso será glorioso.
