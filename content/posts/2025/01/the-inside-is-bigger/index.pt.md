@@ -2,7 +2,7 @@
 title: "O interior é maior do que o exterior"
 date: "2025-01-22"
 categories:
-  - "longs"
+  - "shorts"
   - "original"
 tags:
   - "christianity"
