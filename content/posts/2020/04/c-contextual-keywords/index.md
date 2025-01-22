@@ -1,10 +1,10 @@
 ---
-title: "C# contextual keywords"
+title: "Contextual keywords"
 date: "2020-04-07"
-categories: 
+categories:
   - "original"
   - "shorts"
-tags: 
+tags:
   - "dev"
 ---
 
