@@ -19,7 +19,7 @@ It’s a reminder that the world God has created, with all its awe-inspiring bea
 
 Lewis’s cry, _"Narnia, Narnia, Narnia! Awake. Love. Think. Speak."_ feels like a rallying call to live awake to that greater reality. Yet, I stumble when I try to picture what awaits us — colors unseen, melodies unheard, pleasures untainted. But the limitation is mine, not reality’s. Lewis, though, bridges the gap. His stories don’t just entertain; they train my soul to yearn.
 
-One realization I’ve had is how much easier it seems to illustrate evil compared to beauty and goodness ({{< biblink "Gen 6:6" "NIV" >}}). It takes an extraordinary imagination to portray the richness of God and the goodness of His creation.
+One realization I’ve had is how much easier it seems to illustrate evil compared to beauty and goodness ({{< biblink "Gen 6:5" "NIV" >}}). It takes an extraordinary imagination to portray the richness of God and the goodness of His creation.
 
 But Lewis inspires us to dream of a world where goodness, truth, and beauty reign supreme. Through Narnia, he invites us to wake up, love, think, and speak—to imagine and anticipate the unimaginable glory that lies ahead. For that, I’m deeply grateful.
 
