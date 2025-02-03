@@ -1,6 +1,8 @@
 ---
 title: "Fleet Foxes - Helplessness Blues - Helplessness Blues"
 date: "2011-05-21"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

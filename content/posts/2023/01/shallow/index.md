@@ -1,6 +1,8 @@
 ---
 title: "Shallow (feat. Bradley Cooper)"
 date: "2023-01-23"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

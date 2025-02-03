@@ -1,6 +1,8 @@
 ---
 title: "Joni Mitchell - Help Me"
 date: "2010-12-27"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

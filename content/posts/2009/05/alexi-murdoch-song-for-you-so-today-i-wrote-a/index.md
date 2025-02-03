@@ -1,6 +1,8 @@
 ---
 title: "Alexi Murdoch - Song For You"
 date: "2009-05-21"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

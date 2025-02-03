@@ -1,6 +1,8 @@
 ---
 title: "Diana Krall - All For You - If i Had You"
 date: "2009-10-03"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

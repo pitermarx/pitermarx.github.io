@@ -1,6 +1,8 @@
 ---
 title: "Radiohead - In Rainbows - Jigsaw Falling Into Place"
 date: "2010-03-04"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

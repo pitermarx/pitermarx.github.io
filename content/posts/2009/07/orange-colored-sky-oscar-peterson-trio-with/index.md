@@ -1,6 +1,8 @@
 ---
 title: "Orange Colored Sky - Oscar Peterson Trio - With Respect To Nat"
 date: "2009-07-16"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

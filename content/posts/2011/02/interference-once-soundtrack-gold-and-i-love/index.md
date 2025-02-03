@@ -1,6 +1,8 @@
 ---
 title: "Interference - Once Soundtrack - Gold"
 date: "2011-02-20"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

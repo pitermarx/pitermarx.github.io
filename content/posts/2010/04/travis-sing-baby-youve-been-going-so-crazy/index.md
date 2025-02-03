@@ -1,6 +1,8 @@
 ---
 title: "Travis - Sing"
 date: "2010-04-13"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

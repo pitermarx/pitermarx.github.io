@@ -1,6 +1,8 @@
 ---
 title: "Dirty Projectors - Bitte Orca - Cannibal Resource"
 date: "2010-05-29"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

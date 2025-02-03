@@ -1,6 +1,8 @@
 ---
 title: "Ain’t no mountain high enough"
 date: "2009-05-13"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

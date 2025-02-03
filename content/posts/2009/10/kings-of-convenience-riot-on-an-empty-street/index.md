@@ -1,6 +1,8 @@
 ---
 title: "Kings of Convenience - Riot on an empty street - Know-How"
 date: "2009-10-07"
+tags:
+  - "lyrics"
 categories:
     - "shares"
     - "music"

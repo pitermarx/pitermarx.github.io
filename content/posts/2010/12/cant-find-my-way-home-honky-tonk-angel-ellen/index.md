@@ -1,6 +1,8 @@
 ---
 title: "Can’t Find My Way Home - Honky Tonk Angel - Ellen McIlwaine"
 date: "2010-12-16"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

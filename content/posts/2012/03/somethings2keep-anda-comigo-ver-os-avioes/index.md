@@ -1,6 +1,8 @@
 ---
 title: "Anda comigo ver os aviões"
 date: "2012-03-30"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

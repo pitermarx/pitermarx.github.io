@@ -1,6 +1,8 @@
 ---
 title: "Perdido de Amor"
 date: "2022-10-12"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

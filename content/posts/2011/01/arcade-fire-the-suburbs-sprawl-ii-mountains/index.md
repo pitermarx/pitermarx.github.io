@@ -1,8 +1,10 @@
 ---
 title: "Arcade Fire - The Suburbs - Sprawl II (Mountains Beyond Mountains)"
 date: "2011-01-31"
+tags:
+  - "lyrics"
 categories:
-  - "audio"
+  - "music"
   - "shares"
 ---
 

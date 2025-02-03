@@ -1,6 +1,8 @@
 ---
 title: "Jeff Buckley - Satisfied Mind"
 date: "2023-01-19"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

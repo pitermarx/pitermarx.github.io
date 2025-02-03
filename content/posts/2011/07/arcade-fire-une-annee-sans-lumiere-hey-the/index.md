@@ -1,6 +1,8 @@
 ---
 title: "Arcade Fire - Une Année Sans Lumière"
 date: "2011-07-18"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

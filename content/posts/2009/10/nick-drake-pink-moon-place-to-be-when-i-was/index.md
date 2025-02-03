@@ -5,6 +5,7 @@ categories:
     - "shares"
     - "music"
 tags:
+  - "lyrics"
   - "nick-drake"
 ---
 

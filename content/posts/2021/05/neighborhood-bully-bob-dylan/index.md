@@ -1,6 +1,8 @@
 ---
 title: "Neighborhood Bully - Bob Dylan"
 date: "2021-05-24"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

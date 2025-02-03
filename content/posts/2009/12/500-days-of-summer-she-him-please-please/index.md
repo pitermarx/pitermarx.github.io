@@ -1,6 +1,8 @@
 ---
 title: "500 Days of Summer - The Smiths - Please, Please, Please, Let Me Get What I Want"
 date: "2009-12-23"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

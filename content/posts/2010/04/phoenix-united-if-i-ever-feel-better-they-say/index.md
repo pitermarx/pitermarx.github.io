@@ -1,6 +1,8 @@
 ---
 title: "Phoenix- United - If I Ever Feel Better"
 date: "2010-04-05"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

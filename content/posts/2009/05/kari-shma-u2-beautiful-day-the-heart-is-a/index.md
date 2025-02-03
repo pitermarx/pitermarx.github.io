@@ -1,6 +1,8 @@
 ---
 title: "U2 | Beautiful Day"
 date: "2009-05-23"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

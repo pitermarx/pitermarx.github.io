@@ -1,6 +1,8 @@
 ---
 title: "Joanna Newsom - Bridges and Baloons"
 date: "2011-02-04"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

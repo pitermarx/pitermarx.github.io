@@ -1,6 +1,8 @@
 ---
 title: "Sondre Lerche - Dan in Real Life - To Be Surprised"
 date: "2009-11-03"
+tags:
+  - "lyrics"
 categories:
     - "shares"
     - "music"

@@ -1,6 +1,8 @@
 ---
 title: "João Gilberto & Stan Getz -The Best of Two Worlds (1976) - Izaura"
 date: "2011-08-18"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

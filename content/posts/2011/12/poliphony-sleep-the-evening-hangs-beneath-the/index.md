@@ -1,6 +1,8 @@
 ---
 title: "Sleep"
 date: "2011-12-05"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

@@ -1,6 +1,8 @@
 ---
 title: "Louis, Louis - Teitur"
 date: "2009-05-17"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

@@ -1,6 +1,8 @@
 ---
 title: "Jens Lekman - You Are the Light (by which I travel into this and that)"
 date: "2012-01-26"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

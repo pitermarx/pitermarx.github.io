@@ -1,6 +1,8 @@
 ---
 title: "Seal - Touch"
 date: "2010-08-05"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

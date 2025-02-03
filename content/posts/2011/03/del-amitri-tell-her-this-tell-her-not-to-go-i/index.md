@@ -1,6 +1,8 @@
 ---
 title: "Del Amitri - Tell Her This"
 date: "2011-03-16"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

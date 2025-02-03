@@ -1,6 +1,8 @@
 ---
 title: "When I See An Elephant Fly - Dumbo"
 date: "2009-09-17"
+tags:
+  - "lyrics"
 categories:
   - "images"
   - "music"

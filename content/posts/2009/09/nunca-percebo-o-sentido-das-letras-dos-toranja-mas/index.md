@@ -1,6 +1,8 @@
 ---
 title: "Toranja - Lados Errados"
 date: "2009-09-28"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

@@ -1,6 +1,8 @@
 ---
 title: "the jungle line feat. leonard cohen"
 date: "2009-05-11"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

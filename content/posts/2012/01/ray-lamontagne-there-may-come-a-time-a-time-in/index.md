@@ -1,6 +1,8 @@
 ---
 title: "Ray LaMontagne - Let it be me"
 date: "2012-01-05"
+tags:
+  - "lyrics"
 categories:
   - "audio"
   - "music"

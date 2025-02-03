@@ -1,6 +1,8 @@
 ---
 title: "The Tallest Man on Earth - King of Spain"
 date: "2011-04-18"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

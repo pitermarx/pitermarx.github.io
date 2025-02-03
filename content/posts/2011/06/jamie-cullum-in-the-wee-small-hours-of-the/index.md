@@ -1,6 +1,8 @@
 ---
 title: "Jamie Cullum - In the wee small hours of the morning"
 date: "2011-06-11"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

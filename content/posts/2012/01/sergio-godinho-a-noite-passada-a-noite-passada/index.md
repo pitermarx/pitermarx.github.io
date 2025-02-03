@@ -1,6 +1,8 @@
 ---
 title: "Sérgio Godinho: A noite passada"
 date: "2012-01-15"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

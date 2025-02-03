@@ -1,6 +1,8 @@
 ---
 title: "Modern Nature - Sondre Lerche"
 date: "2012-04-10"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

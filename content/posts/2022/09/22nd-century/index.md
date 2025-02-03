@@ -1,6 +1,8 @@
 ---
 title: "22nd Century - Nina Simone 1971"
 date: "2022-09-29"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

@@ -1,6 +1,8 @@
 ---
 title: "Midlake - The Courage of Others - Acts of Man"
 date: "2010-03-11"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

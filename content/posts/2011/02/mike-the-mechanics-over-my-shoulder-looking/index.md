@@ -1,6 +1,8 @@
 ---
 title: "Mike & The Mechanics - Over My Shoulder"
 date: "2011-02-24"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

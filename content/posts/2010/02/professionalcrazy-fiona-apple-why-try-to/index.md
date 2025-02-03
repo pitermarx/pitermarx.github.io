@@ -1,6 +1,8 @@
 ---
 title: "Fiona Apple - Why Try To Change Me Now"
 date: "2010-02-28"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

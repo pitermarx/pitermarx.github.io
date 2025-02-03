@@ -1,6 +1,8 @@
 ---
 title: "Je N'en Connais Pas La Fin - Jeff Buckley"
 date: "2011-04-30"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

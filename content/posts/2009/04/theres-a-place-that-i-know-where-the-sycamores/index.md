@@ -1,6 +1,8 @@
 ---
 title: "Peace - Norah Jones"
 date: "2009-04-08"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

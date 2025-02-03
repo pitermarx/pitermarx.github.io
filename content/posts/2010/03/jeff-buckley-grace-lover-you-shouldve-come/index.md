@@ -1,6 +1,8 @@
 ---
 title: "Jeff Buckley - Grace - Lover, You Should’ve Come Over"
 date: "2010-03-07"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

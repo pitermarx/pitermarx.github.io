@@ -1,6 +1,8 @@
 ---
 title: "Esperanza Spalding - I Know You Know"
 date: "2009-12-29"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

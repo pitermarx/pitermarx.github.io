@@ -1,6 +1,8 @@
 ---
 title: "All at sea"
 date: "2022-10-13"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

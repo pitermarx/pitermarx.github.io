@@ -1,6 +1,8 @@
 ---
 title: "Jack Johnson - Bubble Toes"
 date: "2009-10-26"
+tags:
+  - "lyrics"
 categories:
     - "shares"
     - "music"

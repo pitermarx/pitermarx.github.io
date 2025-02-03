@@ -1,6 +1,8 @@
 ---
 title: "Stenio Marcius - Alguém Como Eu"
 date: "2022-05-27"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

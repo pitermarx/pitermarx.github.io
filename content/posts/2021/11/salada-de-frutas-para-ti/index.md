@@ -1,6 +1,8 @@
 ---
 title: "salada de frutas - para ti"
 date: "2021-11-12"
+tags:
+  - "lyrics"
 categories:
   - "music"
   - "shares"

@@ -1,6 +1,8 @@
 ---
 title: "Jack Johnson - what you thought you need"
 date: "2009-10-22"
+tags:
+  - "lyrics"
 categories:
     - "music"
     - "shares"
