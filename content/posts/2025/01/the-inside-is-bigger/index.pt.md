@@ -19,7 +19,7 @@ Sinto-me sem palavras para descrever plenamente o quanto gosto destas histórias
 
 O grito de Lewis, "Nárnia, Nárnia, Nárnia! Desperta. Ama. Pensa. Fala.", parece um chamamento para vivermos despertos para essa realidade maior. No entanto, não consigo imaginar o que nos aguarda — cores nunca vistas, melodias nunca ouvidas, prazeres imaculados. Mas a limitação é minha, não da realidade. Lewis, no entanto, faz a ponte. As suas histórias não apenas entretêm; treinam a minha alma para ansiar.
 
-Apercebi-me o quanto é mais fácil ilustrar o mal do que a beleza e a bondade ({{< biblink "Génesis 6:6" "NIV" >}}). É necessária uma imaginação extraordinária para retratar a riqueza de Deus e a bondade da Sua criação.
+Apercebi-me o quanto é mais fácil ilustrar o mal do que a beleza e a bondade ({{< biblink "Gen 6:5" "ARC" >}}). É necessária uma imaginação extraordinária para retratar a riqueza de Deus e a bondade da Sua criação.
 
 Mas Lewis inspira-nos a sonhar com um mundo onde a bondade, a verdade e a beleza reinam supremas. Através de Nárnia, ele convida-nos a despertar, a amar, a pensar e a falar — a imaginar e a antecipar a glória inimaginável que nos espera. Por isso, estou profundamente grato.
 
