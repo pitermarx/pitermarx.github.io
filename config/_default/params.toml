@@ -78,8 +78,8 @@ fingerprintAlgorithm = "sha256"
   # script = ""
 
 [umamiAnalytics]
-  site = "42551e5b-0378-4474-bc3a-b2849edf2faf"
-  region = "eu"  # can be either "eu" or "us"
+  site = "6454e35c-1261-4750-a1a8-94fc3598e527"
+  region = "eu"  # does not matter. I changed to be self hosted umami.rack.pitermarx.com
 
 [verification]
   # google = ""
