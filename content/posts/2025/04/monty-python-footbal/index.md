@@ -6,4 +6,4 @@ categories:
   - "videos"
 ---
 
-{{< youtube "LfduUFF_i1A&t" >}}
+{{< youtube LfduUFF_i1A >}}
