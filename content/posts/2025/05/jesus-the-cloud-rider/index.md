@@ -75,8 +75,8 @@ The prophets speak of the “Day of the Lord,” when God Himself will go forth 
 {{< bible "Zech 12:8-12" "NIV" >}}
 On that day the LORD will shield those who live in Jerusalem [...]
 
-“And I will pour out on the house of David and the inhabitants of Jerusalem a spirit of grace and supplication. They will look on me, the one they have pierced, and they will mourn for him as one mourns for an only child, and grieve bitterly for him as one grieves for a firstborn son. On that day the weeping in Jerusalem will be as great as the weeping of Hadad Rimmon[^2] in the plain of Megiddo. The land will mourn, each clan by itself
-{{< /bible >}}
+“And I will pour out on the house of David and the inhabitants of Jerusalem a spirit of grace and supplication. They will look on me, the one they have pierced, and they will mourn for him as one mourns for an only child, and grieve bitterly for him as one grieves for a firstborn son. On that day the weeping in Jerusalem will be as great as the weeping of Hadad Rimmon in the plain of Megiddo. The land will mourn, each clan by itself
+{{< /bible >}}[^2]
 
 John tells us that the One who was pierced — Jesus — will be seen by the inhabitants of Jerusalem on the “Day of the Lord.” Each family will mourn, recognizing the pierced king, just as they mourned Josiah who was pierced by an arrow in the valley of Megiddo ({{< biblink "2 Chr 35:23" "NIV" >}}). The same God who was pierced in Zechariah is now identified with Jesus.
 

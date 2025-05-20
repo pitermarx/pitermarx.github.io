@@ -70,8 +70,8 @@ Os profetas falam-nos do "dia do Senhor", quando o próprio Deus sairá (Zacaria
 {{< bible "Zac 12:8-12" "ARC" >}}
 Naquele dia, o SENHOR amparará os habitantes de Jerusalém [...]
 E sobre a casa de Davi e sobre os habitantes de Jerusalém derramarei o Espírito de graça e de súplicas; e olharão para mim, a quem traspassaram; e o prantearão como quem pranteia por um unigénito; e chorarão amargamente por ele, como se chora amargamente pelo primogênito.
-Naquele dia, será grande o pranto em Jerusalém, como o pranto de Hadade-Rimom[^2] no vale de Megido. E a terra pranteará, cada linhagem à parte
-{{< /bible >}}
+Naquele dia, será grande o pranto em Jerusalém, como o pranto de Hadade-Rimom no vale de Megido. E a terra pranteará, cada linhagem à parte
+{{< /bible >}}[^2]
 
 João diz-nos que aquele que foi traspassado — Jesus — será visto pelos habitantes de Jerusalém no "dia do Senhor". Cada família chorará ao reconhecer o rei-traspassado, tal como choraram por Josias quando foi traspassado por uma flecha no vale de Megido ({{< biblink "2 Cr 35:23" "ARC" >}}). O mesmo Deus que foi traspassado em Zacarias é agora identificado com Jesus.
 
