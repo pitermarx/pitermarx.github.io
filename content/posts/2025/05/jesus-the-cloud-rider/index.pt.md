@@ -47,7 +47,7 @@ Não há outro, ó Jesurum, semelhante a Deus, que cavalga sobre os céus para a
 {{< /bible >}}
 
 
-É Jeová que se manifesta no monte Sinai numa nuvem espessa ({{< biblink "Exo 19:9" ARC >}}). Foi o SENHOR que guiou o seu povo no deserto numa coluna de nuvem de dia, e uma coluna de fogo à noite ({{< biblink "Exo 13:21" ARC >}}). João aplica agora essa mesma imagem ao Messias. Jesus é, tal como YHWH, aquele que vem sobre as nuvens.
+É Jeová que se manifesta no monte Sinai numa nuvem espessa ({{< biblink "Exo 19:9" "ARC" >}}). Foi o SENHOR que guiou o seu povo no deserto numa coluna de nuvem de dia, e uma coluna de fogo à noite ({{< biblink "Exo 13:21" "ARC" >}}). João aplica agora essa mesma imagem ao Messias. Jesus é, tal como YHWH, aquele que vem sobre as nuvens.
 
 {{< bible "Mat 24:30" "ARC" >}}
 Então, aparecerá no céu o sinal do Filho do Homem; e todas as tribos da terra se lamentarão e verão o Filho do Homem vindo sobre as nuvens do céu, com poder e grande glória.
@@ -73,15 +73,15 @@ E sobre a casa de Davi e sobre os habitantes de Jerusalém derramarei o Espírit
 Naquele dia, será grande o pranto em Jerusalém, como o pranto de Hadade-Rimom[^2] no vale de Megido. E a terra pranteará, cada linhagem à parte
 {{< /bible >}}
 
-João diz-nos que aquele que foi traspassado — Jesus — será visto pelos habitantes de Jerusalém no "dia do Senhor". Cada família chorará ao reconhecer o rei-traspassado, tal como choraram por Josias quando foi traspassado por uma flecha no vale de Megido ({{< biblink "2 Cr 35:23" ARC >}}). O mesmo Deus que foi traspassado em Zacarias é agora identificado com Jesus.
+João diz-nos que aquele que foi traspassado — Jesus — será visto pelos habitantes de Jerusalém no "dia do Senhor". Cada família chorará ao reconhecer o rei-traspassado, tal como choraram por Josias quando foi traspassado por uma flecha no vale de Megido ({{< biblink "2 Cr 35:23" "ARC" >}}). O mesmo Deus que foi traspassado em Zacarias é agora identificado com Jesus.
 
 [^2]: Apesar de não haver consenso sobre o que se refere Hadade-Rimon, uma possibilidade, suportada pelo testemunho de Jerónimo, é que é uma cidade perto de Megido, onde o rei Josias teria sido atingido por uma flecha.
 
 ## O Primeiro e o Último
 
-Agora somos confrontados com uma declaração cheia de nomes divinos: _“Eu sou o Alfa e o Ómega, diz o Senhor Deus, aquele que é, que era e que há de vir, o Todo-Poderoso”_ ({{< biblink "Apoc 1:8" ARC >}}). Inicialmente, poderíamos pensar que se refere a Deus Pai. Porém, Jesus esclarece ao dizer: _“Eu sou o Primeiro e o Último”_ ({{< biblink "Apoc 1:17" ARC >}}), ecoando diretamente Jeová no Velho Testamento.
+Agora somos confrontados com uma declaração cheia de nomes divinos: _“Eu sou o Alfa e o Ómega, diz o Senhor Deus, aquele que é, que era e que há de vir, o Todo-Poderoso”_ ({{< biblink "Apoc 1:8" "ARC" >}}). Inicialmente, poderíamos pensar que se refere a Deus Pai. Porém, Jesus esclarece ao dizer: _“Eu sou o Primeiro e o Último”_ ({{< biblink "Apoc 1:17" "ARC" >}}), ecoando diretamente Jeová no Velho Testamento.
 
-Em Isaías, Deus afirma: _“Eu sou o primeiro, e eu sou o último, e fora de mim não há Deus”_ ({{< biblink "Isa 44:6" ARC >}}; cf. {{< biblink "Isa 48:12" ARC >}}). Esta era uma exclusividade de YHWH. Para que não reste sombra de dúvida, no fim de Apocalipse lemos: _“Eu sou o Alfa e o Ómega, o Primeiro e o Último, o Princípio e o Fim”_ ({{< biblink "Apoc 22:13" ARC >}}). Quem o diz é Jesus (v. 16).
+Em Isaías, Deus afirma: _“Eu sou o primeiro, e eu sou o último, e fora de mim não há Deus”_ ({{< biblink "Isa 44:6" "ARC" >}}; cf. {{< biblink "Isa 48:12" "ARC" >}}). Esta era uma exclusividade de YHWH. Para que não reste sombra de dúvida, no fim de Apocalipse lemos: _“Eu sou o Alfa e o Ómega, o Primeiro e o Último, o Princípio e o Fim”_ ({{< biblink "Apoc 22:13" "ARC" >}}). Quem o diz é Jesus (v. 16).
 
 As linhas entre Deus Pai e Deus Filho tornam-se mais difusas, desafiando interpretações simplistas. João não está apenas a apresentar Jesus como divino — está a apresentá-lo como partilhando plenamente a identidade do Deus de Israel. Essa tensão levou a grandes debates teológicos na Igreja primitiva. Heresias como Arianismo (Jesus como criado), Docetismo (Jesus não era humano), Nestorianismo (Jesus humano habitado por Deus) e Modalismo (Jesus como um “modo” de Deus) foram rejeitadas. O trinitarismo surge como resposta, apoiado por passagens como Isaías 48:16, onde Deus diz:
 
@@ -106,7 +106,7 @@ João quer que se lembre de Daniel. E talvez queira que se leia o Apocalipse ten
 
 ## Voz de muitas águas
 
-João descreve a voz de Jesus como **“voz de muitas águas”** ({{< biblink "Apoc 1:15" ARC >}}). Esta imagem evoca imediatamente Ezequiel, que descreve a glória de Deus a entrar no templo:
+João descreve a voz de Jesus como **“voz de muitas águas”** ({{< biblink "Apoc 1:15" "ARC" >}}). Esta imagem evoca imediatamente Ezequiel, que descreve a glória de Deus a entrar no templo:
 
 {{< bible "Ezequiel 43:2-5" "ARC" >}}
 > Eis que a glória do Deus de Israel vinha do lado do oriente; **a sua voz era como o ruído de muitas águas**, e a terra resplandeceu com a sua glória. [...] e eis que a glória do SENHOR encheu o templo.
@@ -129,7 +129,7 @@ Ezequiel 40–48 fala de um templo futuro, lugar da habitação de Deus com o se
 {{< /bible >}}
 
 
-Depois de toda a glória e majestade — olhos de fogo, pés de bronze, voz de muitas águas — Jesus aproxima-se com um toque e uma palavra: _“Não temas.”_ Esta expressão foi usada quando Deus chama os patriarcas: Abraão ({{< biblink "Génesis 15:1" ARC >}}), Isaque ({{< biblink "Génesis 26:24" ARC >}}), Jacó ({{< biblink "Génesis 46:3" ARC >}}). Agora, o mesmo Deus conforta João.
+Depois de toda a glória e majestade — olhos de fogo, pés de bronze, voz de muitas águas — Jesus aproxima-se com um toque e uma palavra: _“Não temas.”_ Esta expressão foi usada quando Deus chama os patriarcas: Abraão ({{< biblink "Génesis 15:1" "ARC" >}}), Isaque ({{< biblink "Génesis 26:24" "ARC" >}}), Jacó ({{< biblink "Génesis 46:3" "ARC" >}}). Agora, o mesmo Deus conforta João.
 
 Jesus venceu a morte, e **tem as chaves** da morte e do inferno. A morte já não tem a última palavra. O inferno já não é um destino inescapável. Jesus reina!
 

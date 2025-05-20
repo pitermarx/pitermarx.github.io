@@ -52,7 +52,7 @@ There is no one like the God of Jeshurun,
 {{< /bible >}}
 
 
-It is Jehovah who manifests Himself on Mount Sinai in a thick cloud ({{< biblink "Exo 19:9" NKJV >}}). It was the LORD who guided His people in the wilderness with a pillar of cloud by day and a pillar of fire by night ({{< biblink "Exo 13:21" NIV >}}). John now applies this same imagery to the Messiah. Jesus is, like YHWH, the One who comes on the clouds.
+It is Jehovah who manifests Himself on Mount Sinai in a thick cloud ({{< biblink "Exo 19:9" "NKJV" >}}). It was the LORD who guided His people in the wilderness with a pillar of cloud by day and a pillar of fire by night ({{< biblink "Exo 13:21" "NIV" >}}). John now applies this same imagery to the Messiah. Jesus is, like YHWH, the One who comes on the clouds.
 
 {{< bible "Mat 24:30" "NIV" >}}
 Then will appear the sign of the Son of Man in heaven. And then all the peoples of the earth will mourn when they see the Son of Man coming on the clouds of heaven, with power and great glory.
@@ -69,7 +69,7 @@ The Son of Man is enthroned with divine honor. Serving Him is equivalent to wors
 
 ## Every Eye Will See Him
 
-The prophets speak of the “Day of the Lord,” when God Himself will go forth ({{< biblink "Zech 14:3" NIV >}}) and save His people from the nations gathered against Jerusalem. The parallel with Zechariah 12 is undeniable. John wants this prophecy to be brought to the reader’s mind.
+The prophets speak of the “Day of the Lord,” when God Himself will go forth ({{< biblink "Zech 14:3" "NIV" >}}) and save His people from the nations gathered against Jerusalem. The parallel with Zechariah 12 is undeniable. John wants this prophecy to be brought to the reader’s mind.
 
 
 {{< bible "Zech 12:8-12" "NIV" >}}
@@ -78,15 +78,15 @@ On that day the LORD will shield those who live in Jerusalem [...]
 “And I will pour out on the house of David and the inhabitants of Jerusalem a spirit of grace and supplication. They will look on me, the one they have pierced, and they will mourn for him as one mourns for an only child, and grieve bitterly for him as one grieves for a firstborn son. On that day the weeping in Jerusalem will be as great as the weeping of Hadad Rimmon[^2] in the plain of Megiddo. The land will mourn, each clan by itself
 {{< /bible >}}
 
-John tells us that the One who was pierced — Jesus — will be seen by the inhabitants of Jerusalem on the “Day of the Lord.” Each family will mourn, recognizing the pierced king, just as they mourned Josiah who was pierced by an arrow in the valley of Megiddo ({{< biblink "2 Chr 35:23" NIV >}}). The same God who was pierced in Zechariah is now identified with Jesus.
+John tells us that the One who was pierced — Jesus — will be seen by the inhabitants of Jerusalem on the “Day of the Lord.” Each family will mourn, recognizing the pierced king, just as they mourned Josiah who was pierced by an arrow in the valley of Megiddo ({{< biblink "2 Chr 35:23" "NIV" >}}). The same God who was pierced in Zechariah is now identified with Jesus.
 
 [^2]: Though there is no consensus about what Hadad-Rimmon refers to, one possibility, supported by Jerome’s testimony, is that it is a town near Megiddo, where King Josiah was struck by an arrow.
 
 ## The First and the Last
 
-Now we are confronted with a declaration full of divine names: “I am the Alpha and the Omega, the Beginning and the End,” says the Lord, “who is and who was and who is to come, the Almighty.” ({{< biblink "Rev 1:8" "NKJV">}}). At first, we might think this refers to God the Father. However, Jesus clarifies by saying: “I am the First and the Last” ({{< biblink "Rev 1:17" NIV >}}), directly echoing Jehovah in the Old Testament.
+Now we are confronted with a declaration full of divine names: “I am the Alpha and the Omega, the Beginning and the End,” says the Lord, “who is and who was and who is to come, the Almighty.” ({{< biblink "Rev 1:8" "NKJV">}}). At first, we might think this refers to God the Father. However, Jesus clarifies by saying: “I am the First and the Last” ({{< biblink "Rev 1:17" "NIV" >}}), directly echoing Jehovah in the Old Testament.
 
-In Isaiah, God declares: “I am the first and I am the last, and besides Me there is no god” ({{< biblink "Isa 44:6" NIV >}}; cf. {{< biblink "isa 48:12" NIV >}}). This was an exclusive claim of YHWH. Lest there be any doubt, at the end of Revelation we read: “I am the Alpha and the Omega, the First and the Last, the Beginning and the End”  ({{< biblink "Rev 22:13" NIV >}}). The speaker is Jesus (v. 16).
+In Isaiah, God declares: “I am the first and I am the last, and besides Me there is no god” ({{< biblink "Isa 44:6" "NIV" >}}; cf. {{< biblink "isa 48:12" "NIV" >}}). This was an exclusive claim of YHWH. Lest there be any doubt, at the end of Revelation we read: “I am the Alpha and the Omega, the First and the Last, the Beginning and the End”  ({{< biblink "Rev 22:13" "NIV" >}}). The speaker is Jesus (v. 16).
 
 The lines between God the Father and God the Son become more blurred, challenging simplistic interpretations. John is not merely presenting Jesus as divine — he is presenting Him as fully sharing the identity of the God of Israel. This tension led to major theological debates in the early Church. Heresies like Arianism (Jesus as a created being), Docetism (Jesus wasn’t human), Nestorianism (a human Jesus inhabited by God), and Modalism (Jesus as a “mode” of God) were all rejected. Trinitarianism emerged as the response, supported by passages like Isaiah 48:16, where God says:
 
@@ -109,13 +109,13 @@ I looked up and there before me was a man dressed in linen, with a belt of fine 
 I, Daniel, was the only one who saw the vision; those who were with me did not see it, but such terror overwhelmed them that they fled and hid themselves. So I was left alone, gazing at this great vision; I had no strength left, my face turned deathly pale and I was helpless. Then I heard him speaking, and as I listened to him, I fell into a deep sleep, my face to the ground.
 {{< /bible >}}
 
-This radiant being, clothed in gold, with a glowing face and feet, eyes of fire, and a voice like a multitude — is he a glorious messenger of God, or God Himself? The effect he has on Daniel is identical to what John experiences: no strength left, face to the ground. Other prophets had similar experiences — {{ biblink "Gen 17:3" NIV}}, {{< biblink "Ezek 1:28" NIV >}}.
+This radiant being, clothed in gold, with a glowing face and feet, eyes of fire, and a voice like a multitude — is he a glorious messenger of God, or God Himself? The effect he has on Daniel is identical to what John experiences: no strength left, face to the ground. Other prophets had similar experiences — {{ biblink "Gen 17:3" NIV}}, {{< biblink "Ezek 1:28" "NIV" >}}.
 
 John wants us to remember Daniel. And perhaps he wants us to read Revelation with the prophecies of Daniel in mind, especially chapters 10 to 12.
 
 ## Voice of Many Waters
 
-John describes Jesus’ voice as “the sound of many waters” ({{< biblink "Rev 1:15" NIV >}}). This imagery immediately evokes Ezekiel, who describes the glory of God entering the temple:
+John describes Jesus’ voice as “the sound of many waters” ({{< biblink "Rev 1:15" "NIV" >}}). This imagery immediately evokes Ezekiel, who describes the glory of God entering the temple:
 
 {{< bible "Ezek 43:2-5" "NIV" >}}
 And behold, the glory of the God of Israel came from the way of the east. His voice was like the sound of many waters; and the earth shone with His glory. [...] and behold, the glory of the Lord filled the temple.
