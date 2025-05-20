@@ -8,8 +8,8 @@ tags:
   - "christianity"
 ---
 {{< bible "Apocalipse 1:3" "ARC" >}}
-Bem-aventurados aqueles que lêem e aqueles que ouvem as palavras da profecia[^1] e guardam as coisas nela escritas, pois o tempo está próximo.
-{{< /bible >}}
+Bem-aventurados aqueles que lêem e aqueles que ouvem as palavras da profecia e guardam as coisas nela escritas, pois o tempo está próximo.
+{{< /bible >}}[^1]
 
 [^1]: Grande parte das traduções transformam "λογους της προφητειας" em "palavras DESTA profecia". No entanto, visto que Apocalipse está saturado de referências ao [Velho Testamento](/pt/2025/01/qual-%C3%A9-o-objetivo-do-antigo-testamento/), parece-me legítimo também supor que João poderia querer dizer que aqueles que lêem e ouvem as profecias são bem-aventurados.
 

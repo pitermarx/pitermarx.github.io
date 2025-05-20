@@ -9,8 +9,8 @@ tags:
 ---
 
 {{< bible "Revelation 1:3" "NASB" >}}
-Blessed is the one who reads, and those who hear the words of the prophecy[^1] and keep the things which are written in it; for the time is near.
-{{< /bible >}}
+Blessed is the one who reads, and those who hear the words of the prophecy and keep the things which are written in it; for the time is near.
+{{< /bible >}}[^1]
 
 [^1]: Most translations render "λόγους τῆς προφητείας" as "words OF THIS prophecy." However, given that Revelation is saturated with references to the [Old Testament](/2025/01/whats-the-point-of-the-old-testament/), it seems legitimate to also suppose that John might mean that those who read and hear the prophecies are blessed.
 
