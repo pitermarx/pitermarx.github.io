@@ -17,20 +17,7 @@ I wanted to run [Cake](https://cakebuild.net/) inside a console app, without the
 
 So, it was time to roll up my sleeves and get to work. Presenting [Cake.Console](https://github.com/pitermarx/Cake.Console)!
 
-![var cake = new CakeHostBuilder(args)
-.InstallNugetTool("xunit.runner.console", "2.4.1")
-.Build();
-<div></div>
-cake.Task("Hello")
-.Description("This is just like a cake script")
-.IsDependeeOf("World")
-.Does(c => c.Information("but methods are on the 'cake' object"));
-<div></div>
-cake.Task("World")
-.Does(c => c.Information("Hello world"));
-<div></div>
-var target = cake.Context.Argument("target", "hello");
-cake.RunTarget(target);](images/image-1024x606.png)
+![](images/image-1024x606.png)
 
 It's a fairly simple project, but I learned a lot about cake's internals.
 
