@@ -109,7 +109,7 @@ I looked up and there before me was a man dressed in linen, with a belt of fine 
 I, Daniel, was the only one who saw the vision; those who were with me did not see it, but such terror overwhelmed them that they fled and hid themselves. So I was left alone, gazing at this great vision; I had no strength left, my face turned deathly pale and I was helpless. Then I heard him speaking, and as I listened to him, I fell into a deep sleep, my face to the ground.
 {{< /bible >}}
 
-This radiant being, clothed in gold, with a glowing face and feet, eyes of fire, and a voice like a multitude — is he a glorious messenger of God, or God Himself? The effect he has on Daniel is identical to what John experiences: no strength left, face to the ground. Other prophets had similar experiences — {{ biblink "Gen 17:3" "NIV" >}}, {{< biblink "Ezek 1:28" "NIV" >}}.
+This radiant being, clothed in gold, with a glowing face and feet, eyes of fire, and a voice like a multitude — is he a glorious messenger of God, or God Himself? The effect he has on Daniel is identical to what John experiences: no strength left, face to the ground. Other prophets had similar experiences — {{< biblink "Gen 17:3" "NIV" >}}, {{< biblink "Ezek 1:28" "NIV" >}}.
 
 John wants us to remember Daniel. And perhaps he wants us to read Revelation with the prophecies of Daniel in mind, especially chapters 10 to 12.
 
@@ -135,7 +135,7 @@ But I saw no temple in it, for the Lord God Almighty and the Lamb are its temple
 Do not be afraid; I am the First and the Last. I am He who lives, and was dead, and behold, I am alive forevermore. Amen. And I have the keys of Hades and of Death.
 {{< /bible >}}
 
-After all the glory and majesty — eyes of fire, feet of bronze, voice of many waters — Jesus approaches with a touch and a word: “Do not be afraid.” This expression was used when God called the patriarchs: Abraham ({{< biblink "Gen 15:1" "NIV" >}}), Isaac ({{< biblink "Gen 26:24" "NIV" >}}), Jacob ({{< biblink "Gen 46:3" "NIV"}}). Now, the same God comforts John.
+After all the glory and majesty — eyes of fire, feet of bronze, voice of many waters — Jesus approaches with a touch and a word: “Do not be afraid.” This expression was used when God called the patriarchs: Abraham ({{< biblink "Gen 15:1" "NIV" >}}), Isaac ({{< biblink "Gen 26:24" "NIV" >}}), Jacob ({{< biblink "Gen 46:3" "NIV" >}}). Now, the same God comforts John.
 
 Jesus conquered death, and holds the keys of death and hades. Death no longer has the final word. Hell is no longer an inescapable destiny. Jesus reigns!
 
