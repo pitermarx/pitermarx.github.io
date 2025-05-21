@@ -33,11 +33,8 @@ Behold, He is coming with clouds, and every eye will see Him, even they who pier
 
 {{< bible "Rev 1:12-18" "NKJV" >}}
 Then I turned to see the voice that spoke with me. And having turned I saw seven golden lampstands, and in the midst of the seven lampstands One like the Son of Man, clothed with a garment down to the feet and girded about the chest with a golden band.
-
 His head and hair were white like wool, as white as snow, and His eyes like a flame of fire; His feet were like fine brass, as if refined in a furnace, and His voice as the sound of many waters;
-
 He had in His right hand seven stars, out of His mouth went a sharp two-edged sword, and His countenance was like the sun shining in its strength.
-
 And when I saw Him, I fell at His feet as dead. But He laid His right hand on me, saying to me, “Do not be afraid; I am the First and the Last. I am He who lives, and was dead, and behold, I am alive forevermore. Amen. And I have the keys of Hades and of Death.
 {{< /bible >}}
 
@@ -74,7 +71,6 @@ The prophets speak of the “Day of the Lord,” when God Himself will go forth 
 
 {{< bible "Zech 12:8-12" "NIV" >}}
 On that day the LORD will shield those who live in Jerusalem [...]
-
 “And I will pour out on the house of David and the inhabitants of Jerusalem a spirit of grace and supplication. They will look on me, the one they have pierced, and they will mourn for him as one mourns for an only child, and grieve bitterly for him as one grieves for a firstborn son. On that day the weeping in Jerusalem will be as great as the weeping of Hadad Rimmon in the plain of Megiddo. The land will mourn, each clan by itself
 {{< /bible >}}[^2]
 
@@ -92,16 +88,13 @@ The lines between God the Father and God the Son become more blurred, challengin
 
 {{< bible "Isa 48:12, 16" "NIV" >}}
 Listen to me, Jacob, Israel, whom I have called: I am he; I am the first and I am the last. [...] Come near me and listen to this:
-
 “From the first announcement I have not spoken in secret; at the time it happens, I am there.”
-
 And now the Sovereign Lord (1) has sent me (2), endowed with his Spirit (3)
 {{< /bible >}}
 
 ## A Radiant Man
 
 Another clear reference in this introduction to Revelation is Daniel 10. The parallel is undeniable. A being of the same kind that appeared to John appeared to Daniel. Is this Jesus?
-
 
 {{< bible "Dan 10:5-9" "NIV" >}}
 I looked up and there before me was a man dressed in linen, with a belt of fine gold from Uphaz around his waist. His body was like topaz, his face like lightning, his eyes like flaming torches, his arms and legs like the gleam of burnished bronze, and his voice like the sound of a multitude.
@@ -131,7 +124,7 @@ But I saw no temple in it, for the Lord God Almighty and the Lamb are its temple
 
 ## The Living One
 
-{{< bible "Rev 1:17–18" "NKJV" >}}
+{{< bible "Rev 1:17-18" "NKJV" >}}
 Do not be afraid; I am the First and the Last. I am He who lives, and was dead, and behold, I am alive forevermore. Amen. And I have the keys of Hades and of Death.
 {{< /bible >}}
 
@@ -145,7 +138,7 @@ Just as YHWH comforted the patriarchs with promises for the future, Jesus’ dec
 I saw heaven opened, and behold, a white horse
 {{< /bible >}}
 
-{{< bible "Ps 68:41" "NIV" >}}
+{{< bible "Psalm 68:4" "NIV" >}}
 Sing to God, sing in praise of his name,
     extol him who rides on the clouds;
     rejoice before him—his name is the LORD.

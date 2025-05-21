@@ -137,13 +137,12 @@ Tal como YHVH confortou os patriarcas fazendo-lhes promessas para o futuro, esta
 
 
 {{< bible "Ap 19:11" "ARC" >}}
-E vi o céu aberto, e eis um cavalo branco [...]
+E vi o céu aberto, e eis um cavalo branco
 {{< /bible >}}
 
 
 {{< bible "Salmos 68:4" "ARC" >}}
-> Cantai a Deus, salmodiai o seu nome; exaltai o que cavalga sobre as nuvens. SENHOR é o seu nome, exultai diante dele.
-
+Cantai a Deus, salmodiai o seu nome; exaltai o que cavalga sobre as nuvens. SENHOR é o seu nome, exultai diante dele.
 {{< /bible >}}
 
 **Jesus é o Deus vivo. Ele é YHWH que vem nas nuvens.**
