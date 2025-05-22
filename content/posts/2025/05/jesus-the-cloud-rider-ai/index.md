@@ -2,7 +2,7 @@
 title: "Jesus the Cloud Rider - AI Version"
 date: "2025-05-22"
 categories:
-  - "longs"
+  - "shorts"
   - "original"
 tags:
   - "christianity"
