@@ -109,9 +109,7 @@ João quer que se lembre de Daniel. E talvez queira que se leia o Apocalipse ten
 
 João descreve a voz de Jesus como **“voz de muitas águas”** ({{< biblink "Apoc 1:15" "ARC" >}}). Esta imagem evoca imediatamente Ezequiel, que descreve a glória de Deus a entrar no templo:
 
-{{< bible "Ezequiel 43:2-5" "ARC" >}}
-> Eis que a glória do Deus de Israel vinha do lado do oriente; **a sua voz era como o ruído de muitas águas**, e a terra resplandeceu com a sua glória. [...] e eis que a glória do SENHOR encheu o templo.
-{{< /bible >}}
+{{< bible "Ezequiel 43:2-5" "ARC" >}}Eis que a glória do Deus de Israel vinha do lado do oriente; **a sua voz era como o ruído de muitas águas**, e a terra resplandeceu com a sua glória. [...] e eis que a glória do SENHOR encheu o templo.{{< /bible >}}
 
 Ao identificar a voz de Jesus com esta imagem, João está a mostrar que **a presença gloriosa do Senhor que habitará no templo restaurado é a presença de Jesus**. Aquele que tem voz de muitas águas é apenas Deus.
 
