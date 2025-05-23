@@ -1,0 +1,753 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calendário de Ausências</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* Hide all elements with the class .hide-mobile if the screen width is less than 768px */
+        @media (max-width: 768px) {
+            .hide-mobile {
+                display: none;
+            }
+        }
+
+
+        body {
+            font-family: 'Roboto', sans-serif; /* Modern font */
+            background-color: #f4f7f6; /* Light, clean background */
+            min-height: 100vh;
+            padding: 10px; /* Reduced padding for mobile */
+            color: #333; /* Darker text for readability */
+        }
+
+        .container {
+            max-width: 1200px; /* Slightly smaller max-width */
+            margin: 0 auto;
+            background: white;
+            border-radius: 8px; /* Softer corners */
+            box-shadow: 0 10px 20px rgba(0,0,0,0.08); /* Lighter shadow */
+            overflow: hidden;
+        }
+
+        .header {
+            background-color: #f8f9fa; /* Light neutral grey */
+            color: #333; /* Darker text */
+            padding: 15px; /* Reduced padding */
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 1.8rem; /* Further reduced font size */
+            margin: 0; /* Remove margin */
+            font-weight: 400; /* Lighter weight */
+        }
+
+        /* Removed .header p style */
+
+        .api-setup {
+            background: #f8f9fa; /* Light neutral grey */
+            padding: 10px; /* Reduced padding */
+            border-bottom: 1px solid #dee2e6; /* Lighter border */
+        }
+
+        .status {
+            margin-top: 10px;
+            padding: 8px; /* Reduced padding */
+            border-radius: 4px; /* Softer corners */
+            text-align: center;
+            font-weight: bold;
+            font-size: 0.9rem;
+        }
+
+        .status.success {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+
+        .status.error {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+
+        .controls {
+            padding: 10px; /* Reduced padding */
+            background: #f8f9fa; /* Light neutral grey */
+            display: flex;
+            gap: 10px; /* Reduced gap */
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .month-nav {
+            display: flex;
+            align-items: center;
+            gap: 8px; /* Reduced gap */
+        }
+
+        .month-nav button {
+            background: #6c757d; /* Secondary grey */
+            color: white;
+            border: none;
+            padding: 6px 10px; /* Reduced padding */
+            border-radius: 4px; /* Softer corners */
+            cursor: pointer;
+            font-size: 13px; /* Reduced font size */
+            transition: background-color 0.2s ease-in-out; /* Smoother transition */
+        }
+
+        .month-nav button:hover {
+            background: #5a6268; /* Darker grey on hover */
+            transform: none; /* Remove transform */
+        }
+
+        .month-nav h2 {
+            color: #333; /* Darker text */
+            font-size: 1.1rem; /* Reduced font size */
+            min-width: 120px; /* Reduced min-width */
+            text-align: center;
+            font-weight: 500;
+        }
+
+        .people-controls {
+            display: flex;
+            gap: 6px; /* Reduced gap */
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        .people-controls input {
+            padding: 6px 8px; /* Reduced padding */
+            border: 1px solid #ccc; /* Lighter border */
+            border-radius: 4px; /* Softer corners */
+            font-size: 13px;
+        }
+
+        .people-controls button {
+            padding: 6px 10px; /* Reduced padding */
+            background: #6c757d; /* Secondary grey */
+            color: white;
+            border: none;
+            border-radius: 4px; /* Softer corners */
+            cursor: pointer;
+            font-size: 13px;
+            transition: background-color 0.2s ease-in-out; /* Smoother transition */
+        }
+
+        .people-controls button:hover {
+            background: #5a6268; /* Darker grey on hover */
+        }
+
+        .main-content {
+            display: flex;
+            min-height: 400px; /* Reduced min-height */
+        }
+
+        .remove-person {
+            float: left;
+            margin-right: 6px; /* Reduced margin */
+            background: #dc3545; /* Danger red */
+            color: white;
+            border: none;
+            padding: 2px 5px; /* Reduced padding */
+            border-radius: 3px; /* Softer corners */
+            cursor: pointer;
+            font-size: 10px; /* Reduced font size */
+        }
+
+        .remove-person:hover {
+            background: #c82333; /* Darker red on hover */
+        }
+
+        .calendar-container {
+            flex: 1;
+            padding: 15px; /* Reduced padding */
+            overflow-x: auto; /* Add horizontal scroll for calendar */
+        }
+
+        .calendar {
+            width: 100%;
+            min-width: 600px; /* Ensure calendar doesn't shrink too much */
+            border-collapse: collapse;
+            background: white;
+            border-radius: 8px; /* Softer corners */
+            overflow: hidden;
+            box-shadow: none; /* Remove shadow */
+        }
+
+        .calendar th,
+        .calendar td {
+            padding: 8px 4px; /* Reduced padding */
+            text-align: center;
+            border: 1px solid #dee2e6; /* Lighter border */
+        }
+
+        .calendar th {
+            background: #6c757d; /* Secondary grey */
+            color: white;
+            font-weight: 500; /* Lighter weight */
+            font-size: 12px; /* Reduced font size */
+        }
+
+        .calendar .day-header {
+            background: #5a6268; /* Darker grey */
+            color: white;
+            font-weight: 600;
+            font-size: 13px; /* Reduced font size */
+        }
+
+        .calendar .person-row {
+            transition: background-color 0.2s ease-in-out; /* Smoother transition */
+        }
+
+        .calendar .person-row:hover {
+            background: #f8f9fa; /* Very light grey on hover */
+        }
+
+        .calendar .person-name-cell {
+            background: #f8f9fa; /* Very light grey */
+            font-weight: 500; /* Lighter weight */
+            color: #333; /* Darker text */
+            text-align: left;
+            padding-left: 8px; /* Reduced padding */
+        }
+
+        .calendar .day-cell {
+            cursor: pointer;
+            position: relative;
+            transition: background-color 0.2s ease-in-out; /* Smoother transition */
+            min-height: 30px; /* Reduced min-height */
+            vertical-align: middle;
+        }
+
+        .calendar .day-cell:hover {
+            background: #e9ecef; /* Light grey on hover */
+        }
+
+        .calendar .day-cell.absent {
+            background: #dc3545; /* Danger red */
+            color: white;
+            font-weight: bold;
+        }
+
+        .calendar .day-cell.other-month {
+            color: #adb5bd; /* Lighter grey */
+            background: #f1f3f5; /* Lighter background */
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.4); /* Slightly less opaque */
+            backdrop-filter: blur(3px); /* Reduced blur */
+        }
+
+        .modal-content {
+            background-color: white;
+            margin: 8% auto; /* Adjusted margin */
+            padding: 20px; /* Reduced padding */
+            border-radius: 10px; /* Softer corners */
+            width: 95%; /* Increased width for mobile */
+            max-width: 400px; /* Reduced max-width */
+            box-shadow: 0 5px 10px rgba(0,0,0,0.05); /* Even lighter shadow */
+        }
+
+        .modal h3 {
+            color: #333; /* Darker text */
+            margin-bottom: 15px; /* Reduced margin */
+            font-size: 1.2rem; /* Reduced font size */
+            font-weight: 500;
+        }
+
+        .modal .form-group {
+            margin-bottom: 15px; /* Reduced margin */
+        }
+
+        .modal label {
+            display: block;
+            margin-bottom: 6px; /* Reduced margin */
+            color: #333; /* Darker text */
+            font-weight: 500;
+            font-size: 0.9rem;
+        }
+
+        .modal select,
+        .modal input {
+            width: 100%;
+            padding: 8px; /* Reduced padding */
+            border: 1px solid #ccc; /* Lighter border */
+            border-radius: 4px; /* Softer corners */
+            font-size: 0.9rem; /* Reduced font size */
+            transition: border-color 0.2s ease-in-out; /* Smoother transition */
+        }
+
+        .modal select:focus,
+        .modal input:focus {
+            outline: none;
+            border-color: #007bff; /* Primary blue */
+            box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25); /* Focus shadow */
+        }
+
+        .modal-buttons {
+            display: flex;
+            gap: 8px; /* Reduced gap */
+            justify-content: flex-end;
+            margin-top: 15px; /* Reduced margin */
+        }
+
+        .modal-buttons button {
+            padding: 8px 15px; /* Reduced padding */
+            border: none;
+            border-radius: 4px; /* Softer corners */
+            cursor: pointer;
+            font-size: 0.9rem; /* Reduced font size */
+            font-weight: 500;
+            transition: background-color 0.2s ease-in-out; /* Smoother transition */
+        }
+
+        .btn-save {
+            background: #6c757d; /* Secondary grey */
+            color: white;
+        }
+
+        .btn-save:hover {
+            background: #5a6268; /* Darker grey on hover */
+        }
+
+        .btn-cancel {
+            background: #6c757d; /* Secondary grey */
+            color: white;
+        }
+
+        .btn-cancel:hover {
+            background: #5a6268; /* Darker grey on hover */
+        }
+
+        .btn-remove {
+            background: #dc3545; /* Danger red */
+            color: white;
+        }
+
+        .btn-remove:hover {
+            background: #c82333; /* Darker red on hover */
+        }
+
+        .loading {
+            text-align: center;
+            padding: 20px; /* Reduced padding */
+            color: #6c757d; /* Secondary grey */
+            font-size: 1rem;
+        }
+
+        .weekend {
+            background-color: #e9ecef !important; /* Light grey for weekend header */
+            color: #333 !important; /* Darker text for weekend header */
+        }
+        .day-cell.weekend {
+            background-color: #f8f9fa !important; /* Very light grey for weekend cells */
+        }
+        .day-cell.weekend.absent {
+            background-color: #dc3545 !important; /* Danger red for absent weekend cells */
+            color: white !important;
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding: 10px; /* Reduced padding */
+            }
+            .main-content {
+                flex-direction: column;
+            }
+
+            .controls {
+                flex-direction: column;
+                gap: 10px; /* Reduced gap */
+            }
+
+            .month-nav {
+                gap: 8px; /* Reduced gap */
+            }
+
+            .calendar {
+                font-size: 10px; /* Further reduced font size */
+                min-width: unset; /* Allow calendar to shrink */
+            }
+
+            .calendar th,
+            .calendar td {
+                font-weight: 200;
+                font-size: 8px;
+                padding: 4px 2px; /* Further reduced padding */
+            }
+            .modal-content {
+                margin: 5% auto;
+                padding: 15px; /* Reduced padding */
+            }
+
+            .people-controls {
+                display: none; /* Hide inputs on mobile */
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Calendário de Ausências</h1>
+        </div>
+
+        <div class="api-setup">
+            <div id="apiStatus" class="status" style="display: none;"></div>
+        </div>
+
+        <div id="appContent" style="display: none;">
+            <div class="controls">
+                <div class="month-nav">
+                    <button onclick="previousMonth()">‹</button>
+                    <h2 id="currentMonth"></h2>
+                    <button onclick="nextMonth()">›</button>
+                </div>
+
+                <div class="people-controls hide-mobile>
+                    <input type="text" id="newPersonName" placeholder="Nome da pessoa">
+                    <button onclick="addPerson()">Adicionar Pessoa</button>
+                </div>
+            </div>
+
+            <div class="main-content">
+
+                <div class="calendar-container">
+                    <div id="calendarContainer">
+                        <div class="loading">Carregando calendário...</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal para gerenciar ausências -->
+    <div id="absenceModal" class="modal">
+        <div class="modal-content">
+            <h3 id="modalTitle">Gerenciar Ausência</h3>
+            <form id="absenceForm">
+                <div class="form-group">
+                    <label for="modalPerson">Pessoa:</label>
+                    <select id="modalPerson" required></select>
+                </div>
+                <div class="form-group">
+                    <label for="modalDate">Data:</label>
+                    <input type="date" id="modalDate" required>
+                </div>
+                <div class="modal-buttons">
+                    <button type="button" class="btn-cancel" onclick="closeModal()">Cancelar</button>
+                    <button type="button" class="btn-remove" id="removeAbsenceBtn" onclick="removeAbsence()" style="display: none;">Remover Ausência</button>
+                    <button type="submit" class="btn-save">Salvar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        let data = {
+            people: [],
+            absences: {}
+        };
+        let currentDate = new Date();
+        let currentEditingCell = null;
+
+        // Configuração do Bin
+        const binId = new URLSearchParams(window.location.search).get('binid');
+
+        if (!binId) {
+            showStatus('Por favor, insira um ID de Bin válido', 'error');
+        }
+        else {
+            showStatus('Conectando...', 'success');
+            loadData();
+        }
+
+        async function loadData() {
+            try {
+                const response = await fetch(`https://api.jsonbin.io/v3/b/${binId}/latest`);
+
+                if (response.ok) {
+                    const result = await response.json();
+                    data = result.record;
+                    showStatus('Dados carregados com sucesso!', 'success');
+                    initializeApp();
+                } else if (response.status === 404) {
+                    showStatus('Bin não encontrado. Verifique o ID.', 'error');
+                } else {
+                    throw new Error('Erro ao carregar dados');
+                }
+            } catch (error) {
+                console.error('Erro:', error);
+                showStatus('Erro ao carregar dados. Verifique o ID do Bin.', 'error');
+            }
+        }
+
+        async function saveData() {
+            try {
+                const response = await fetch(`https://api.jsonbin.io/v3/b/${binId}`, {
+                    method: 'PUT',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(data)
+                });
+
+                if (!response.ok) {
+                    throw new Error('Erro ao salvar dados');
+                }
+            } catch (error) {
+                console.error('Erro ao salvar:', error);
+                showStatus('Erro ao salvar dados. Verifique se o Bin permite escrita pública.', 'error');
+            }
+        }
+
+        function showStatus(message, type) {
+            const status = document.getElementById('apiStatus');
+            status.textContent = message;
+            status.className = `status ${type}`;
+            status.style.display = 'block';
+
+            if (type === 'success') {
+                setTimeout(() => {
+                    status.style.display = 'none';
+                }, 3000);
+            }
+        }
+
+        function initializeApp() {
+            document.getElementById('appContent').style.display = 'block';
+            updateCalendar();
+
+            // Auto-save on enter for new person
+            document.getElementById('newPersonName').addEventListener('keypress', function(e) {
+                if (e.key === 'Enter') {
+                    addPerson();
+                }
+            });
+        }
+
+        // Gerenciamento de pessoas
+        function addPerson() {
+            const input = document.getElementById('newPersonName');
+            const name = input.value.trim();
+
+            if (!name) {
+                alert('Por favor, insira um nome válido.');
+                return;
+            }
+
+            if (data.people.includes(name)) {
+                alert('Esta pessoa já existe na lista.');
+                return;
+            }
+
+            data.people.push(name);
+            input.value = '';
+            updateCalendar();
+            saveData();
+        }
+
+        function removePerson(name) {
+            if (confirm(`Tem certeza que deseja remover ${name}? Todas as ausências desta pessoa serão removidas.`)) {
+                data.people = data.people.filter(person => person !== name);
+
+                // Remover todas as ausências desta pessoa
+                Object.keys(data.absences).forEach(date => {
+                    if (data.absences[date][name]) {
+                        delete data.absences[date][name];
+                        if (Object.keys(data.absences[date]).length === 0) {
+                            delete data.absences[date];
+                        }
+                    }
+                });
+
+                updateCalendar();
+                saveData();
+            }
+        }
+
+        // Navegação do calendário
+        function previousMonth() {
+            currentDate.setMonth(currentDate.getMonth() - 1);
+            updateCalendar();
+        }
+
+        function nextMonth() {
+            currentDate.setMonth(currentDate.getMonth() + 1);
+            updateCalendar();
+        }
+
+        function updateCalendar() {
+            const monthNames = [
+                'Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho',
+                'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'
+            ];
+
+            document.getElementById('currentMonth').textContent =
+                `${monthNames[currentDate.getMonth()]} ${currentDate.getFullYear()}`;
+
+            generateCalendar();
+        }
+
+        function generateCalendar() {
+            const container = document.getElementById('calendarContainer');
+
+            if (data.people.length === 0) {
+                container.innerHTML = `
+                    <div class="loading">
+                        Adicione algumas pessoas para começar a usar o calendário.
+                    </div>
+                `;
+                return;
+            }
+
+            const year = currentDate.getFullYear();
+            const month = currentDate.getMonth();
+            const firstDay = new Date(year, month, 1);
+            const lastDay = new Date(year, month + 1, 0);
+            const daysInMonth = lastDay.getDate();
+
+            let html = '<table class="calendar"><thead><tr>';
+            html += '<th class="person-name-cell">Pessoa</th>';
+
+            // Cabeçalho com os dias do mês
+            for (let day = 1; day <= daysInMonth; day++) {
+                const date = new Date(year, month, day);
+                const dayOfWeek = date.getDay();
+                const isWeekend = dayOfWeek === 0 || dayOfWeek === 6;
+                html += `<th class="day-header ${isWeekend ? 'weekend' : ''}">${day}</th>`;
+            }
+
+            html += '</tr></thead><tbody>';
+
+            // Linhas para cada pessoa
+            data.people.forEach(person => {
+                html += `<tr class="person-row">`;
+                html += `<td class="person-name-cell">${person} <button class="remove-person hide-mobile" onclick="removePerson('${person}')">×</button></td>`;
+
+                for (let day = 1; day <= daysInMonth; day++) {
+                    const dateStr = `${year}-${String(month + 1).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
+                    const date = new Date(year, month, day);
+                    const dayOfWeek = date.getDay();
+                    const isWeekend = dayOfWeek === 0 || dayOfWeek === 6;
+                    const isAbsent = data.absences[dateStr] && data.absences[dateStr][person];
+
+                    html += `<td class="day-cell ${isWeekend ? 'weekend' : ''} ${isAbsent ? 'absent' : ''}"
+                             onclick="openAbsenceModal('${person}', '${dateStr}')"
+                             title="${isAbsent ? 'Ausente' : 'Clique para marcar ausência'}">
+                             ${isAbsent ? '✗' : ''}
+                             </td>`;
+                }
+
+                html += '</tr>';
+            });
+
+            html += '</tbody></table>';
+            container.innerHTML = html;
+        }
+
+        // Modal de ausências
+        function openAbsenceModal(person, date) {
+            const modal = document.getElementById('absenceModal');
+            const personSelect = document.getElementById('modalPerson');
+            const dateInput = document.getElementById('modalDate');
+            const removeBtn = document.getElementById('removeAbsenceBtn');
+
+            // Limpar e popular o select de pessoas
+            personSelect.innerHTML = '';
+            data.people.forEach(p => {
+                const option = document.createElement('option');
+                option.value = p;
+                option.textContent = p;
+                option.selected = p === person;
+                personSelect.appendChild(option);
+            });
+
+            dateInput.value = date;
+
+            // Verificar se já existe ausência
+            const existingAbsence = data.absences[date] && data.absences[date][person];
+            if (existingAbsence) {
+                removeBtn.style.display = 'block';
+                document.getElementById('modalTitle').textContent = 'Editar Ausência';
+            } else {
+                removeBtn.style.display = 'none';
+                document.getElementById('modalTitle').textContent = 'Adicionar Ausência';
+            }
+
+            currentEditingCell = { person, date };
+            modal.style.display = 'block';
+        }
+
+        function closeModal() {
+            document.getElementById('absenceModal').style.display = 'none';
+            currentEditingCell = null;
+        }
+
+        function removeAbsence() {
+            if (!currentEditingCell) return;
+
+            const { person, date } = currentEditingCell;
+
+            if (data.absences[date] && data.absences[date][person]) {
+                delete data.absences[date][person];
+
+                // Remover a data completamente se não houver mais ausências
+                if (Object.keys(data.absences[date]).length === 0) {
+                    delete data.absences[date];
+                }
+
+                updateCalendar();
+                saveData();
+                closeModal();
+            }
+        }
+
+        // Event listeners
+        document.getElementById('absenceForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+
+            const person = document.getElementById('modalPerson').value;
+            const date = document.getElementById('modalDate').value;
+
+            if (!data.absences[date]) {
+                data.absences[date] = {};
+            }
+
+            data.absences[date][person] = {
+                createdAt: new Date().toISOString()
+            };
+
+            updateCalendar();
+            saveData();
+            closeModal();
+        });
+
+        // Fechar modal clicando fora
+        window.addEventListener('click', function(e) {
+            const modal = document.getElementById('absenceModal');
+            if (e.target === modal) {
+                closeModal();
+            }
+        });
+    </script>
+</body>
+</html>
