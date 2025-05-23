@@ -66,7 +66,7 @@ O Filho do Homem é entronizado com honra divina. Servi-lo é equivalente a ador
 
 ## Todo olho o verá
 
-Os profetas falam-nos do "dia do Senhor", quando o próprio Deus sairá (Zacarias 14:3) e salvará o seu povo das nações que se ajuntarem contra Jerusalém. O paralelo com Zacarias 12 é inegável. João quer que esta profecia seja trazida à memória do leitor.
+Os profetas falam-nos do "dia do Senhor", quando o próprio Deus sairá ({{< biblink "Zacarias 14:3" "ARC" >}}) e salvará o seu povo das nações que se ajuntarem contra Jerusalém. O paralelo com Zacarias 12 é inegável. João quer que esta profecia seja trazida à memória do leitor.
 
 {{< bible "Zac 12:8-12" "ARC" >}}
 Naquele dia, o SENHOR amparará os habitantes de Jerusalém [...]
