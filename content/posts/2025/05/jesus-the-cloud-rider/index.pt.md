@@ -22,6 +22,7 @@ A descrição de Jesus na introdução de Apocalipse é muito reveladora de quem
 1. que Jesus se considerava a si mesmo como divino,
 2. que os apóstolos consideravam Jesus como divino,
 3. que o Velho Testamento não impõe a interpretação de Jeová como uma unidade monolítica, permitindo espaço para uma compreensão da divindade de Jesus.
+
 Neste artigo quero focar na descrição que João faz de Jesus ao abrir o livro da "Revelação de Jesus Cristo".
 
 
