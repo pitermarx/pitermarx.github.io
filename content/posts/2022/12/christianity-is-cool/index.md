@@ -6,6 +6,7 @@ categories:
   - "original"
 tags:
   - "christianity"
+  - "islam"
 ---
 
 ## Introduction
