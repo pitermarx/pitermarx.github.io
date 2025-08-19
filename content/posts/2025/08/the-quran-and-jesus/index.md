@@ -1,6 +1,6 @@
 ---
 title: "The Quran and Jesus"
-date: "2025-08-20"
+date: "2025-08-19"
 categories:
   - "longs"
   - "original"
