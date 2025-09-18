@@ -26,7 +26,7 @@ Back to "hand coding" and reading the docs!
 I found a great set of posts about it.
 https://fsharpforfunandprofit.com/posts/computation-expressions-intro/
 
-I love the result. Here it is
+I love the result. [Here it is](https://sharplab.io/#v2:DYLgZgzgNALiBOBXAdlAJiA1AHxgTwAcBTAAgCEBDAczMQEtg0j4AeAchgD4AKCIgRxAkOJYHQgwAlCQC8AWABQJZaKIwSAI2qySAZTwSiAWwB0AYQD2wYEQDGMOheQQTAcSLJmdWyYASFCAALXTV2Ll4BSUUVZWiVI2MNZhIYQPETAC1mC24AD2kZEm4opRU45QSjJPgUtJcyOmQ0PKgSMAK2klzykh7K6tr0gDELeAj+RA9bIiERPn5WjQs0PFn1AFpOEhQ6KRIhHfV5UpjlMFGSOkvkEnmSNAtBlwBVCEaqbjpF5bwS07KTiR+slUulXu9uAA3CjASZrb4rNYkTbbZC7aQHNFHHoxOhgTTUEwAJWMFkhRChMMm0lSHhx/00PxI0NhRHp/y0VBMAEE0M0WdSSNgtnQqMhRmyFIoCPBGjAwDcAEQhCjwWxpZBUNoXCBWRAOJwuEwmRWKGzqTk6Sg0eiMZjcADaAEZjU6AJwAXT+ZrUQP1FA0NlueoNzh0Do9iktAG8eucasgndcSM7XZ77hY4xdkAAmZOpkzuj0ZnqIPgAQhIyAAzDpqwAOZFVpPrKs5rMJgAs+ZdhfTD1LFarAFY643WzWm8hOx2qwA2Htp4sDwFloiV5AAdjHU9HE7ns+QjcaKd7RZLq6HyDdO4n24n9cPToADIu+8vM5f182k4UG1ObwnF9B2/RM8z/ccfynJ0n1rE8C3PFcYjXDcnW7CDoLzCduyA6sQNQ0cMInLDmxw+d8ObBciKrMjEz3KtHy/VDt2o5AFyA9jm2fCjE0bVjIMTe9m3bJjmxvVinXo5ApKdASnRgwFdVhUMIBIFhWwdbBEwAbjbXSa30zt9OHfS530zd9PrfS3X0l9bKdWyc1s6tbKM5sTMo2yLObKyxOwYsQCEJT9UcZxFAAX2iRRgpUxRhRIAAZcQYBMdUUAAazIPBdDoAAvUgRPipKJBMXZkm4MAUCKGLQogIQ5RIVV4AoPBRGS6RNh6c0SHgDwmBqXh6uQdQmpagp2RTbAJpiXgZTlfFFQZEgAFJnxzNAluUbBFpcB1ny9bTppUWbZWGhaYlW9b/kujbTm224TGdJ1i1257JEOwElpO+aSEVG7rrW26LsBradsel8XvBnNIYdaH3qO5RvrO37gau05/rusHnU3GGnWrA6Eequbkb+kH0bJ1Hbvu3b0we516xh/H4c+hkkflFGVAxyn/mp8G51xzsCZZ/42YWrnOYpiW0d5h0GeUV7hxhwXmc246IGJ9nFqloHtZ5rGcflx7FZV1WidOzWlvFvW6f5k2ecjQFushcREBhPKKBUnQasNIUtmKlKjAoAger65hZyuE9X2NEhGyQhkNYVX7sGUZaIEWqEXbd3KPdq33EuSkxA+Diqqud3LkS2MvHroL0890GBTq5WwnFsD2Od+yRJCAA=)
 
 ```fs
 printfn @"ALL NUMBERS ARE DIFFERENT AND BETWEEN 1 AND 19
@@ -43,34 +43,25 @@ N05+N15+N16+N09 = 38
 N07+N16+N17+N11 = 38
 N09+N17+N12+N01 = 38
 N00+N12+N18+N15+N06 = N02+N13+N18+N16+N08 = N04+N14+N18+N17+N10 = 38"
+type BagBuilder<'t>(items: 't list) =
+    let bag = System.Collections.Generic.HashSet<'t>(items)
+    
+    // this is for the "let! x =" or other assignments like "use! x =". Just call the continuation
+    member this.Bind(x, f) = f x
 
-type BagBuilder(seq: int list) =
-    let bag = System.Collections.Generic.HashSet<int>(seq)
- 
-    member this.Bind(x, f) =
-        match x with
-        | None -> ()
-        | Some x -> f x
- 
-    member this.For(sequence: seq<int>, body: int-> unit) : unit =
-        for i in seq do
-            match this.Take(i) with
-            | None -> ()
-            | Some i -> this.Using(i, body)
- 
-    member this.Using(item: int, body: int -> unit) : unit =
-        body item
-        bag.Add(item) |> ignore
+    // iterate the sequence. for each item, try to use
+    member this.For(sequence: 't seq, body: 't -> unit) : unit =
+        for i in sequence do this.Using(i, body)
+
+    // Using means removing from bag, calling the continuation and then putting it back
+    member this.Using(value: 't, body: 't -> unit) : unit =
+        if bag.Remove(value) then
+            body value
+            bag.Add(value) |> ignore
  
     member this.Zero(x) = ()
- 
-    member this.Take(x: int) : int option =
-        if bag.Contains(x) then
-            bag.Remove(x) |> ignore
-            Some x
-        else
-            None
- 
+        
+            
 printfn "Searching for solutions..."
 let bag = BagBuilder([1..19])
  
@@ -78,23 +69,23 @@ let mutable solutions = []
 bag {
     for n1 in [1..19] do
     for n2 in [1..19] do
-    use! n3 = bag.Take(38 - n1 - n2)
+    use! n3 = 38 - n1 - n2
     for n4 in [1..19] do
-    use! n5 = bag.Take(38 - n3 - n4)
+    use! n5 = 38 - n3 - n4
     for n6 in [1..19] do
-    use! n7 = bag.Take(38 - n5 - n6)
+    use! n7 = 38 - n5 - n6
     for n8 in [1..19] do
-    use! n9 = bag.Take(38 - n7 - n8)
+    use! n9 = 38 - n7 - n8
     for n10 in [1..19] do
-    use! n11 = bag.Take(38 - n9 - n10)
-    use! n12 = bag.Take(38 - n11 - n1)
+    use! n11 = 38 - n9 - n10
+    use! n12 = 38 - n11 - n1
     for n13 in [1..19] do
-    use! n14 = bag.Take(38 - n12 - n4 - n13)
-    use! n15 = bag.Take(38 - n2 - n14 - n6)
-    use! n16 = bag.Take(38 - n4 - n15 - n8)
-    use! n17 = bag.Take(38 - n6 - n16 - n10)
-    use! n18 = bag.Take(38 - n8 - n17 - n12)
-    use! n19 = bag.Take(38 - n15 - n5 - n18 - n11)
+    use! n14 = 38 - n12 - n4 - n13
+    use! n15 = 38 - n2 - n14 - n6
+    use! n16 = 38 - n4 - n15 - n8
+    use! n17 = 38 - n6 - n16 - n10
+    use! n18 = 38 - n8 - n17 - n12
+    use! n19 = 38 - n15 - n5 - n18 - n11
     solutions <- [|n1; n2; n3; n4; n5; n6; n7; n8; n9; n10; n11; n12; n13; n14; n15; n16; n17; n18; n19|] :: solutions
 }
  
@@ -117,6 +108,8 @@ solutions
     for i in 0 .. 8 do
         printfn "|  %s" (visualizations |> List.map (fun viz -> viz.[i]) |> String.concat "   "))
 ```
+
+I'm amazed on how simple the computation expression actually is, and now that I kindof know how to build them, I'm amazed that the AI couldn't do it.
 
 Let me quote myself from a year ago, as the same is applicable today:
 
