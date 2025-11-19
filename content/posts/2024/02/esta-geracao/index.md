@@ -43,7 +43,7 @@ The first and perhaps most common interpretation is that “This Generation” r
 
 Another very common interpretation is that Jesus was actually referring to his contemporaries, and that “This Generation” actually saw “all these things” with the destruction of Jerusalem in 70 AD. It is called [Preterism](https://en.wikipedia.org/wiki/Preterism). This position has the problem of ignoring that Jesus was clearly speaking about the end times and his coming. As Jesus has not actually returned to judge the world, those who defend this interpretation usually adhere to partial preterism.
 
-A terceirThe third interpretation is that with “generation”, Jesus was referring to those who see the signs begin, particularly the [“Abomination of desolation”](https://en.wikipedia.org/wiki/Abomination_of_desolation). According to this interpretation, what Jesus was saying is that everything will happen in a rapid succession of events. The generation that sees the “Abomination of desolation” will also see the end. The problem is that Jesus does not say “that” generation, but rather “this” generation. The connection to the “Abomination of desolation” is also unclear. Despite this being the pivotal event of the end times, the textual connection of “This Generation” to this particular event is not obvious.
+The third interpretation is that with “generation”, Jesus was referring to those who see the signs begin, particularly the [“Abomination of desolation”](https://en.wikipedia.org/wiki/Abomination_of_desolation). According to this interpretation, what Jesus was saying is that everything will happen in a rapid succession of events. The generation that sees the “Abomination of desolation” will also see the end. The problem is that Jesus does not say “that” generation, but rather “this” generation. The connection to the “Abomination of desolation” is also unclear. Despite this being the pivotal event of the end times, the textual connection of “This Generation” to this particular event is not obvious.
 
 The fourth interpretation, which I will defend in the following lines, is that “This Generation” is perverse humanity that rejects God and his Messiah. In particular the Jews who reject Jesus. Until all these things are fulfilled, there will always be Jews who reject Jesus as Messiah, but in the end every Jew will convert. It could be said that stating that the wicked will always exist is a truism without much meaning, but against this idea I want to propose three arguments.
 
@@ -67,7 +67,7 @@ To support this proposal I will give three lines of arguments
 
 ### 1 -  “This Generation” in the OT
 
-The word used to search the old testament was דור (pain, strong H1755). This word can mean “generation” or “age” or “posterity”. It is a concept related to the passage of time.
+The word used to search the old testament was דור (dor, strong H1755). This word can mean “generation” or “age” or “posterity”. It is a concept related to the passage of time.
 
 The first time this word expression is used is about the life of Noah.
 
