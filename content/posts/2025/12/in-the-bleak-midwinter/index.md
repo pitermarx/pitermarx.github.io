@@ -3,6 +3,7 @@ title: "In the Bleak Midwinter"
 date: "2025-12-03"
 tags:
   - "lyrics"
+  - "christmas"
 categories:
   - "images"
   - "shares"
