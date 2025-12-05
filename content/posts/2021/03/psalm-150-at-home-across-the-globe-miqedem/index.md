@@ -8,6 +8,7 @@ categories:
 
 {{< youtube qqmKsAtFyNc >}}
 
+<pre>
 Hallelu el bekodsho
 (Praise God in His sanctuary)
 Halleluhu birki'a uzo
@@ -33,3 +34,4 @@ Halleluhu betzilzelei tru'a
 Kol han'shama tehalel ya
 (Let everything that has breath praise the Lord)
 Hallelujah Hallelujah
+</pre>
