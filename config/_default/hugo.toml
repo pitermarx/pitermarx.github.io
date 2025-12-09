@@ -9,3 +9,6 @@ summaryLength = 10
 
 [pagination]
   pagerSize = 40
+
+[permalinks]
+  posts = '/:year/:month/:title/'

@@ -2,7 +2,6 @@
 title: "Feedback Loops"
 date: "2023-10-04"
 categories:
-categories:
   - "longs"
   - "original"
 tags:
