@@ -42,12 +42,12 @@ jobs:
         with:
           hugo-version: '0.121.1'
           extended: true
-      - uses: actions/cache@v4
-        with:
-          path: ${{ env.HUGO_CACHEDIR }} # <- Use the same env variable just right here
-          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
-          restore-keys: |
-            ${{ runner.os }}-hugomod-
+      # - uses: actions/cache@v4
+      #   with:
+      #     path: ${{ env.HUGO_CACHEDIR }} # <- Use the same env variable just right here
+      #     key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
+      #     restore-keys: |
+      #       ${{ runner.os }}-hugomod-
       - name: Build
         run: hugo --minify --logLevel debug
       - name: Upload artifact
