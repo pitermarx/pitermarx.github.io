@@ -1,5 +1,5 @@
 ---
-title: "♥"
+title: "<3"
 date: "2008-03-05"
 categories: 
   - "images"
