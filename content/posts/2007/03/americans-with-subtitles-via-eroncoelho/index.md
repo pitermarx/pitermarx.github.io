@@ -1,5 +1,5 @@
 ---
-title: "Americans..."
+title: "Americans"
 date: "2007-03-09"
 categories:
   - "shares"

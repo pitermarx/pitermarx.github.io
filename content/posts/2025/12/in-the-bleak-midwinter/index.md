@@ -5,7 +5,7 @@ tags:
   - "lyrics"
   - "christmas"
 categories:
-  - "images"
+  - "videos"
   - "shares"
 ---
 

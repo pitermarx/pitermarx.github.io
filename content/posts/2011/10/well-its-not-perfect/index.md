@@ -1,5 +1,5 @@
 ---
-title: "Well... Its not perfect..."
+title: "Well, Its not perfect"
 date: "2011-10-16"
 categories: 
   - "images"

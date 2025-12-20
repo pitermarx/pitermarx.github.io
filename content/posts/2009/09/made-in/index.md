@@ -1,5 +1,5 @@
 ---
-title: "Made in..."
+title: "Made in"
 date: "2009-09-18"
 categories:
   - "shares"

@@ -1,5 +1,5 @@
 ---
-title: "I can relate..."
+title: "I can relate"
 date: "2011-12-02"
 categories:
   - "quotes"

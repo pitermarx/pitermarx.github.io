@@ -1,5 +1,5 @@
 ---
-title: "In case of nothing to do..."
+title: "In case of nothing to do"
 date: "2011-10-02"
 categories: 
   - "images"

@@ -46,10 +46,10 @@
           </a>
         </div>
       {{ end }}
-      {{- partial "footer.html" . -}}
       {{ if .Site.Params.enableSearch | default false }}
         {{- partial "search.html" . -}}
       {{ end }}
+      {{- partial "footer.html" . -}}
     </div>
   </body>
 </html>

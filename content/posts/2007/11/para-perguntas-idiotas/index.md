@@ -1,5 +1,5 @@
 ---
-title: "Para perguntas idiotas..."
+title: "Para perguntas idiotas"
 date: "2007-11-08"
 categories: 
   - "quotes"

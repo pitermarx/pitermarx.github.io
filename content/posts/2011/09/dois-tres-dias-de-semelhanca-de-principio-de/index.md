@@ -1,5 +1,5 @@
 ---
-title: "Fernando Pessoa..."
+title: "Fernando Pessoa"
 date: "2011-09-02"
 categories:
   - "quotes"
