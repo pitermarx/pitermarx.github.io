@@ -7,7 +7,7 @@ categories:
 tags:
   - "christianity"
 ---
-
+<pre>
 Por Lázaro Jesus chorava.
 Diziam: “Vede como o amava”.
 O Senhor da Vida o céu fitou,
@@ -35,3 +35,4 @@ Todos os santos se levantarão,
 a morte deixará de reinar,
 e toda a lágrima Deus vai enxugar;
 Mesmo aquelas vertidas por Cristo.
+</pre>
