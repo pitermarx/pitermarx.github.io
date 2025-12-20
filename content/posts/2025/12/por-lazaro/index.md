@@ -9,7 +9,7 @@ tags:
 ---
 
 (Translated by AI from the [PT version](/pt/2025/12/jesus-chorou))
-
+<pre>
 For Lazarus, Jesus wept.
 They said, “See how He loved him so.”
 The Lord of Life looked up to heaven,
@@ -37,7 +37,7 @@ All the saints shall rise again,
 death shall no longer rule nor reign,
 and every tear God will wipe away —
 even those once shed by Christ Himself.
-
+</pre>
 The AI song is pretty good too
 
 <iframe src="https://suno.com/embed/3c627506-f2b4-4f32-af0f-1da3a76977ce" width="760" height="240" frameborder="0" allow="autoplay; encrypted-media; fullscreen" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"><a href="https://suno.com/song/3c627506-f2b4-4f32-af0f-1da3a76977ce">Listen on Suno</a></iframe>
