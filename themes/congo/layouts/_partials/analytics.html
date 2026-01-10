@@ -15,11 +15,7 @@
     {{- if isset . "region" }}
       {{- $region = .region }}
     {{- end }}
-    <script
-      defer
-      src="https://{{ $region }}.umami.is/script.js"
-      data-website-id="{{ .site }}"
-    ></script>
+    <script defer src="https://um.vps.pitermarx.com/script.js" data-website-id="0603dbbd-23ef-4ce8-9c8d-50e3c1c72dbf"></script>
   {{ end }}
   {{ template "_internal/google_analytics.html" . }}
 {{ end }}
