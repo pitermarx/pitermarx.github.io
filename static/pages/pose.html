@@ -1,0 +1,1095 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pose Tetris</title>
+    <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background: #090910;
+            color: #b8b8d0;
+            font-family: 'Share Tech Mono', 'Courier New', monospace;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 24px 28px 36px;
+            gap: 24px;
+        }
+
+        h1 {
+            font-size: 3rem;
+            letter-spacing: 0.36em;
+            color: #00f5d4;
+            text-shadow: 0 0 28px #00f5d488, 0 0 60px #00f5d422;
+        }
+
+        .layout {
+            display: flex;
+            gap: 30px;
+            align-items: flex-start;
+        }
+
+        /* ── Camera panel ── */
+        .panel-cam {
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+            width: 640px;
+        }
+
+        .cam-box {
+            position: relative;
+            width: 640px;
+            height: 480px;
+            border: 1px solid #00f5d42a;
+            border-radius: 8px;
+            overflow: hidden;
+            background: #040408;
+        }
+
+        #vid {
+            display: none;
+        }
+
+        #cam-canvas {
+            width: 640px;
+            height: 480px;
+            display: block;
+            transform: scaleX(-1);
+        }
+
+        .init-overlay {
+            position: absolute;
+            inset: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background: #090910ee;
+            font-size: 1.1rem;
+            color: #00f5d4;
+            gap: 14px;
+            z-index: 5;
+            text-align: center;
+            padding: 24px;
+        }
+
+        .init-overlay small {
+            color: #444;
+            font-size: 0.9rem;
+        }
+
+        .spinner {
+            width: 42px;
+            height: 42px;
+            border: 4px solid #00f5d41a;
+            border-top-color: #00f5d4;
+            border-radius: 50%;
+            animation: spin 0.9s linear infinite;
+        }
+
+        @keyframes spin {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+        /* Gesture indicators */
+        .gestures {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+        }
+
+        .g {
+            border: 1px solid #181824;
+            border-radius: 6px;
+            padding: 13px 12px;
+            font-size: 0.95rem;
+            color: #333;
+            text-align: center;
+            letter-spacing: 0.07em;
+            transition: border-color 0.12s, color 0.12s, background 0.12s, text-shadow 0.12s;
+        }
+
+        .g.wide {
+            grid-column: 1 / -1;
+        }
+
+        .g.on {
+            border-color: #00f5d4;
+            color: #00f5d4;
+            background: #00f5d40c;
+            text-shadow: 0 0 8px #00f5d4bb;
+        }
+
+        .g.start.on {
+            border-color: #ffd600;
+            color: #ffd600;
+            background: #ffd60012;
+            text-shadow: 0 0 10px #ffd60099;
+        }
+
+        .g.move.on {
+            border-color: #6ef9a7;
+            color: #6ef9a7;
+            background: #6ef9a711;
+            text-shadow: 0 0 10px #6ef9a799;
+        }
+
+        .g.drop.on {
+            border-color: #ff3e6c;
+            color: #ff3e6c;
+            background: #ff3e6c0c;
+            text-shadow: 0 0 8px #ff3e6cbb;
+        }
+
+        .cam-status {
+            font-size: 0.95rem;
+            color: #2a2a3a;
+            text-align: center;
+            height: 24px;
+        }
+
+        /* ── Game panel ── */
+        .panel-game {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 16px;
+        }
+
+        #tetris {
+            border: 1px solid #00f5d42a;
+            border-radius: 6px;
+            display: block;
+            width: 450px;
+            height: 900px;
+            image-rendering: pixelated;
+        }
+
+        .game-actions {
+            display: flex;
+            gap: 10px;
+        }
+
+        .game-btn {
+            font-family: inherit;
+            font-size: 1.06rem;
+            letter-spacing: 0.18em;
+            background: transparent;
+            padding: 12px 30px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background 0.18s, box-shadow 0.18s;
+        }
+
+        #btn-start {
+            border: 1px solid #00f5d4;
+            color: #00f5d4;
+        }
+
+        #btn-start:hover {
+            background: #00f5d40f;
+            box-shadow: 0 0 14px #00f5d444;
+        }
+
+        #btn-restart {
+            border: 1px solid #ff3e6c;
+            color: #ff3e6c;
+        }
+
+        #btn-restart:hover {
+            background: #ff3e6c12;
+            box-shadow: 0 0 14px #ff3e6c44;
+        }
+
+        /* ── Side panel ── */
+        .panel-side {
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+            width: 220px;
+        }
+
+        .stat {
+            border: 1px solid #15151f;
+            border-radius: 6px;
+            padding: 16px 16px;
+        }
+
+        .stat-label {
+            font-size: 0.8rem;
+            color: #383848;
+            letter-spacing: 0.16em;
+            margin-bottom: 6px;
+        }
+
+        .stat-val {
+            font-size: 2.1rem;
+            color: #00f5d4;
+        }
+
+        #next-canvas {
+            display: block;
+            border: 1px solid #15151f;
+            border-radius: 6px;
+            width: 180px;
+            height: 120px;
+        }
+
+        .hint {
+            font-size: 0.88rem;
+            color: #282838;
+            line-height: 1.85;
+            border: 1px solid #111118;
+            border-radius: 6px;
+            padding: 14px 16px;
+        }
+
+        .hint .dim {
+            color: #1c1c28;
+        }
+
+        @media (max-width: 1600px) {
+            body {
+                padding: 16px;
+                gap: 14px;
+            }
+
+            h1 {
+                font-size: 2.1rem;
+            }
+
+            .layout {
+                gap: 18px;
+            }
+
+            .panel-cam {
+                width: 480px;
+            }
+
+            .cam-box {
+                width: 480px;
+                height: 360px;
+            }
+
+            #cam-canvas {
+                width: 480px;
+                height: 360px;
+            }
+
+            #tetris {
+                width: 380px;
+                height: 760px;
+            }
+
+            .panel-side {
+                width: 180px;
+            }
+
+            #next-canvas {
+                width: 140px;
+                height: 96px;
+            }
+        }
+
+        @media (max-width: 980px) {
+            .layout {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .panel-cam {
+                width: min(94vw, 640px);
+            }
+
+            .cam-box {
+                width: min(94vw, 640px);
+                height: auto;
+                aspect-ratio: 4 / 3;
+            }
+
+            #cam-canvas {
+                width: 100%;
+                height: 100%;
+            }
+
+            #tetris {
+                width: min(92vw, 450px);
+                height: calc(min(92vw, 450px) * 2);
+            }
+
+            .panel-side {
+                width: min(92vw, 360px);
+            }
+
+            #next-canvas {
+                width: 100%;
+                max-width: 180px;
+                height: 120px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>POSE TETRIS</h1>
+
+    <div class="layout">
+
+        <!-- Camera -->
+        <div class="panel-cam">
+            <div class="cam-box">
+                <video id="vid" playsinline></video>
+                <canvas id="cam-canvas" width="640" height="480"></canvas>
+                <div class="init-overlay" id="overlay">
+                    <div class="spinner"></div>
+                    <div>Loading camera…</div>
+                    <small>Allow camera access when prompted</small>
+                </div>
+            </div>
+            <div class="gestures">
+                <div class="g wide start" id="g-start">HOLD T POSE 3S → START OR RESTART</div>
+                <div class="g" id="g-left">◀ LEFT WRIST TO SHOULDER<br><span style="color:#222;font-size:0.75rem">rotate
+                        CCW</span></div>
+                <div class="g" id="g-right">RIGHT WRIST TO SHOULDER ▶<br><span
+                        style="color:#222;font-size:0.75rem">rotate
+                        CW</span>
+                </div>
+                <div class="g move" id="g-l-left">L LEFT<br><span style="color:#222;font-size:0.75rem">move left</span>
+                </div>
+                <div class="g move" id="g-l-right">L RIGHT<br><span style="color:#222;font-size:0.75rem">move
+                        right</span></div>
+                <div class="g wide drop" id="g-drop">↓ BOTH ARMS DOWN → HARD DROP</div>
+            </div>
+            <div class="cam-status" id="cam-status">Initialising…</div>
+        </div>
+
+        <!-- Game -->
+        <div class="panel-game">
+            <canvas id="tetris" width="450" height="900"></canvas>
+            <div class="game-actions">
+                <button id="btn-start" class="game-btn" type="button">START</button>
+                <button id="btn-restart" class="game-btn" type="button">RESTART</button>
+            </div>
+        </div>
+
+        <!-- Side -->
+        <div class="panel-side">
+            <div class="stat">
+                <div class="stat-label">SCORE</div>
+                <div class="stat-val" id="score">0</div>
+            </div>
+            <div class="stat">
+                <div class="stat-label">LEVEL</div>
+                <div class="stat-val" id="level">1</div>
+            </div>
+            <div class="stat">
+                <div class="stat-label">LINES</div>
+                <div class="stat-val" id="lines">0</div>
+            </div>
+            <div class="stat">
+                <div class="stat-label">NEXT</div>
+                <canvas id="next-canvas" width="180" height="120"></canvas>
+            </div>
+            <div class="hint">
+                <span style="color:#333">— KEYBOARD —</span><br>
+                ← → &nbsp;move<br>
+                ↑ &nbsp;&nbsp;&nbsp;&nbsp;rotate CW<br>
+                Z &nbsp;&nbsp;&nbsp;&nbsp;rotate CCW<br>
+                ↓ &nbsp;&nbsp;&nbsp;&nbsp;soft drop<br>
+                SPC &nbsp;hard drop<br>
+                <span class="dim">─────────────</span><br>
+                <span style="color:#333">— CAMERA —</span><br>
+                hold T pose 3s = start/restart<br>
+                both up = reset/neutral<br>
+                wrist to shoulder = rotate<br>
+                both ↓ drop<br>
+                L shape = move
+            </div>
+        </div>
+
+    </div>
+
+    <!-- MediaPipe -->
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/pose/pose.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils/drawing_utils.js"
+        crossorigin="anonymous"></script>
+
+    <script type="module">
+        // ═══════════════════════════════════════════════════════════════
+        //  CONSTANTS
+        // ═══════════════════════════════════════════════════════════════
+
+        const COLS = 10;
+        const ROWS = 20;
+        const CELL = 45;
+
+        const COLORS = [
+            null,
+            '#00e5ff', // 1 I  – cyan
+            '#ffd600', // 2 O  – yellow
+            '#ce93d8', // 3 T  – lavender
+            '#69f0ae', // 4 S  – green
+            '#ff5252', // 5 Z  – red
+            '#448aff', // 6 J  – blue
+            '#ff9800', // 7 L  – orange
+        ];
+
+        const SHAPES = [
+            null,
+            [[0, 0, 0, 0], [1, 1, 1, 1], [0, 0, 0, 0], [0, 0, 0, 0]], // I
+            [[1, 1], [1, 1]],                               // O
+            [[0, 1, 0], [1, 1, 1], [0, 0, 0]],                  // T
+            [[0, 1, 1], [1, 1, 0], [0, 0, 0]],                  // S
+            [[1, 1, 0], [0, 1, 1], [0, 0, 0]],                  // Z
+            [[1, 0, 0], [1, 1, 1], [0, 0, 0]],                  // J
+            [[0, 0, 1], [1, 1, 1], [0, 0, 0]],                  // L
+        ];
+
+        // ═══════════════════════════════════════════════════════════════
+        //  TETRIS ENGINE
+        // ═══════════════════════════════════════════════════════════════
+
+        class Game {
+            constructor(canvas, nextCanvas) {
+                this.canvas = canvas;
+                this.ctx = canvas.getContext('2d');
+                this.nextCanvas = nextCanvas;
+                this.nCtx = nextCanvas.getContext('2d');
+                this._state = {};
+                this.reset();
+            }
+
+            reset() {
+                this.board = Array.from({ length: ROWS }, () => new Array(COLS).fill(0));
+                this.score = 0;
+                this.lines = 0;
+                this.level = 1;
+                this.dropMs = 1000;
+                this.running = false;
+                this.over = false;
+                this.piece = null;
+                this.next = null;
+                this.raf = null;
+                this.lastTime = 0;
+                this.dropAccum = 0;
+            }
+
+            start() {
+                if (this.raf) cancelAnimationFrame(this.raf);
+                this.reset();
+                this.running = true;
+                this.next = this._newPiece();
+                this._spawn();
+                this._updateUI();
+                this.raf = requestAnimationFrame(t => this._loop(t));
+            }
+
+            // ── Piece creation ──
+
+            _newPiece() {
+                const t = Math.floor(Math.random() * 7) + 1;
+                return { t, m: SHAPES[t].map(r => [...r]), x: 0, y: 0 };
+            }
+
+            _spawn() {
+                this.piece = this.next;
+                this.piece.x = Math.floor(COLS / 2) - Math.floor(this.piece.m[0].length / 2);
+                this.piece.y = 0;
+                this.next = this._newPiece();
+                if (this._hits(this.piece)) {
+                    this.over = true;
+                    this.running = false;
+                }
+            }
+
+            // ── Collision ──
+
+            _hits(p) {
+                for (let r = 0; r < p.m.length; r++) {
+                    for (let c = 0; c < p.m[r].length; c++) {
+                        if (!p.m[r][c]) continue;
+                        const bx = p.x + c;
+                        const by = p.y + r;
+                        if (bx < 0 || bx >= COLS || by >= ROWS) return true;
+                        if (by >= 0 && this.board[by][bx]) return true;
+                    }
+                }
+                return false;
+            }
+
+            // ── Rotation (clockwise or CCW) ──
+
+            rotate(dir) {
+                const m = this.piece.m;
+                const N = m.length;
+                const M = m[0].length;
+                let nm;
+                if (dir > 0) {
+                    // clockwise: result[r][c] = original[N-1-c][r]
+                    nm = Array.from({ length: M }, (_, r) =>
+                        Array.from({ length: N }, (_, c) => m[N - 1 - c][r])
+                    );
+                } else {
+                    // counter-clockwise: result[r][c] = original[c][M-1-r]
+                    nm = Array.from({ length: M }, (_, r) =>
+                        Array.from({ length: N }, (_, c) => m[c][M - 1 - r])
+                    );
+                }
+                const prev = this.piece.m;
+                this.piece.m = nm;
+                // wall kick attempts
+                for (const kick of [0, -1, 1, -2, 2]) {
+                    this.piece.x += kick;
+                    if (!this._hits(this.piece)) return; // success
+                    this.piece.x -= kick;
+                }
+                // rotation impossible
+                this.piece.m = prev;
+            }
+
+            // ── Horizontal movement ──
+
+            moveH(d) {
+                this.piece.x += d;
+                if (this._hits(this.piece)) this.piece.x -= d;
+            }
+
+            // ── Drops ──
+
+            softDrop() {
+                this.piece.y++;
+                if (this._hits(this.piece)) {
+                    this.piece.y--;
+                    this._lock();
+                }
+            }
+
+            hardDrop() {
+                while (!this._hits({ ...this.piece, y: this.piece.y + 1 })) {
+                    this.piece.y++;
+                }
+                this._lock();
+            }
+
+            _lock() {
+                for (let r = 0; r < this.piece.m.length; r++) {
+                    for (let c = 0; c < this.piece.m[r].length; c++) {
+                        if (!this.piece.m[r][c]) continue;
+                        const by = this.piece.y + r;
+                        if (by >= 0) this.board[by][this.piece.x + c] = this.piece.t;
+                    }
+                }
+                this._sweep();
+                this._spawn();
+            }
+
+            _sweep() {
+                let n = 0;
+                for (let r = ROWS - 1; r >= 0; r--) {
+                    if (this.board[r].every(v => v)) {
+                        this.board.splice(r, 1);
+                        this.board.unshift(new Array(COLS).fill(0));
+                        n++;
+                        r++; // recheck same row index
+                    }
+                }
+                if (!n) return;
+                const pts = [0, 100, 300, 500, 800];
+                this.score += (pts[Math.min(n, 4)] || 800) * this.level;
+                this.lines += n;
+                this.level = Math.floor(this.lines / 10) + 1;
+                this.dropMs = Math.max(80, 1000 - (this.level - 1) * 80);
+                this._updateUI();
+            }
+
+            _updateUI() {
+                document.getElementById('score').textContent = this.score;
+                document.getElementById('level').textContent = this.level;
+                document.getElementById('lines').textContent = this.lines;
+            }
+
+            // ── Game loop ──
+
+            _loop(t) {
+                if (!this.running) {
+                    this.draw();
+                    this.drawNext();
+                    return;
+                }
+                this.raf = requestAnimationFrame(ts => this._loop(ts));
+                if (this.lastTime) {
+                    const dt = t - this.lastTime;
+                    this.dropAccum += dt;
+                    if (this.dropAccum >= this.dropMs) {
+                        this.softDrop();
+                        this.dropAccum = 0;
+                    }
+                }
+                this.lastTime = t;
+                this.draw();
+                this.drawNext();
+            }
+
+            // ── Ghost piece ──
+
+            _ghostY() {
+                let y = this.piece.y;
+                while (!this._hits({ ...this.piece, y: y + 1 })) y++;
+                return y;
+            }
+
+            // ── Drawing ──
+
+            _drawCell(ctx, x, y, color, alpha) {
+                alpha = alpha === undefined ? 1 : alpha;
+                ctx.globalAlpha = alpha;
+                ctx.fillStyle = color;
+                const px = x * CELL + 1;
+                const py = y * CELL + 1;
+                const sz = CELL - 2;
+                ctx.fillRect(px, py, sz, sz);
+                // top shine
+                const shine = ctx.createLinearGradient(px, py, px, py + sz * 0.5);
+                shine.addColorStop(0, 'rgba(255,255,255,0.20)');
+                shine.addColorStop(1, 'rgba(255,255,255,0)');
+                ctx.fillStyle = shine;
+                ctx.fillRect(px, py, sz, sz * 0.45);
+                ctx.globalAlpha = 1;
+            }
+
+            draw() {
+                const ctx = this.ctx;
+                const W = this.canvas.width;
+                const H = this.canvas.height;
+
+                // Background
+                ctx.fillStyle = '#07070d';
+                ctx.fillRect(0, 0, W, H);
+
+                // Grid lines
+                ctx.strokeStyle = '#101018';
+                ctx.lineWidth = 1;
+                for (let r = 0; r <= ROWS; r++) {
+                    ctx.beginPath();
+                    ctx.moveTo(0, r * CELL + 0.5);
+                    ctx.lineTo(W, r * CELL + 0.5);
+                    ctx.stroke();
+                }
+                for (let c = 0; c <= COLS; c++) {
+                    ctx.beginPath();
+                    ctx.moveTo(c * CELL + 0.5, 0);
+                    ctx.lineTo(c * CELL + 0.5, H);
+                    ctx.stroke();
+                }
+
+                // Locked cells
+                for (let r = 0; r < ROWS; r++) {
+                    for (let c = 0; c < COLS; c++) {
+                        if (this.board[r][c]) {
+                            this._drawCell(ctx, c, r, COLORS[this.board[r][c]]);
+                        }
+                    }
+                }
+
+                if (this.piece) {
+                    // Ghost
+                    const gy = this._ghostY();
+                    for (let r = 0; r < this.piece.m.length; r++) {
+                        for (let c = 0; c < this.piece.m[r].length; c++) {
+                            if (this.piece.m[r][c]) {
+                                this._drawCell(ctx, this.piece.x + c, gy + r, COLORS[this.piece.t], 0.16);
+                            }
+                        }
+                    }
+                    // Active piece
+                    for (let r = 0; r < this.piece.m.length; r++) {
+                        for (let c = 0; c < this.piece.m[r].length; c++) {
+                            if (this.piece.m[r][c]) {
+                                this._drawCell(ctx, this.piece.x + c, this.piece.y + r, COLORS[this.piece.t]);
+                            }
+                        }
+                    }
+                }
+
+                // Game over overlay
+                if (this.over) {
+                    ctx.fillStyle = 'rgba(0,0,0,0.78)';
+                    ctx.fillRect(0, 0, W, H);
+                    ctx.fillStyle = '#ff3e6c';
+                    ctx.font = "bold 46px 'Share Tech Mono', monospace";
+                    ctx.textAlign = 'center';
+                    ctx.fillText('GAME OVER', W / 2, H / 2 - 22);
+                    ctx.fillStyle = '#333';
+                    ctx.font = "20px 'Share Tech Mono', monospace";
+                    ctx.fillText('hold T pose 3s to restart', W / 2, H / 2 + 30);
+                    ctx.textAlign = 'left';
+                }
+
+                // Idle screen
+                if (!this.running && !this.over) {
+                    ctx.fillStyle = 'rgba(0,0,0,0.55)';
+                    ctx.fillRect(0, 0, W, H);
+                    ctx.fillStyle = '#00f5d4';
+                    ctx.font = "26px 'Share Tech Mono', monospace";
+                    ctx.textAlign = 'center';
+                    ctx.fillText('Hold T pose 3s to start', W / 2, H / 2);
+                    ctx.textAlign = 'left';
+                }
+            }
+
+            drawNext() {
+                const ctx = this.nCtx;
+                const W = this.nextCanvas.width;
+                const H = this.nextCanvas.height;
+                ctx.fillStyle = '#07070d';
+                ctx.fillRect(0, 0, W, H);
+                if (!this.next) return;
+                const s = Math.max(22, Math.floor(Math.min(W / 6, H / 4)));
+                const m = this.next.m;
+                const ox = Math.floor((W - m[0].length * s) / 2);
+                const oy = Math.floor((H - m.length * s) / 2);
+                for (let r = 0; r < m.length; r++) {
+                    for (let c = 0; c < m[r].length; c++) {
+                        if (m[r][c]) {
+                            ctx.fillStyle = COLORS[this.next.t];
+                            ctx.fillRect(ox + c * s + 1, oy + r * s + 1, s - 2, s - 2);
+                        }
+                    }
+                }
+            }
+        }
+
+        // ═══════════════════════════════════════════════════════════════
+        //  GAME INSTANCE
+        // ═══════════════════════════════════════════════════════════════
+
+        const game = new Game(
+            document.getElementById('tetris'),
+            document.getElementById('next-canvas')
+        );
+        const btnStart = document.getElementById('btn-start');
+        const btnRestart = document.getElementById('btn-restart');
+
+        game.draw();
+
+        btnStart.addEventListener('click', () => game.start());
+        btnRestart.addEventListener('click', () => game.start());
+
+        // Keyboard fallback
+        document.addEventListener('keydown', e => {
+            if (!game.running) {
+                if ((e.code === 'Space' || e.code === 'Enter') && !e.repeat) {
+                    e.preventDefault();
+                    game.start();
+                }
+                return;
+            }
+            switch (e.code) {
+                case 'ArrowLeft': game.moveH(-1); break;
+                case 'ArrowRight': game.moveH(1); break;
+                case 'ArrowDown': game.softDrop(); break;
+                case 'ArrowUp': game.rotate(1); break;
+                case 'KeyZ': game.rotate(-1); break;
+                case 'Space':
+                    e.preventDefault();
+                    game.hardDrop();
+                    break;
+            }
+        });
+
+        // ═══════════════════════════════════════════════════════════════
+        //  GESTURE / POSE DETECTION
+        // ═══════════════════════════════════════════════════════════════
+
+        // Tuning constants
+        const ARM_DOWN_THR = 0.14;
+        const ARM_UP_THR = 0.08;
+        const ARM_HORIZ_THR = 0.12;
+        const ARM_SIDE_EXT_THR = 0.10;
+        const T_POSE_SPAN_MULT = 1.35;
+        const WRIST_TOUCH_MULT = 0.33;
+        const WRIST_TOUCH_MIN = 0.045;
+        const START_HOLD_MS = 3000;
+
+        let poseReady = false;
+        let actionArmed = false;
+        let startLatched = false;
+        let startHoldStartMs = null;
+        let dropLatched = false;
+
+        const elOverlay = document.getElementById('overlay');
+        const elStatus = document.getElementById('cam-status');
+        const elGStart = document.getElementById('g-start');
+        const elGLeft = document.getElementById('g-left');
+        const elGRight = document.getElementById('g-right');
+        const elGLLeft = document.getElementById('g-l-left');
+        const elGLRight = document.getElementById('g-l-right');
+        const elGDrop = document.getElementById('g-drop');
+
+        function setActive(el, on) {
+            el.classList.toggle('on', on);
+        }
+
+        function clearGestureIndicators() {
+            setActive(elGStart, false);
+            setActive(elGLeft, false);
+            setActive(elGRight, false);
+            setActive(elGLLeft, false);
+            setActive(elGLRight, false);
+            setActive(elGDrop, false);
+        }
+
+        function poseLabel(pose) {
+            switch (pose) {
+                case 'neutral': return 'Neutral (arms up)';
+                case 'start': return 'T pose';
+                case 'drop': return 'Both arms down';
+                case 'rotate-left': return 'Left wrist to shoulder';
+                case 'rotate-right': return 'Right wrist to shoulder';
+                case 'move-left': return 'L left';
+                case 'move-right': return 'L right';
+                default: return 'Pose unclear';
+            }
+        }
+
+        function classifyPose(lm) {
+            // MediaPipe landmark indices (person's perspective, not camera)
+            // 11 = LEFT_SHOULDER, 12 = RIGHT_SHOULDER
+            // 15 = LEFT_WRIST,    16 = RIGHT_WRIST
+            const ls = lm[11];
+            const rs = lm[12];
+            const lw = lm[15];
+            const rw = lm[16];
+
+            if (!ls || !rs || !lw || !rw) return null;
+            if (ls.visibility < 0.45 || rs.visibility < 0.45) return null;
+            if (lw.visibility < 0.35 || rw.visibility < 0.35) return null;
+
+            const lDown = (lw.y - ls.y) > ARM_DOWN_THR;
+            const rDown = (rw.y - rs.y) > ARM_DOWN_THR;
+            const lUp = (ls.y - lw.y) > ARM_UP_THR;
+            const rUp = (rs.y - rw.y) > ARM_UP_THR;
+            const lHoriz = Math.abs(lw.y - ls.y) < ARM_HORIZ_THR && Math.abs(lw.x - ls.x) > ARM_SIDE_EXT_THR;
+            const rHoriz = Math.abs(rw.y - rs.y) < ARM_HORIZ_THR && Math.abs(rw.x - rs.x) > ARM_SIDE_EXT_THR;
+            const shoulderSpan = Math.max(0.05, Math.abs(rs.x - ls.x));
+            const wristSpan = Math.abs(rw.x - lw.x);
+            const touchThr = Math.max(WRIST_TOUCH_MIN, shoulderSpan * WRIST_TOUCH_MULT);
+            const lTouch = Math.hypot(lw.x - ls.x, lw.y - ls.y) < touchThr;
+            const rTouch = Math.hypot(rw.x - rs.x, rw.y - rs.y) < touchThr;
+            const tPoseWide = wristSpan > shoulderSpan * T_POSE_SPAN_MULT;
+
+            if (lUp && rUp) return 'neutral';
+            if (lHoriz && rHoriz && tPoseWide) return 'start';
+            if (lDown && rDown) return 'drop';
+            if (lTouch && !rTouch) return 'rotate-left';
+            if (rTouch && !lTouch) return 'rotate-right';
+            if (lHoriz && rUp && !rHoriz) return 'move-left';
+            if (rHoriz && lUp && !lHoriz) return 'move-right';
+            return 'other';
+        }
+
+        function processGestures(lm) {
+            const pose = classifyPose(lm);
+
+            if (!pose) {
+                elStatus.textContent = 'Pose unclear - raise both arms to reset';
+                clearGestureIndicators();
+                startHoldStartMs = null;
+                startLatched = false;
+                return;
+            }
+
+            elStatus.textContent = `Pose: ${poseLabel(pose)}`;
+            setActive(elGStart, pose === 'start');
+            setActive(elGLeft, pose === 'rotate-left');
+            setActive(elGRight, pose === 'rotate-right');
+            setActive(elGLLeft, pose === 'move-left');
+            setActive(elGLRight, pose === 'move-right');
+            setActive(elGDrop, pose === 'drop');
+
+            if (pose === 'start') {
+                const now = performance.now();
+                if (startHoldStartMs === null) startHoldStartMs = now;
+                const heldMs = now - startHoldStartMs;
+                const remainingMs = Math.max(0, START_HOLD_MS - heldMs);
+
+                if (!startLatched && remainingMs <= 0) {
+                    const wasRunning = game.running;
+                    game.start();
+                    startLatched = true;
+                    actionArmed = false;
+                    dropLatched = false;
+                    elStatus.textContent = wasRunning ? 'T pose held 3s - game restarted' : 'T pose held 3s - game started';
+                } else if (!startLatched) {
+                    elStatus.textContent = `Hold T pose ${(remainingMs / 1000).toFixed(1)}s to ${game.running ? 'restart' : 'start'}`;
+                }
+
+                return;
+            }
+
+            startHoldStartMs = null;
+            startLatched = false;
+
+            if (pose === 'neutral') {
+                actionArmed = true;
+                dropLatched = false;
+                elStatus.textContent = 'Neutral ready - choose gesture';
+                return;
+            }
+
+            if (!game.running) {
+                elStatus.textContent = 'Hold T pose for 3s to start';
+                return;
+            }
+
+            if (pose === 'drop') {
+                if (!dropLatched) {
+                    game.hardDrop();
+                    dropLatched = true;
+                    actionArmed = false;
+                }
+                return;
+            }
+
+            if (!actionArmed) return;
+
+            if (pose === 'rotate-left') {
+                game.rotate(-1);
+                actionArmed = false;
+                return;
+            }
+
+            if (pose === 'rotate-right') {
+                game.rotate(1);
+                actionArmed = false;
+                return;
+            }
+
+            if (pose === 'move-left') {
+                game.moveH(-1);
+                actionArmed = false;
+                return;
+            }
+
+            if (pose === 'move-right') {
+                game.moveH(1);
+                actionArmed = false;
+            }
+        }
+
+        // ── Camera canvas rendering ──
+
+        function onResults(results) {
+            const canvas = document.getElementById('cam-canvas');
+            const ctx = canvas.getContext('2d');
+            ctx.save();
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            ctx.drawImage(results.image, 0, 0, canvas.width, canvas.height);
+
+            if (results.poseLandmarks) {
+                if (!poseReady) {
+                    poseReady = true;
+                    elOverlay.style.display = 'none';
+                }
+
+                // Skeleton overlay — note: canvas is CSS-mirrored so we draw at raw coords
+                if (typeof drawConnectors !== 'undefined') {
+                    drawConnectors(ctx, results.poseLandmarks, POSE_CONNECTIONS, {
+                        color: '#00f5d433',
+                        lineWidth: 2,
+                    });
+                    drawLandmarks(ctx, results.poseLandmarks, {
+                        color: '#00f5d4',
+                        fillColor: '#00f5d444',
+                        lineWidth: 1,
+                        radius: 3,
+                    });
+                }
+
+                elStatus.textContent = 'Pose detected ✓';
+                processGestures(results.poseLandmarks);
+            } else {
+                elStatus.textContent = 'No pose — step into frame';
+                clearGestureIndicators();
+                startHoldStartMs = null;
+                startLatched = false;
+            }
+
+            ctx.restore();
+        }
+
+        // ═══════════════════════════════════════════════════════════════
+        //  MEDIAPIPE INIT
+        // ═══════════════════════════════════════════════════════════════
+
+        function initPose() {
+            const vid = document.getElementById('vid');
+
+            const pose = new Pose({
+                locateFile: f => `https://cdn.jsdelivr.net/npm/@mediapipe/pose/${f}`,
+            });
+
+            pose.setOptions({
+                modelComplexity: 1,
+                smoothLandmarks: true,
+                enableSegmentation: false,
+                minDetectionConfidence: 0.5,
+                minTrackingConfidence: 0.5,
+            });
+
+            pose.onResults(onResults);
+
+            const cam = new Camera(vid, {
+                onFrame: async () => {
+                    await pose.send({ image: vid });
+                },
+                width: 640,
+                height: 480,
+            });
+
+            cam.start()
+                .then(() => {
+                    elOverlay.innerHTML = '<div>Step into frame…</div><small>Show your upper body & arms</small>';
+                    elStatus.textContent = 'Camera active — detecting pose…';
+                })
+                .catch(err => {
+                    elOverlay.innerHTML =
+                        `<div style="color:#ff3e6c">Camera error</div><small>${err.message || 'Permission denied'}</small>`;
+                    elStatus.textContent = 'Camera unavailable — keyboard only';
+                });
+        }
+
+        function tryInit() {
+            if (typeof Pose !== 'undefined' && typeof Camera !== 'undefined') {
+                initPose();
+            } else {
+                elStatus.textContent = 'MediaPipe not loaded — keyboard only';
+                elOverlay.innerHTML =
+                    '<div style="color:#ff5252;font-size:0.75rem">Pose lib unavailable</div><small>Use keyboard controls</small>';
+            }
+        }
+
+        // Wait for scripts + page load
+        if (document.readyState === 'complete') {
+            setTimeout(tryInit, 200);
+        } else {
+            window.addEventListener('load', () => setTimeout(tryInit, 200));
+        }
+    </script>
+</body>
+
+</html>
