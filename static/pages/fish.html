@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fish of the day</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg: #05101a;
+            --surface: #0a1e2e;
+            --accent: #2dd4bf;
+            --accent-dim: #1a7a6e;
+            --text: #e8f4f0;
+            --text-muted: #6b9e95;
+            --border: #122a3a;
+        }
+
+        html,
+        body {
+            height: 100%;
+        }
+
+        body {
+            font-family: Helvetica, Arial, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            padding: 2rem;
+        }
+
+        .label {
+            font-size: 11px;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+            color: var(--text-muted);
+            margin-bottom: 1.2rem;
+        }
+
+        .fish-name {
+            font-size: clamp(2.8rem, 10vw, 5rem);
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            color: var(--accent);
+            line-height: 1;
+        }
+    </style>
+</head>
+
+<body>
+
+    <p class="label">Fish of the day</p>
+    <h1 class="fish-name" id="fish-name"></h1>
+
+    <script type="module">
+        const FISH = [
+            "Anchovy", "Barracuda", "Catfish", "Darter", "Eel",
+            "Flounder", "Grouper", "Halibut", "Icefish", "Jackfish",
+            "Koi", "Lionfish", "Mackerel", "Needlefish", "Opah",
+            "Piranha", "Quillback", "Remora", "Swordfish", "Triggerfish",
+            "Unicornfish", "Viperfish", "Wahoo", "Xiphias", "Yellowtail",
+            "Zebrafish", "Anglerfish", "Bonefish", "Clownfish", "Dragonfish", "Escolar"
+        ]
+
+        const N = FISH.length
+
+        function getFirst() {
+            const raw = new URLSearchParams(location.search).get("first")
+            const n = parseInt(raw, 10)
+            if (!raw || isNaN(n) || n < 1 || n > N) return 1
+            return n
+        }
+
+        function fishForDate(date, first) {
+            const day = date.getDate()
+            const index = ((day - 1) + (first - 1)) % N
+            return { index, name: FISH[index] }
+        }
+
+
+
+        const today = new Date()
+        const first = getFirst()
+        const { name } = fishForDate(today, first)
+
+        document.getElementById("fish-name").textContent = name
+    </script>
+</body>
+
+</html>
