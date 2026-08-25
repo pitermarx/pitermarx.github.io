@@ -239,8 +239,8 @@
 
         .grid-card {
             max-width: 680px;
-            margin: 6px auto 0;
-            padding: 14px;
+            margin: 4px auto 0;
+            padding: 10px;
             background: #fff;
             border: 1px solid #e9ecef;
             border-radius: 12px;
@@ -248,15 +248,15 @@
 
         .grid-title {
             text-align: center;
-            font-size: 0.95rem;
+            font-size: 0.85rem;
             color: #495057;
-            margin-bottom: 12px;
+            margin-bottom: 8px;
         }
 
         .pg-grid {
             display: grid;
             grid-template-columns: repeat(7, 1fr);
-            gap: 5px;
+            gap: 4px;
         }
 
         .pg-head {
@@ -270,8 +270,8 @@
         }
 
         .pg-cell {
-            min-height: 48px;
-            padding: 5px 2px;
+            min-height: 42px;
+            padding: 4px 2px;
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -343,26 +343,11 @@
             box-shadow: inset 0 0 0 2px #e7f1ff, 0 0 0 2px rgba(0, 123, 255, 0.35);
         }
 
-        .legend {
-            text-align: center;
-            font-size: 0.78rem;
-            color: #6c757d;
-            margin-top: 12px;
-        }
-
-        .legend-today {
-            color: #007bff;
-        }
-
-        .legend-weekend {
-            color: #adb5bd;
-        }
-
         /* ---------- Roster do dia selecionado (mobile) ---------- */
         .roster-card {
             max-width: 680px;
-            margin: 12px auto 0;
-            padding: 4px 14px 14px;
+            margin: 10px auto 0;
+            padding: 2px 12px 10px;
             background: #fff;
             border: 1px solid #e9ecef;
             border-radius: 12px;
@@ -370,9 +355,9 @@
 
         .roster-title {
             text-align: center;
-            font-size: 0.95rem;
+            font-size: 0.88rem;
             color: #333;
-            margin: 12px 0 2px;
+            margin: 10px 0 2px;
         }
 
         .roster-weekday {
@@ -384,17 +369,17 @@
 
         .roster-sub {
             text-align: center;
-            font-size: 0.82rem;
+            font-size: 0.78rem;
             color: #495057;
-            margin: 8px 0 4px;
+            margin: 6px 0 2px;
         }
 
         .roster-group h4 {
-            font-size: 0.72rem;
+            font-size: 0.7rem;
             text-transform: uppercase;
             letter-spacing: 0.05em;
             color: #868e96;
-            margin: 12px 0 2px;
+            margin: 8px 0 2px;
         }
 
         .roster-row {
@@ -403,12 +388,12 @@
             justify-content: space-between;
             gap: 10px;
             width: 100%;
-            min-height: 46px;
-            padding: 8px 2px;
+            min-height: 42px;
+            padding: 6px 2px;
             border: none;
             border-bottom: 1px solid #f1f3f5;
             background: none;
-            font-size: 15px;
+            font-size: 14px;
             color: #333;
             cursor: pointer;
             text-align: left;
@@ -605,16 +590,16 @@
             display: flex;
             flex-wrap: wrap;
             justify-content: center;
-            gap: 6px;
-            margin: 10px 0 2px;
+            gap: 4px;
+            margin: 6px 0 2px;
         }
 
         .tally-pill {
-            padding: 3px 10px;
+            padding: 2px 8px;
             border-radius: 999px;
             background: #eef1f4;
             color: #495057;
-            font-size: 0.78rem;
+            font-size: 0.72rem;
             font-weight: 600;
             white-space: nowrap;
         }
@@ -626,9 +611,9 @@
 
         .roster-hint {
             text-align: center;
-            font-size: 0.75rem;
+            font-size: 0.7rem;
             color: #868e96;
-            margin: 6px 0 2px;
+            margin: 4px 0 0;
         }
 
         .roster-row:active {
@@ -1004,8 +989,6 @@
 
             <section class="person-grid-section" aria-label="Consultar ausências por dia">
                 <div class="grid-card" id="dayPickerCard"></div>
-                <div class="legend">Números = ausentes por categoria · <span class="legend-today">■</span> hoje ·
-                    arraste ↔ para mudar de mês</div>
                 <div class="roster-card" id="dayRosterCard"></div>
             </section>
 
@@ -1785,41 +1768,6 @@
                 }
             });
 
-            // Gestos: arrastar horizontalmente muda o mês (mobile)
-            let touchStartX = 0;
-            let touchStartY = 0;
-            let touchTracking = false;
-            const swipeArea = document.getElementById('appContent');
-
-            swipeArea.addEventListener('touchstart', function (e) {
-                if (document.querySelector('.modal.open') || e.touches.length !== 1) {
-                    touchTracking = false;
-                    return;
-                }
-                if (e.target.closest('button, a, input, select, label')) {
-                    touchTracking = false;
-                    return;
-                }
-                const touch = e.changedTouches[0];
-                touchStartX = touch.clientX;
-                touchStartY = touch.clientY;
-                touchTracking = true;
-            }, { passive: true });
-
-            swipeArea.addEventListener('touchend', function (e) {
-                if (!touchTracking) return;
-                touchTracking = false;
-                const touch = e.changedTouches[0];
-                const dx = touch.clientX - touchStartX;
-                const dy = touch.clientY - touchStartY;
-                if (Math.abs(dx) > 60 && Math.abs(dx) > Math.abs(dy) * 1.5) {
-                    if (dx < 0) {
-                        nextMonth();
-                    } else {
-                        previousMonth();
-                    }
-                }
-            }, { passive: true });
         }
     </script>
 </body>
