@@ -7,5 +7,3 @@ categories:
 ---
 
 {{< youtube 48_i5WS1Eic >}}
-
-Searching for music from Avishai, found this amazing drum performance!
